@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
+  </component>
+</application>
