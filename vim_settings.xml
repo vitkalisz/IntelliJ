@@ -3,356 +3,50 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/events.cljs" timestamp="1545783513603">
-        <mark key="[" line="107" column="53" />
-        <mark key="]" line="108" column="10" />
-        <mark key="^" line="108" column="10" />
-        <mark key="." line="108" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/test/src/cljs/test/views.cljs" timestamp="1543774030949">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/autoresize.cljs" timestamp="1546694116572">
-        <mark key="[" line="39" column="80" />
-        <mark key="]" line="14" column="44" />
-        <mark key="." line="14" column="44" />
-        <mark key="^" line="14" column="44" />
+      <file name="$USER_HOME$/IdeaProjects/test/src/test/core.clj" timestamp="1543702627390">
+        <mark key="[" line="5" column="2" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/common.cljs" timestamp="1546695684913">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="88" column="27" />
-        <mark key="." line="88" column="27" />
-        <mark key="^" line="88" column="27" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/autoresize.cljs" timestamp="1546696245068">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="9" />
-        <mark key="." line="15" column="9" />
-        <mark key="^" line="15" column="9" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/subs/orgpad.cljs" timestamp="1546626309401">
-        <mark key="[" line="87" column="16" />
-        <mark key="]" line="86" column="31" />
-        <mark key="." line="86" column="31" />
-        <mark key="^" line="86" column="31" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/subs.cljs" timestamp="1544916589778">
-        <mark key="[" line="21" column="10" />
-        <mark key="]" line="21" column="12" />
-        <mark key="^" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-      </file>
-      <file name="/REPL.clj" timestamp="1546625643536">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/subs/common.cljs" timestamp="1546216397575">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/orgpad.cljs" timestamp="1546261078510">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="117" column="74" />
-        <mark key="." line="117" column="60" />
-        <mark key="^" line="117" column="60" />
-      </file>
-      <file name="C:/Shared/orgpad/script/repl.clj" timestamp="1544815409599">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/core.cljs" timestamp="1545824299707">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="27" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-      </file>
-      <file name="/Dummy.regexp" timestamp="1544913104250">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/db.cljs" timestamp="1546692172336">
-        <mark key="[" line="109" column="30" />
-        <mark key="]" line="109" column="28" />
-        <mark key="." line="109" column="28" />
-        <mark key="^" line="109" column="28" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1546801010241">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/config.cljs" timestamp="1544899183490">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/subs/app_state.cljs" timestamp="1546694920083">
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="39" column="10" />
-        <mark key="." line="39" column="10" />
-        <mark key="^" line="39" column="10" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/unit_util.cljs" timestamp="1546641201842">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/root.cljs" timestamp="1546641393045">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="34" column="27" />
-        <mark key="^" line="34" column="27" />
-        <mark key="." line="34" column="27" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/css.cljs" timestamp="1546219099065">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="58" />
-        <mark key="." line="21" column="58" />
-        <mark key="^" line="21" column="58" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/unit.cljs" timestamp="1546641188906">
-        <mark key="'" line="69" column="51" />
-        <mark key="[" line="69" column="16" />
-        <mark key="]" line="70" column="44" />
-        <mark key="." line="70" column="44" />
-        <mark key="^" line="70" column="44" />
-      </file>
-      <file name="C:/Shared/orgpad/less/orgpad.less" timestamp="1545491256398">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/canvas.cljs" timestamp="1545774663385">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/util/common.cljs" timestamp="1546216525027">
-        <mark key="[" line="0" column="10" />
-      </file>
-      <file name="C:/Shared/orgpad/less/_units.less" timestamp="1546647435837">
-        <mark key="[" line="109" column="8" />
-        <mark key="]" line="109" column="18" />
-        <mark key="^" line="109" column="18" />
-        <mark key="." line="109" column="18" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/editor.cljs" timestamp="1546269967832">
-        <mark key="[" line="56" column="47" />
-        <mark key="]" line="56" column="71" />
-        <mark key="." line="56" column="71" />
-        <mark key="^" line="56" column="71" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/editor.cljs" timestamp="1546696177079">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="12" column="42" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/html2hiccup.cljs" timestamp="1546633993616">
-        <mark key="'" line="38" column="83" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="27" column="66" />
-        <mark key="." line="27" column="66" />
-        <mark key="^" line="27" column="66" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/app_state.cljs" timestamp="1546692287913">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/autoresize.cljs" timestamp="1546897696352" />
+      <file name="$USER_HOME$/IdeaProjects/test/project.clj" timestamp="1543766381967">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="2" column="29" filename="C:/Shared/orgpad/project.clj" />
-      <jump line="19" column="32" filename="C:/Shared/orgpad/project.clj" />
-      <jump line="37" column="30" filename="C:/Shared/orgpad/project.clj" />
-      <jump line="48" column="6" filename="C:/Shared/orgpad/project.clj" />
-      <jump line="20" column="3" filename="C:/Shared/orgpad/project.clj" />
-      <jump line="0" column="20" filename="/Dummy.txt" />
-      <jump line="3" column="35" filename="C:/Shared/orgpad/src/cljs/orgpad/views.cljs" />
-      <jump line="10" column="31" filename="C:/Shared/orgpad/src/cljs/orgpad/views.cljs" />
-      <jump line="27" column="31" filename="C:/Shared/orgpad/src/cljs/orgpad/views.cljs" />
-      <jump line="28" column="34" filename="C:/Shared/orgpad/src/cljs/orgpad/views.cljs" />
-      <jump line="0" column="0" filename="/REPL.clj" />
-      <jump line="29" column="0" filename="C:/Shared/orgpad/src/cljs/orgpad/events.cljs" />
-      <jump line="74" column="28" filename="C:/Shared/orgpad/src/cljs/orgpad/events.cljs" />
-      <jump line="88" column="30" filename="C:/Shared/orgpad/src/cljs/orgpad/events.cljs" />
-      <jump line="99" column="32" filename="C:/Shared/orgpad/src/cljs/orgpad/events.cljs" />
-      <jump line="23" column="39" filename="C:/Shared/orgpad/src/cljs/orgpad/views/editor.cljs" />
-      <jump line="0" column="34" filename="C:/Shared/orgpad/project.clj" />
-      <jump line="51" column="6" filename="C:/Shared/orgpad/project.clj" />
-      <jump line="3" column="18" filename="C:/Shared/orgpad/project.clj" />
-      <jump line="23" column="3" filename="C:/Shared/orgpad/project.clj" />
-      <jump line="33" column="83" filename="C:/Shared/orgpad/src/cljs/orgpad/events/html2hiccup.cljs" />
-      <jump line="107478" column="2" filename="C:/Shared/orgpad/externs/tinymce.min.js" />
-      <jump line="107524" column="3" filename="C:/Shared/orgpad/externs/tinymce.min.js" />
-      <jump line="107557" column="0" filename="C:/Shared/orgpad/externs/tinymce.min.js" />
-      <jump line="107560" column="3" filename="C:/Shared/orgpad/externs/tinymce.min.js" />
-      <jump line="3" column="33" filename="C:/Shared/orgpad/src/cljs/orgpad/subs/orgpad.cljs" />
-      <jump line="78" column="16" filename="C:/Shared/orgpad/src/cljs/orgpad/subs/orgpad.cljs" />
-      <jump line="91" column="15" filename="C:/Shared/orgpad/src/cljs/orgpad/subs/orgpad.cljs" />
-      <jump line="119" column="37" filename="C:/Shared/orgpad/src/cljs/orgpad/subs/orgpad.cljs" />
-      <jump line="130" column="9" filename="C:/Shared/orgpad/src/cljs/orgpad/subs/orgpad.cljs" />
-      <jump line="67" column="15" filename="C:/Shared/orgpad/src/cljs/orgpad/subs/orgpad.cljs" />
-      <jump line="72" column="51" filename="C:/Shared/orgpad/src/cljs/orgpad/views/unit.cljs" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWRkZWQgbW91c2UtZG93biBldmVudHMgdG8gdW5pdCBlZGl0b3IuCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>d</text>
-      </register>
-      <register name="/" type="4">
-        <text>unit-pos</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ozs7IFRPRE8gRURJVE9SIFNXQVBQSU5HIFdJVEggQVVUT1JFU0laRVMhIQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">QWRkZWQgbW91c2UtZG93biBldmVudHMgdG8gdW5pdCBlZGl0b3IuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">KHJmL3JlZy1ldmVudC1kYgogIDphcHAtc3RhdGUvcmVzb2x2ZS1yZXNpemUKICAoZm4gW2RiIFtfIHJlc2l6ZS1pZCB3aWR0aCBoZWlnaHRdXQogICAgKGxldCBbezphdXRvcmVzaXplL2tleXMgW29uLXJlc2l6ZS1mbl19IChjb21tb24vZ2V0LXJlc2l6ZS1pbmZvIGRiIHJlc2l6ZS1pZCldCiAgICAgICgtPiBkYiAoY29tbW9uL3VwZGF0ZS1hdXRvcmVzaXplIGRpc3NvYyByZXNpemUtaWQpCiAgICAgICAgICAob24tcmVzaXplLWZuIHdpZHRoIGhlaWdodCkpKSkpCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAib3B0aW1hbCIgb3B0aW1hbC1iYm94KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiYmJveGVzIiBiYm94ZXMpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYm94ZXMgKC0+PiBjb21wb25lbnQgci9kb20tbm9kZSAuLWNoaWxkcmVuIGFycmF5LXNlcSAobWFwIGdldC1zaXplKSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvci1mbiAoZm4gW1toIHddXQogICAgICAgICAgICAgICAgICAgKGxldCBbcmF0aW8gKC8gdyBoKQogICAgICAgICAgICAgICAgICAgICAgICAgb3B0aW1hbC1yYXRpbyAoZ2V0LW9wdGltYWwtcmF0aW8gaCldCiAgICAgICAgICAgICAgICAgICAgIHs6d2lkdGggIHcKICAgICAgICAgICAgICAgICAgICAgIDpoZWlnaHQgaAogICAgICAgICAgICAgICAgICAgICAgOmVycm9yICAoanMvTWF0aC5hYnMgKC0gb3B0aW1hbC1yYXRpbyByYXRpbykpfSkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYm94ZXMgKC0+PiBjb21wb25lbnQgci9kb20tbm9kZSAuLWNoaWxkcmVuIGFycmF5LXNlcSAobWFwIGdldC1zaXplKSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAocHJpbnRsbiBzIHMtcmF0aW8gdCB0LXJhdGlvKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIChqcy9jb25zb2xlLmxvZyBzIHQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
     </registers>
     <search>
-      <last-search>unit-pos</last-search>
-      <last-offset />
-      <last-pattern>unit-pos</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>site.css</entry>
-        <entry>subs</entry>
-        <entry>update-canvas</entry>
-        <entry>figwheel</entry>
-        <entry>tinymce</entry>
-        <entry>init</entry>
-        <entry>merge</entry>
-        <entry>unit-pos</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>v</entry>
-        <entry>Aw</entry>
-        <entry>wv</entry>
-        <entry>w\</entry>
-        <entry>m</entry>
-        <entry>wt</entry>
-        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>shift ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>shift ctrl pressed 6</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
