@@ -32,6 +32,9 @@
   <action id=":cursive.actions.paredit/slurp-forwards">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id=":cursive.actions.paredit/split">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id=":cursive.repl.actions/jump-to-repl">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -75,6 +78,7 @@
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
   <action id="Replace" />
+  <action id="SaveAll" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
