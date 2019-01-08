@@ -1,5 +1,6 @@
 <application>
   <component name="ClojureIdeSettings">
     <option name="coloredParentheses" value="true" />
+    <option name="loadFormsInReplNs" value="true" />
   </component>
 </application>

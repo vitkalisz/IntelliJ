@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/autoresize.cljs" timestamp="1546986040144">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/test/src/test/core.clj" timestamp="1543702627390">
         <mark key="[" line="5" column="2" />
       </file>
@@ -11,6 +17,11 @@
         <mark key="]" line="7" column="27" />
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
+      </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/common.cljs" timestamp="1546985899525">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/src/cljs/test/views.cljs" timestamp="1543774030949">
         <mark key="[" line="8" column="33" />
@@ -21,8 +32,14 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="1" type="2">
+        <text encoding="base64">KGRlZm4gcmVzaXplLWluZm8tcGF0aCBbaWRdCiAgKGNvbmogYXV0b3Jlc2l6ZS1wYXRoIGlkKSkKCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KGRlZm4gcmVzaXplLWluZm8tcGF0aCBbaWRdCiAgKGNvbmogYXV0b3Jlc2l6ZS1wYXRoIGlkKSkKCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ozs7IFRPRE86IEFERCBGSVJJTkcgQU5EIERCIFVQREFURSEhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
