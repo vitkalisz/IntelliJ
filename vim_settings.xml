@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/autoresize.cljs" timestamp="1546986040144">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="9" />
-        <mark key="." line="15" column="9" />
-        <mark key="^" line="15" column="9" />
+      <file name="/Dummy.txt" timestamp="1546986587000">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/autoresize.cljs" timestamp="1546987881283">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="23" />
+      </file>
+      <file name="/REPL.clj" timestamp="1546986116810">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/src/test/core.clj" timestamp="1543702627390">
         <mark key="[" line="5" column="2" />
@@ -18,10 +24,11 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/common.cljs" timestamp="1546985899525">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/common.cljs" timestamp="1546986953874">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="126" column="29" />
+        <mark key="." line="126" column="29" />
+        <mark key="^" line="126" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/src/cljs/test/views.cljs" timestamp="1543774030949">
         <mark key="[" line="8" column="33" />
@@ -32,13 +39,34 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">KGRlZm4gYXNzb2MtdW5pdC1lZGl0b3IgW2RiIHZhbF0KICAoYXNzb2MtaW4gZGIgdW5pdC1lZGl0b3ItcGF0aCB2YWwpKQo=</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">KGRlZm4gcmVzaXplLWluZm8tcGF0aCBbaWRdCiAgKGNvbmogYXV0b3Jlc2l6ZS1wYXRoIGlkKSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZm4gcmVzaXplLWluZm8tcGF0aCBbaWRdCiAgKGNvbmogYXV0b3Jlc2l6ZS1wYXRoIGlkKSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">KGRlZiB0ZXN0LWRiIHs6YXBwLXN0YXRlCiAgICAgICAgICAgICAgezphcHAtc3RhdGUvYXV0b3Jlc2l6ZQogICAgICAgICAgICAgICB7OmF1dG9yZXNpemUvcmVzaXplLWZucyAje3s6cmVzaXplLWZuL3Jlc2l6ZS1mbiAgICMocHJpbnRsbiAiQSIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpyZXNpemUtZm4vYXBwbHktYWZ0ZXIgI3sxIDJ9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHs6cmVzaXplLWZuL3Jlc2l6ZS1mbiAgICMoYXNzb2MgJSA6dGVzdCAiVEVTVCIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpyZXNpemUtZm4vYXBwbHktYWZ0ZXIgI3sxfX19fX19KQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIChwcmludGxuIGZucy10by1maXJlKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIChwcmludGxuIChzdHIgZm5zLXRvLWZpcmUpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIChwcmludGxuIChzdHIgcmVzaXplLWZucykpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAocHJpbnRsbiAoc3RyICgtPiBkYiBjb21tb24vZ2V0LXJlc2l6ZS1mbnMpKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">KGRlZm4gcmVzaXplLWluZm8tcGF0aCBbaWRdCiAgKGNvbmogYXV0b3Jlc2l6ZS1wYXRoIGlkKSkKCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Ozs7IFRPRE86IEFERCBGSVJJTkcgQU5EIERCIFVQREFURSEhCg==</text>
       </register>
       <register name=":" type="4">
@@ -55,6 +83,7 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>v</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
