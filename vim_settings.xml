@@ -3,14 +3,44 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/db.cljs" timestamp="1547065342534">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="100" column="4" />
+        <mark key="^" line="100" column="4" />
+        <mark key="." line="100" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1546999311727">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/autoresize.cljs" timestamp="1547061178935">
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="40" />
-        <mark key="." line="29" column="40" />
-        <mark key="^" line="29" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/test/project.clj" timestamp="1543766381967">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+      </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/autoresize.cljs" timestamp="1547064715109">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="67" />
+        <mark key="." line="20" column="67" />
+        <mark key="^" line="20" column="67" />
+      </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/css.cljs" timestamp="1547064428454">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+        <mark key="^" line="10" column="52" />
+      </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/common.cljs" timestamp="1547065097108">
+        <mark key="[" line="60" column="14" />
+        <mark key="]" line="60" column="18" />
+        <mark key="." line="60" column="18" />
+        <mark key="^" line="60" column="18" />
+      </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/autoresize.cljs" timestamp="1547064921127">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="33" column="40" />
+        <mark key="." line="33" column="40" />
+        <mark key="^" line="33" column="40" />
       </file>
       <file name="/REPL.clj" timestamp="1547030754693">
         <mark key="[" line="0" column="0" />
@@ -27,36 +57,18 @@
       <file name="$USER_HOME$/IdeaProjects/test/src/test/core.clj" timestamp="1543702627390">
         <mark key="[" line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/test/project.clj" timestamp="1543766381967">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/editor.cljs" timestamp="1547060951879">
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/editor.cljs" timestamp="1547065424389">
         <mark key="'" line="47" column="2" />
-        <mark key="[" line="64" column="6" />
-        <mark key="]" line="62" column="29" />
-        <mark key="." line="62" column="29" />
-        <mark key="^" line="62" column="29" />
+        <mark key="[" line="32" column="62" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+        <mark key="^" line="32" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/autoresize.cljs" timestamp="1547064658277">
-        <mark key="[" line="33" column="65" />
-        <mark key="]" line="33" column="65" />
-        <mark key="." line="33" column="65" />
-        <mark key="^" line="33" column="65" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/css.cljs" timestamp="1547064428454">
-        <mark key="[" line="10" column="50" />
-        <mark key="]" line="10" column="52" />
-        <mark key="." line="10" column="52" />
-        <mark key="^" line="10" column="52" />
-      </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/common.cljs" timestamp="1546998429492">
-        <mark key="[" line="176" column="6" />
-        <mark key="]" line="51" column="24" />
-        <mark key="." line="51" column="24" />
-        <mark key="^" line="51" column="24" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/orgpad.cljs" timestamp="1547065513013">
+        <mark key="[" line="104" column="24" />
+        <mark key="]" line="114" column="11" />
+        <mark key="^" line="114" column="11" />
+        <mark key="." line="114" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/src/cljs/test/views.cljs" timestamp="1543774030949">
         <mark key="[" line="8" column="33" />
@@ -70,13 +82,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAicmVzaXppbmciIHJlc2l6ZS1pZCB3aWR0aCBoZWlnaHQpCg==</text>
+        <text encoding="base64">KGRlZm4gZ2V0LXVuaXQtbWFwIFtkYiBpZF0KICAoZ2V0LWluIGRiIChvcmdwYWQtdW5pdC1wYXRoIGlkKSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoLT4gZGIgY29tbW9uL2dldC11bml0LWVkaXRvciA6dW5pdC1lZGl0b3IvdW5pdC1pZCkpCg==</text>
+        <text encoding="base64">KGRlZm4gZ2V0LXVuaXQtbWFwIFtkYiBpZF0KICAoZ2V0LWluIGRiIChvcmdwYWQtdW5pdC1wYXRoIGlkKSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAicmVzaXppbmciIHJlc2l6ZS1pZCB3aWR0aCBoZWlnaHQpCg==</text>
@@ -106,7 +118,7 @@
         <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -117,8 +129,8 @@
       <history-search />
       <history-cmd>
         <entry>v</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
