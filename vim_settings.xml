@@ -20,8 +20,11 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/unit_util.cljs" timestamp="1547148329711">
-        <mark key="[" line="27" column="20" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/unit_util.cljs" timestamp="1547240175503">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="25" column="36" />
+        <mark key="^" line="25" column="36" />
+        <mark key="." line="25" column="36" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/views/autoresize.cljs" timestamp="1547236616096">
         <mark key="[" line="48" column="54" />
@@ -47,7 +50,7 @@
         <mark key="^" line="38" column="24" />
         <mark key="." line="38" column="24" />
       </file>
-      <file name="/REPL.clj" timestamp="1547236856826">
+      <file name="/REPL.clj" timestamp="1547238245791">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -101,40 +104,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDsoanMvY29uc29sZS5sb2cgImVkaXRvci11aSIgaWQgdW5pdC1tYXApCg==</text>
+        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICJwYWdlIHJlcmVuZGVyZWQiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text encoding="base64">LT4ganM=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvL3otaW5kZXg6IC0xMDA7Cg==</text>
+        <text encoding="base64">ICAobGV0IFtvZmZzZXQteCAoLT4ganMtZXZlbnQgLi1uYXRpdmVFdmVudCAuLW9mZnNldFgpCiAgICAgICAgb2Zmc2V0LXkgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDsoanMvY29uc29sZS5sb2cgImVkaXRvci11aSIgaWQgdW5pdC1tYXApCg==</text>
+        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICJwYWdlIHJlcmVuZGVyZWQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA7KGpzL2NvbnNvbGUubG9nICJ0aW55bWNlLXdpbGwtdW5tb3VudDogIiBzdHItaWQpCg==</text>
+        <text encoding="base64">ICAgIDsoanMvY29uc29sZS5sb2cgImVkaXRvci11aSIgaWQgdW5pdC1tYXApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOm9yZ3BhZC9oZWlnaHQgICAgICAgICAyMDAK</text>
+        <text encoding="base64">ICA7KGpzL2NvbnNvbGUubG9nICJ0aW55bWNlLXdpbGwtdW5tb3VudDogIiBzdHItaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOm9yZ3BhZC93aWR0aCAgICAgICAgICAzMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOm9yZ3BhZC9oZWlnaHQgICAgICAgICAyMDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgOm9yZ3BhZC9oZWlnaHQgICAgMzAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOm9yZ3BhZC93aWR0aCAgICAgICAgICAzMDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgOm9yZ3BhZC93aWR0aCAgICAgNDUwCg==</text>
+        <text encoding="base64">ICAgICAgOm9yZ3BhZC9oZWlnaHQgICAgMzAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgOm9yZ3BhZC9oZWlnaHQgICAgMzUwCg==</text>
+        <text encoding="base64">ICAgICAgOm9yZ3BhZC93aWR0aCAgICAgNDUwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgOm9yZ3BhZC93aWR0aCAgICAgNTAwCg==</text>
+        <text encoding="base64">ICAgICAgOm9yZ3BhZC9oZWlnaHQgICAgMzUwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgOm9yZ3BhZC9oZWlnaHQgICAgICAgICAxNTAK</text>
+        <text encoding="base64">ICAgICAgOm9yZ3BhZC93aWR0aCAgICAgNTAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
