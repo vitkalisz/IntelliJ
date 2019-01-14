@@ -17,11 +17,17 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/less/_editor.less" timestamp="1547491622598">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/editor.cljs" timestamp="1547494674876">
+        <mark key="[" line="72" column="3" />
+        <mark key="]" line="72" column="28" />
+        <mark key="." line="72" column="28" />
+        <mark key="^" line="72" column="28" />
+      </file>
+      <file name="C:/Shared/orgpad/less/_editor.less" timestamp="1547493270727">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="81" column="27" />
+        <mark key="^" line="81" column="27" />
+        <mark key="." line="81" column="27" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/events/orgpad.cljs" timestamp="1547491327562">
         <mark key="[" line="131" column="0" />
@@ -36,12 +42,18 @@
         <text encoding="base64">QGltcG9ydCAiX3VuaXRzLmxlc3MiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmVkaXRvci1sZnQtcGFuZWwgewogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgbGVmdDogLTUwcHg7Cn0KCi5lZGl0b3ItcnQtcGFuZWwgewogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgcmlnaHQ6IC01MHB4Owp9CgouZ3JlZW4tYnRuIHsKICBiYWNrZ3JvdW5kLWNvbG9yOiBncmVlbjsKICBjb2xvcjogd2hpdGU7CiAgJjpob3ZlciB7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMzNjYzMzOwogIH0KfQoKLnJlZC1idG4gewogIGJhY2tncm91bmQtY29sb3I6IGRhcmtyZWQ7CiAgY29sb3I6IHdoaXRlOwogICY6aG92ZXIgewogICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmMzMwMDsKICB9Cn0KCi5lZGl0b3ItYnRuIHsKICB3aWR0aDogNDBweDsKICBoZWlnaHQ6IDQwcHg7CiAgYm9yZGVyLXJhZGl1czogMjBweDsKICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIGp1c3RpZnktY29udGVudDogY2VudGVyOwogIG1hcmdpbi1ib3R0b206IDVweDsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOnBhcmVudC1pZCBwYXJlbnQtaWQK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LmVkaXRvci1sZnQtcGFuZWwgewogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgbGVmdDogLTUwcHg7Cn0KCi5lZGl0b3ItcnQtcGFuZWwgewogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgcmlnaHQ6IC01MHB4Owp9CgouZ3JlZW4tYnRuIHsKICBiYWNrZ3JvdW5kLWNvbG9yOiBncmVlbjsKICBjb2xvcjogd2hpdGU7CiAgJjpob3ZlciB7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMzNjYzMzOwogIH0KfQoKLnJlZC1idG4gewogIGJhY2tncm91bmQtY29sb3I6IGRhcmtyZWQ7CiAgY29sb3I6IHdoaXRlOwogICY6aG92ZXIgewogICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmMzMwMDsKICB9Cn0KCi5lZGl0b3ItYnRuIHsKICB3aWR0aDogNDBweDsKICBoZWlnaHQ6IDQwcHg7CiAgYm9yZGVyLXJhZGl1czogMjBweDsKICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIGp1c3RpZnktY29udGVudDogY2VudGVyOwogIG1hcmdpbi1ib3R0b206IDVweDsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOnBhcmVudC1pZCBwYXJlbnQtaWQK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOnVuaXQtaWQgICBpZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LmVkaXRvci1sZnQtcGFuZWwgewogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgbGVmdDogLTUwcHg7Cn0KCi5lZGl0b3ItcnQtcGFuZWwgewogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgcmlnaHQ6IC01MHB4Owp9CgouZ3JlZW4tYnRuIHsKICBiYWNrZ3JvdW5kLWNvbG9yOiBncmVlbjsKICBjb2xvcjogd2hpdGU7CiAgJjpob3ZlciB7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMzNjYzMzOwogIH0KfQoKLnJlZC1idG4gewogIGJhY2tncm91bmQtY29sb3I6IGRhcmtyZWQ7CiAgY29sb3I6IHdoaXRlOwogICY6aG92ZXIgewogICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmMzMwMDsKICB9Cn0KCi5lZGl0b3ItYnRuIHsKICB3aWR0aDogNDBweDsKICBoZWlnaHQ6IDQwcHg7CiAgYm9yZGVyLXJhZGl1czogMjBweDsKICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIGp1c3RpZnktY29udGVudDogY2VudGVyOwogIG1hcmdpbi1ib3R0b206IDVweDsKfQoK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">LnVuaXQtZWRpdG9yIHsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdXNlci1zZWxlY3Q6IG5vbmU7CiAgei1pbmRleDogMjsKICBkaXNwbGF5OiBmbGV4OwogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CgogIC50aXRsZSB7CiAgICBmb250LWZhbWlseTogVmVyZGFuYSwgR2VuZXZhLCBzYW5zLXNlcmlmOwogICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZmZmZjAwOwogICAgb3V0bGluZTogMXB4IGRvdHRlZCAjMzMzOwogICAgYm9yZGVyLXdpZHRoOiAwcHg7CiAgfQoKICAudGl0bGU6Zm9jdXMgewogICAgb3V0bGluZTogMXB4IHNvbGlkICMzMzM7CiAgfQoKICAudGlueW1jZS13cmFwcGVyIHsKICAgIGZsZXgtZ3JvdzogMTsKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICAudGlueW1jZS1pbm5lciB7CiAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgICAgZmxleC1kaXJlY3Rpb246IHJvdzsKICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgLnRpbnltY2UgewogICAgICAgICBvdmVyZmxvdy15OiBhdXRvOwogICAgICAgICBmbGV4LWdyb3c6IDE7CiAgICAgICAgIG91dGxpbmU6IDFweCBkb3R0ZWQgIzMzMzsKICAgICAgIH0KICAgICAgIC50aW55bWNlOmZvY3VzIHsKICAgICAgICAgb3V0bGluZTogMXB4IHNvbGlkICMzMzM7CiAgICAgICB9CiAgICB9CiAgICB6LWluZGV4OiAzOwogIH0KCiAgLnRpbnltY2UtdG9vbGJhciB7CiAgICBkaXNwbGF5OiBmbGV4OwogICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgfQp9Cgo=</text>
       </register>
       <register name=":" type="4">
@@ -60,6 +72,88 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
