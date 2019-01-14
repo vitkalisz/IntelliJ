@@ -23,17 +23,23 @@
         <mark key="." line="72" column="28" />
         <mark key="^" line="72" column="28" />
       </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/editor.cljs" timestamp="1547497271434">
+        <mark key="[" line="90" column="38" />
+        <mark key="]" line="94" column="37" />
+        <mark key="^" line="94" column="37" />
+        <mark key="." line="94" column="37" />
+      </file>
       <file name="C:/Shared/orgpad/less/_editor.less" timestamp="1547493270727">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="81" column="27" />
         <mark key="^" line="81" column="27" />
         <mark key="." line="81" column="27" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/orgpad.cljs" timestamp="1547496463188">
-        <mark key="[" line="157" column="22" />
-        <mark key="]" line="111" column="23" />
-        <mark key="^" line="111" column="23" />
-        <mark key="." line="111" column="23" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/orgpad.cljs" timestamp="1547497919006">
+        <mark key="[" line="161" column="47" />
+        <mark key="]" line="161" column="52" />
+        <mark key="^" line="161" column="52" />
+        <mark key="." line="161" column="52" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/events/app_state.cljs" timestamp="1547495985191">
         <mark key="[" line="53" column="43" />
@@ -45,13 +51,13 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAiX3VuaXRzLmxlc3MiOwo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBuZXctcGFnZS1pZCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOnBhcmVudC1pZCBwYXJlbnQtaWQK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOnBhcmVudC1pZCBwYXJlbnQtaWQK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBuZXctcGFnZS1pZCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOnVuaXQtaWQgICBpZAo=</text>
