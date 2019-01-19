@@ -3,17 +3,196 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/panel.cljs" timestamp="1547918307704">
+        <mark key="'" line="6" column="14" />
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+      </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/db.cljs" timestamp="1547918223422">
+        <mark key="[" line="105" column="35" />
+        <mark key="]" line="105" column="35" />
+        <mark key="^" line="105" column="35" />
+        <mark key="." line="105" column="35" />
+      </file>
       <file name="/REPL.clj" timestamp="1547913462281">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/root.cljs" timestamp="1547915904129">
+        <mark key="[" line="41" column="15" />
+        <mark key="^" line="41" column="57" />
+      </file>
+      <file name="C:/Shared/orgpad/less/_root.less" timestamp="1547915958770">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="8" />
+        <mark key="^" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+      </file>
+      <file name="C:/Shared/orgpad/less/_editor.less" timestamp="1547915019883">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="16" column="3" />
+      </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/orgpad.cljs" timestamp="1547916310828">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/less/_panel.less" timestamp="1547918426273">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="60" column="20" />
+      </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/css.cljs" timestamp="1547916902418">
+        <mark key="[" line="15" column="95" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+      </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/common.cljs" timestamp="1547914758356">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+        <mark key="^" line="167" column="0" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="6" column="14" filename="C:/Shared/orgpad/src/cljs/orgpad/views/panel.cljs" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy9ib3JkZXI6IDFweCBzb2xpZCAjMzMzOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>;</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBib3JkZXItcmlnaHQ6IDFweCBzb2xpZCAjMzMzOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLy9ib3JkZXI6IDFweCBzb2xpZCAjMzMzOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdDogMXB4IHNvbGlkICMzMzM7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmbGV4LWdyb3c6IDE7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZmxleC1ncm93OiAxOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMHB4Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcGFkZGluZzogNXB4Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDVweDsKICAgIGJvcmRlcjogMXB4IGRvdHRlZCAjMzMzOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAibmV3LXRpdGxlIiBuZXctdGl0bGUpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIChsaXN0Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-cmd>
+        <entry>wa</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
