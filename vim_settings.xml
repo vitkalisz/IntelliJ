@@ -9,6 +9,9 @@
         <mark key="^" line="101" column="40" />
         <mark key="." line="101" column="40" />
       </file>
+      <file name="/Dummy.txt" timestamp="1547998141836">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/subs/app_state.cljs" timestamp="1547938889088">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="13" column="38" />
