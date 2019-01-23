@@ -50,8 +50,11 @@
         <mark key="." line="15" column="9" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="C:/Shared/tmp/resolution/src/resolution/core.clj" timestamp="1548281821012">
-        <mark key="[" line="2" column="0" />
+      <file name="C:/Shared/tmp/resolution/src/resolution/core.clj" timestamp="1548283692826">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/views/canvas.cljs" timestamp="1545774663385">
         <mark key="[" line="17" column="0" />
@@ -145,11 +148,11 @@
       <jump line="72" column="51" filename="C:/Shared/orgpad/src/cljs/orgpad/views/unit.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWRkZWQgbW91c2UtZG93biBldmVudHMgdG8gdW5pdCBlZGl0b3IuCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>unit-pos</text>
