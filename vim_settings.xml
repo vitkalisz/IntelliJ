@@ -65,11 +65,11 @@
       <file name="/Dummy.txt" timestamp="1548968700902">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/util/geom.cljs" timestamp="1549047804264">
-        <mark key="[" line="51" column="24" />
-        <mark key="]" line="50" column="15" />
-        <mark key="^" line="50" column="15" />
-        <mark key="." line="50" column="15" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/util/geom.cljs" timestamp="1549048278906">
+        <mark key="[" line="50" column="66" />
+        <mark key="]" line="62" column="57" />
+        <mark key="^" line="62" column="57" />
+        <mark key="." line="62" column="57" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/subs/app_state.cljs" timestamp="1547938889088">
         <mark key="[" line="9" column="0" />
@@ -135,13 +135,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2IFsoLSB4MyB4MSkgKC0geTMgeTEpXQo=</text>
+        <text encoding="base64">ICAgV2UgYXJlIGFzc3VtaW5nIHRoYXQgdGhlIHBvaW50cyBkZWZpbmluZyB0aGUgbGluZSBhcmUgZGlzdGluY3QuIgo=</text>
       </register>
       <register name="-" type="4">
         <text>C</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2IFsoLSB4MyB4MSkgKC0geTMgeTEpXQo=</text>
+        <text encoding="base64">ICAgV2UgYXJlIGFzc3VtaW5nIHRoYXQgdGhlIHBvaW50cyBkZWZpbmluZyB0aGUgbGluZSBhcmUgZGlzdGluY3QuIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RmluaXNoZWQK</text>
