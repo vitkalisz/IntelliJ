@@ -105,17 +105,17 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1548966848378">
-        <mark key="[" line="13" column="60" />
-        <mark key="]" line="13" column="62" />
-        <mark key="^" line="13" column="62" />
-        <mark key="." line="13" column="62" />
+      <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1549052713291">
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="13" column="70" />
+        <mark key="^" line="13" column="70" />
+        <mark key="." line="13" column="70" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/unit.cljs" timestamp="1547933403550">
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="11" column="41" />
-        <mark key="." line="11" column="41" />
-        <mark key="^" line="11" column="41" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/unit.cljs" timestamp="1549053554506">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="31" />
+        <mark key="." line="38" column="31" />
+        <mark key="^" line="38" column="31" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/events/panel.cljs" timestamp="1547985192567">
         <mark key="[" line="5" column="5" />
@@ -141,7 +141,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgV2UgYXJlIGFzc3VtaW5nIHRoYXQgdGhlIHBvaW50cyBkZWZpbmluZyB0aGUgbGluZSBhcmUgZGlzdGluY3QuIgo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBsaW5rLW1hcCBkcmF3LWluZm8gKGhpZ2hsaWdodC1zdHlsZSBkcmF3LWluZm8pKQo=</text>
       </register>
       <register name="-" type="4">
         <text>C</text>
@@ -150,31 +150,31 @@
         <text encoding="base64">ICAgV2UgYXJlIGFzc3VtaW5nIHRoYXQgdGhlIHBvaW50cyBkZWZpbmluZyB0aGUgbGluZSBhcmUgZGlzdGluY3QuIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RmluaXNoZWQK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBsaW5rLW1hcCBkcmF3LWluZm8gKGhpZ2hsaWdodC1zdHlsZSBkcmF3LWluZm8pKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RmluaXNoZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA7Om5wbSB7OmRlcGVuZGVuY2llcyBbWyJAdGlueW1jZS90aW55bWNlLXJlYWN0IiAiMi40LjAiXSBbdGlueW1jZSAiNC45LjIiXV19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA7Om5wbSB7OmRlcGVuZGVuY2llcyBbWyJAdGlueW1jZS90aW55bWNlLXJlYWN0IiAiMi40LjAiXSBbdGlueW1jZSAiNC45LjIiXV19Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA6Zmlnd2hlZWwgezpjc3MtZGlycyAgICAgWyJyZXNvdXJjZXMvcHVibGljL2NzcyJdCiAgICAgICAgICAgICA6cmluZy1oYW5kbGVyIG9yZ3BhZC5oYW5kbGVyL2Rldi1oYW5kbGVyfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICA6Zmlnd2hlZWwgezpjc3MtZGlycyAgICAgWyJyZXNvdXJjZXMvcHVibGljL2NzcyJdCiAgICAgICAgICAgICA6cmluZy1oYW5kbGVyIG9yZ3BhZC5oYW5kbGVyL2Rldi1oYW5kbGVyfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA6Y2xqc2J1aWxkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgWzpkaXYuZ2FwXQo=</text>
+        <text encoding="base64">ICA6Y2xqc2J1aWxkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
