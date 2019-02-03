@@ -151,17 +151,18 @@
         <mark key="^" line="99" column="84" />
         <mark key="." line="99" column="84" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/editor.cljs" timestamp="1549202543372">
-        <mark key="[" line="45" column="50" />
-        <mark key="]" line="62" column="48" />
-        <mark key="." line="62" column="48" />
-        <mark key="^" line="62" column="48" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/editor.cljs" timestamp="1549205620502">
+        <mark key="'" line="92" column="40" />
+        <mark key="[" line="95" column="17" />
+        <mark key="]" line="95" column="41" />
+        <mark key="." line="95" column="41" />
+        <mark key="^" line="95" column="41" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/app_state.cljs" timestamp="1549202443813">
-        <mark key="[" line="56" column="9" />
-        <mark key="]" line="48" column="27" />
-        <mark key="^" line="48" column="27" />
-        <mark key="." line="48" column="27" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/app_state.cljs" timestamp="1549205646670">
+        <mark key="[" line="54" column="49" />
+        <mark key="]" line="54" column="52" />
+        <mark key="^" line="54" column="52" />
+        <mark key="." line="54" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -169,67 +170,69 @@
       <jump line="38" column="5" filename="C:/Shared/orgpad/src/cljs/orgpad/events/common.cljs" />
       <jump line="91" column="13" filename="C:/Shared/orgpad/src/cljs/orgpad/events/common.cljs" />
       <jump line="172" column="22" filename="C:/Shared/orgpad/src/cljs/orgpad/events/common.cljs" />
+      <jump line="92" column="40" filename="C:/Shared/orgpad/src/cljs/orgpad/events/editor.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZm4gYXNzb2MtdW5pdC1lZGl0b3IgW2RiIHZhbF0KICAoYXNzb2MtaW4gZGIgdW5pdC1lZGl0b3ItcGF0aCB2YWwpKQoK</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cpCg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>mouse-pos-path</text>
+        <text>get-link-editor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZm4gYXNzb2MtdW5pdC1lZGl0b3IgW2RiIHZhbF0KICAoYXNzb2MtaW4gZGIgdW5pdC1lZGl0b3ItcGF0aCB2YWwpKQoK</text>
+        <text encoding="base64">ICAgICAgICB7Om1vdXNlLXBvcy9rZXlzIFt4IHkgbmVhcmVzdC1saW5rLWlkIG5lYXJlc3QtbGluay10aW1lXX0gKGNvbW1vbi9nZXQtbW91c2UtcG9zIGRiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtvcmdwYWQuZXZlbnRzLmxpbmstZWRpdG9yIDphcyBsaW5rLWVkaXRvcl0K</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bW91c2UtZG93bi90eXBlIHR5cGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bW91c2UtZG93bi9pZCBpZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptb3VzZS1kb3duL3BhcmVudC1pZCBwYXJlbnQtaWQK</text>
+        <text encoding="base64">ICAgICAgICB7Om1vdXNlLXBvcy9rZXlzIFt4IHkgbmVhcmVzdC1saW5rLWlkIG5lYXJlc3QtbGluay10aW1lXX0gKGNvbW1vbi9nZXQtbW91c2UtcG9zIGRiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1vdXNlLWRvd24vdHlwZSA6b3JncGFkL3VuaXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1vdXNlLWRvd24vaWQgaWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1vdXNlLWRvd24vcGFyZW50LWlkIHBhcmVudC1pZAo=</text>
+        <text encoding="base64">ICAgIFtvcmdwYWQuZXZlbnRzLmxpbmstZWRpdG9yIDphcyBsaW5rLWVkaXRvcl0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bW91c2UtZG93bi90eXBlIDpvcmdwYWQvY2FudmFzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bW91c2UtZG93bi90eXBlIHR5cGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bW91c2UtZG93bi9pZCBpZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptb3VzZS1kb3duL3BhcmVudC1pZCBwYXJlbnQtaWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiSGlnaGxpZ2h0aW5nPyIgY2hpbGQtbGluay1pZHMgbmVhcmVzdC1saW5rLWlkIClNCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1vdXNlLWRvd24vdHlwZSA6b3JncGFkL3VuaXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1vdXNlLWRvd24vaWQgaWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1vdXNlLWRvd24vcGFyZW50LWlkIHBhcmVudC1pZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZSAoY3NzL3VuaXQtY3NzLXN0eWxlIHVuaXQtbWFwIHJvb3Q/KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bW91c2UtZG93bi90eXBlIDpvcmdwYWQvY2FudmFzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RpdmU/ICg9IGlkICg6bW91c2UtcG9zL25lYXJlc3QtbGluay1pZCBAKHJmL3N1YnNjcmliZSBbOmFwcC1zdGF0ZS9tb3VzZS1wb3NdKSkpCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiSGlnaGxpZ2h0aW5nPyIgY2hpbGQtbGluay1pZHMgbmVhcmVzdC1saW5rLWlkIClNCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB6LWluZGV4OiAxOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZSAoY3NzL3VuaXQtY3NzLXN0eWxlIHVuaXQtbWFwIHJvb3Q/KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3RpdmU/ICg9IGlkICg6bW91c2UtcG9zL25lYXJlc3QtbGluay1pZCBAKHJmL3N1YnNjcmliZSBbOmFwcC1zdGF0ZS9tb3VzZS1wb3NdKSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mouse-pos-path</last-search>
+      <last-search>get-link-editor</last-search>
       <last-offset />
-      <last-pattern>mouse-pos-path</last-pattern>
+      <last-pattern>get-link-editor</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>mouse-pos-path</entry>
+        <entry>get-link-editor</entry>
       </history-search>
       <history-cmd>
         <entry>m</entry>
         <entry>wm</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
