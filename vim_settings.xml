@@ -70,7 +70,7 @@
         <mark key="^" line="101" column="40" />
         <mark key="." line="101" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549221961777">
+      <file name="/Dummy.txt" timestamp="1549322142373">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -172,12 +172,12 @@
         <mark key="." line="91" column="11" />
         <mark key="^" line="91" column="11" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/app_state.cljs" timestamp="1549320137343">
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/app_state.cljs" timestamp="1549320182942">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="123" column="10" />
-        <mark key="]" line="123" column="12" />
-        <mark key="^" line="123" column="12" />
-        <mark key="." line="123" column="12" />
+        <mark key="]" line="119" column="55" />
+        <mark key="^" line="119" column="55" />
+        <mark key="." line="119" column="55" />
       </file>
     </filemarks>
     <jumps>
