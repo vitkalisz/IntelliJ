@@ -22,11 +22,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/subs/orgpad.cljs" timestamp="1547986010358">
-        <mark key="[" line="57" column="35" />
-        <mark key="]" line="57" column="40" />
-        <mark key="." line="57" column="40" />
-        <mark key="^" line="57" column="40" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/subs/orgpad.cljs" timestamp="1549527788747">
+        <mark key="[" line="128" column="34" />
+        <mark key="]" line="96" column="29" />
+        <mark key="." line="130" column="28" />
+        <mark key="^" line="130" column="28" />
       </file>
       <file name="/REPL.clj" timestamp="1548969952379">
         <mark key="[" line="0" column="0" />
@@ -198,7 +198,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChwcmludGxuICJtaWQtcG9pbnQiIG1pZC1wb2ludCkK</text>
+        <text encoding="base64">ICA6PC0gWzphcHAtc3RhdGUvbW91c2UtZG93bl0K</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -207,7 +207,7 @@
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZm1ldGhvZCBoYW5kbGUtbW91c2UtdXAgWzptb3VzZS9jbGljayA6bGluay1lZGl0b3IvZGVsZXRlXQogIFtkYiBfIHs6bW91c2UtZG93bi9rZXlzIFtpZF19XQogIFsoLT4gZGIgZWRpdG9yL2RlYWN0aXZhdGUtZWRpdG9yIChvcmdwYWQvcmVtb3ZlLWxpbmsgaWQpKSBmYWxzZV0pCg==</text>
+        <text encoding="base64">ICA6PC0gWzphcHAtc3RhdGUvbW91c2UtZG93bl0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIChwcmludGxuICJtaWQtcG9pbnQiIG1pZC1wb2ludCkK</text>
