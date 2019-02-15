@@ -78,11 +78,12 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/util/geom.cljs" timestamp="1550269315100">
-        <mark key="[" line="162" column="12" />
-        <mark key="]" line="156" column="17" />
-        <mark key="^" line="156" column="17" />
-        <mark key="." line="156" column="17" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/util/geom.cljs" timestamp="1550270097656">
+        <mark key="'" line="168" column="2" />
+        <mark key="[" line="159" column="41" />
+        <mark key="]" line="159" column="30" />
+        <mark key="^" line="159" column="30" />
+        <mark key="." line="159" column="30" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/subs/app_state.cljs" timestamp="1549580197128">
         <mark key="[" line="38" column="0" />
@@ -201,10 +202,11 @@
       <jump line="10" column="8" filename="C:/Shared/orgpad/src/cljs/orgpad/events/editor.cljs" />
       <jump line="19" column="12" filename="C:/Shared/orgpad/src/cljs/orgpad/views/link.cljs" />
       <jump line="0" column="0" filename="/REPL.clj" />
+      <jump line="163" column="2" filename="C:/Shared/orgpad/src/cljs/orgpad/util/geom.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhaWwtbGVmdCAoZ2VvbS92ZWMrIGhlYWQgKGdlb20vcm90IHRhaWwtdmVjICgtIGFycm93aGVhZC1hbmdsZSkpKQogICAgICAgICAgdGFpbC1yaWdodCAoZ2VvbS92ZWMrIGhlYWQgKGdlb20vcm90IHRhaWwtdmVjIGFycm93aGVhZC1hbmdsZSkpCg==</text>
+        <text encoding="base64">KGRlZm4gYmV6aWVyLWRlcml2YXRpdmUKICAiQSBub3JtYWxpemVkIHZlY3RvciB0YW5nZW50IHRvIGEgcG9pbnQgb2YgYSBxdWFkcmF0aWMgYmV6aWVyIGN1cnZlIG9mIGdpdmVuIHRpbWUuIgogIFtiZXogdF0KICAoLT4gYmV6ICguZGVyaXZhdGl2ZSB0KSBqcy0+cG9pbnQgbm9ybWFsaXplKSkKCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -213,7 +215,7 @@
         <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhaWwtbGVmdCAoZ2VvbS92ZWMrIGhlYWQgKGdlb20vcm90IHRhaWwtdmVjICgtIGFycm93aGVhZC1hbmdsZSkpKQogICAgICAgICAgdGFpbC1yaWdodCAoZ2VvbS92ZWMrIGhlYWQgKGdlb20vcm90IHRhaWwtdmVjIGFycm93aGVhZC1hbmdsZSkpCg==</text>
+        <text encoding="base64">KGRlZm4gYmV6aWVyLWRlcml2YXRpdmUKICAiQSBub3JtYWxpemVkIHZlY3RvciB0YW5nZW50IHRvIGEgcG9pbnQgb2YgYSBxdWFkcmF0aWMgYmV6aWVyIGN1cnZlIG9mIGdpdmVuIHRpbWUuIgogIFtiZXogdF0KICAoLT4gYmV6ICguZGVyaXZhdGl2ZSB0KSBqcy0+cG9pbnQgbm9ybWFsaXplKSkKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
