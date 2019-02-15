@@ -78,8 +78,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="C:/Shared/orgpad/src/cljs/orgpad/util/geom.cljs" timestamp="1550241059058">
-        <mark key="[" line="2" column="0" />
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/util/geom.cljs" timestamp="1550265932925">
+        <mark key="[" line="106" column="18" />
+        <mark key="]" line="152" column="33" />
+        <mark key="^" line="152" column="33" />
+        <mark key="." line="152" column="33" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/subs/app_state.cljs" timestamp="1549580197128">
         <mark key="[" line="38" column="0" />
