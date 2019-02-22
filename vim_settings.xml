@@ -77,12 +77,12 @@
         <mark key="^" line="112" column="78" />
         <mark key="." line="112" column="78" />
       </file>
-      <file name="C:/Shared/exp/dev-config.edn" timestamp="1550795825784">
+      <file name="C:/Shared/exp/dev-config.edn" timestamp="1550799279386">
         <mark key="'" line="10" column="1" />
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="79" />
-        <mark key="^" line="10" column="79" />
-        <mark key="." line="10" column="79" />
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="67" />
+        <mark key="^" line="10" column="67" />
+        <mark key="." line="10" column="67" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/events/orgpad.cljs" timestamp="1547580229393">
         <mark key="[" line="16" column="26" />
