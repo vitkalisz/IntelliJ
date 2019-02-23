@@ -14,6 +14,12 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="C:/Shared/exp/resources/html/home.html" timestamp="1550938484089">
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="14" />
+        <mark key="^" line="43" column="14" />
+        <mark key="." line="43" column="14" />
+      </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/events/events.cljs" timestamp="1545783513603">
         <mark key="[" line="107" column="53" />
         <mark key="]" line="108" column="10" />
@@ -62,17 +68,19 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="C:/Shared/exp/project.clj" timestamp="1550938436098">
+        <mark key="'" line="67" column="57" />
+      </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/util/common.cljs" timestamp="1546216525027">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="C:/Shared/exp/src/clj/exp/core.clj" timestamp="1550935877483" />
       <file name="C:/Shared/orgpad/src/cljs/orgpad/subs.cljs" timestamp="1544916589778">
         <mark key="[" line="21" column="10" />
         <mark key="]" line="21" column="12" />
         <mark key="^" line="21" column="12" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="/REPL.clj" timestamp="1550932456414">
+      <file name="/REPL.clj" timestamp="1550938213390">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/exp/dev-config.edn" timestamp="1550932595994">
@@ -81,7 +89,7 @@
         <mark key="^" line="10" column="67" />
         <mark key="." line="10" column="67" />
       </file>
-      <file name="C:/Shared/exp/src/cljs/exp/core.cljs" timestamp="1550932660706">
+      <file name="C:/Shared/exp/src/cljs/exp/core.cljs" timestamp="1550939141058">
         <mark key="[" line="6" column="66" />
         <mark key="]" line="6" column="73" />
         <mark key="^" line="6" column="73" />
@@ -92,6 +100,12 @@
         <mark key="]" line="4" column="19" />
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
+      </file>
+      <file name="C:/Shared/exp/shadow-cljs.edn" timestamp="1550939498145">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="60" />
+        <mark key="^" line="8" column="60" />
+        <mark key="." line="8" column="60" />
       </file>
       <file name="C:/Shared/orgpad/script/repl.clj" timestamp="1544815409599">
         <mark key="[" line="0" column="0" />
@@ -142,6 +156,9 @@
       <jump line="130" column="9" filename="C:/Shared/orgpad/src/cljs/orgpad/subs/orgpad.cljs" />
       <jump line="67" column="15" filename="C:/Shared/orgpad/src/cljs/orgpad/subs/orgpad.cljs" />
       <jump line="72" column="51" filename="C:/Shared/orgpad/src/cljs/orgpad/views/unit.cljs" />
+      <jump line="104" column="61" filename="C:/Shared/exp/project.clj" />
+      <jump line="66" column="56" filename="C:/Shared/exp/project.clj" />
+      <jump line="67" column="57" filename="C:/Shared/exp/project.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -151,7 +168,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>unit-pos</text>
+        <text>app\.js</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICBbcmVhZ2VudCAiMC43LjAiXQogICAgICAgICAgICAgICAgIFtyZS1mcmFtZSAiMC4xMC41Il0K</text>
@@ -188,9 +205,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unit-pos</last-search>
+      <last-search>app\.js</last-search>
       <last-offset />
-      <last-pattern>unit-pos</last-pattern>
+      <last-pattern>app\.js</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -204,6 +221,7 @@
         <entry>init</entry>
         <entry>merge</entry>
         <entry>unit-pos</entry>
+        <entry>app\.js</entry>
       </history-search>
       <history-cmd>
         <entry>v</entry>
