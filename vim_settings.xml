@@ -68,6 +68,9 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/events/orgpad.cljs" timestamp="1551120563423">
+        <mark key="'" line="229" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/script/repl.clj" timestamp="1544815409599">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -121,6 +124,12 @@
       <file name="C:/Shared/orgpad/src/cljs/orgpad/util/common.cljs" timestamp="1546216525027">
         <mark key="[" line="0" column="10" />
       </file>
+      <file name="C:/Shared/orgpad/src/cljs/orgpad/views/editor.cljs" timestamp="1551120875579">
+        <mark key="[" line="156" column="41" />
+        <mark key="]" line="153" column="41" />
+        <mark key="^" line="153" column="41" />
+        <mark key="." line="153" column="41" />
+      </file>
       <file name="C:/Shared/exp/src/cljs/exp/core.cljs" timestamp="1550939141058">
         <mark key="[" line="6" column="66" />
         <mark key="]" line="6" column="73" />
@@ -172,6 +181,7 @@
       <jump line="67" column="57" filename="C:/Shared/exp/project.clj" />
       <jump line="107" column="41" filename="C:/Shared/exp/project.clj" />
       <jump line="15" column="26" filename="C:/Shared/exp/project.clj" />
+      <jump line="229" column="0" filename="C:/Shared/orgpad/src/cljs/orgpad/events/orgpad.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -181,7 +191,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>migration</text>
+        <text>insert-page</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZkNzAwOwo=</text>
@@ -218,9 +228,9 @@
       </register>
     </registers>
     <search>
-      <last-search>migration</last-search>
+      <last-search>insert-page</last-search>
       <last-offset />
-      <last-pattern>migration</last-pattern>
+      <last-pattern>insert-page</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -236,6 +246,7 @@
         <entry>unit-pos</entry>
         <entry>app\.js</entry>
         <entry>migration</entry>
+        <entry>insert-page</entry>
       </history-search>
       <history-cmd>
         <entry>v</entry>
