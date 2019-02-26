@@ -121,11 +121,11 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/project.clj" timestamp="1551221012593">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="7" column="31" />
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1551222336634">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="30" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/common.cljs" timestamp="1551217358052">
         <mark key="[" line="3" column="28" />
@@ -214,7 +214,7 @@
         <mark key="[" line="8" column="20" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551221268384">
+      <file name="/Dummy.txt" timestamp="1551221299008">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -323,11 +323,11 @@
       <jump line="229" column="0" filename="C:/Shared/orgpad/src/cljs/orgpad/events/orgpad.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">L3B1YmxpYy9qcy9jb21waWxlZAo=</text>
+      <register name="&quot;" type="4">
+        <text>Added .idea into .gitignore</text>
       </register>
       <register name="-" type="4">
-        <text>Restructuring namespaces into client and serv</text>
+        <text>Added .idea into .gitignore</text>
       </register>
       <register name="/" type="4">
         <text>insert-page</text>
