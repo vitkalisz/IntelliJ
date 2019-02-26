@@ -115,10 +115,6 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/html2hiccup.cljs" timestamp="1551216646231">
-        <mark key="[" line="0" column="11" />
-        <mark key="." line="0" column="17" />
-      </file>
       <file name="C:/Shared/orgpad/project.clj" timestamp="1551216801470">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="12" column="21" />
@@ -158,6 +154,11 @@
         <mark key="]" line="14" column="44" />
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="44" />
+      </file>
+      <file name="C:/Shared/orgpad/less/_editor.less" timestamp="1551120177032">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/config.cljs" timestamp="1551216449633">
         <mark key="[" line="0" column="11" />
@@ -208,6 +209,11 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/views/editor.cljs" timestamp="1551217415200">
         <mark key="[" line="8" column="20" />
         <mark key="." line="8" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1551219706827">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1551216530881">
         <mark key="[" line="8" column="12" />
