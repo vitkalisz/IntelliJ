@@ -75,11 +75,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1551216847434">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1551303384139">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/config.cljs" timestamp="1544899183490">
         <mark key="[" line="4" column="0" />
@@ -121,11 +121,11 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/project.clj" timestamp="1551222336634">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="6" column="30" />
-        <mark key="." line="6" column="30" />
-        <mark key="^" line="6" column="30" />
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1551303025936">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="1" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/common.cljs" timestamp="1551217358052">
         <mark key="[" line="3" column="28" />
@@ -323,8 +323,8 @@
       <jump line="229" column="0" filename="C:/Shared/orgpad/src/cljs/orgpad/events/orgpad.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Added .idea into .gitignore</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAoKDpzdGFydCBzZXJ2ZXIpKSkK</text>
       </register>
       <register name="-" type="4">
         <text>Added .idea into .gitignore</text>
@@ -336,31 +336,31 @@
         <text encoding="base64">L3B1YmxpYy9qcy9jb21waWxlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbY29tcG9qdXJlICIxLjUuMCJdCg==</text>
+        <text encoding="base64">ICAoKDpzdGFydCBzZXJ2ZXIpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbcmluZyAiMS40LjAiXQo=</text>
+        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IHNlcnZlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbaGlja29yeSAiMC43LjEiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbY29tcG9qdXJlICIxLjUuMCJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbcmVhZ2VudCAiMC43LjAiXQogICAgICAgICAgICAgICAgIFtyZS1mcmFtZSAiMC4xMC41Il0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbcmluZyAiMS40LjAiXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICNiZGI3NmI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbaGlja29yeSAiMC43LjEiXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBkYXJrcmVkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbcmVhZ2VudCAiMC43LjAiXQogICAgICAgICAgICAgICAgIFtyZS1mcmFtZSAiMC4xMC41Il0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmQ3MDA7Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICNiZGI3NmI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmYzMzAwOwo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBkYXJrcmVkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RkYgRDcgMDAK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmQ3MDA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
