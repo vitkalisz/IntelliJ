@@ -57,6 +57,9 @@
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="21" />
       </file>
+      <file name="C:/Shared/exp/project.clj" timestamp="1551430675024">
+        <mark key="'" line="50" column="20" />
+      </file>
       <file name="/REPL.clj" timestamp="1547499052955">
         <mark key="[" line="0" column="0" />
       </file>
@@ -105,6 +108,10 @@
     <jumps>
       <jump line="15" column="19" filename="C:/Shared/orgpad/src/cljs/orgpad/views/mouse_events.cljs" />
       <jump line="10" column="1" filename="C:/Shared/exp/dev-config.edn" />
+      <jump line="117" column="25" filename="C:/Shared/exp/project.clj" />
+      <jump line="126" column="44" filename="C:/Shared/exp/project.clj" />
+      <jump line="131" column="45" filename="C:/Shared/exp/project.clj" />
+      <jump line="50" column="20" filename="C:/Shared/exp/project.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -112,6 +119,9 @@
       </register>
       <register name="-" type="4">
         <text encoding="base64">QWRkZWQgbWFraW5nIG9mIA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>resource</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGRlZm4gaGFuZGxlLW1vdXNlLXVwIFtqcy1ldmVudF0KICAoLnN0b3BQcm9wYWdhdGlvbiBqcy1ldmVudCkKICAocmYvZGlzcGF0Y2ggWzphcHAtc3RhdGUvaGFuZGxlLW1vdXNlLXVwIChtb3VzZS1jb29yZCBqcy1ldmVudCldKSkKCg==</text>
@@ -148,11 +158,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>resource</last-search>
+      <last-offset />
+      <last-pattern>resource</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>resource</entry>
+      </history-search>
       <history-cmd>
         <entry>wa</entry>
         <entry>w</entry>
