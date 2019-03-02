@@ -98,6 +98,9 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1551542903719">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/link.cljs" timestamp="1551217441981">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="7" column="27" />
@@ -245,9 +248,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1551216530881">
-        <mark key="[" line="8" column="12" />
-        <mark key="." line="8" column="18" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1551542754198">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+        <mark key="^" line="19" column="21" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1551217405166">
         <mark key="[" line="2" column="20" />
