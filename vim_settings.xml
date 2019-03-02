@@ -80,11 +80,11 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1551482910848">
-        <mark key="[" line="30" column="69" />
-        <mark key="]" line="30" column="104" />
-        <mark key="." line="30" column="104" />
-        <mark key="^" line="30" column="104" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1551539235191">
+        <mark key="[" line="27" column="61" />
+        <mark key="]" line="27" column="47" />
+        <mark key="." line="27" column="47" />
+        <mark key="^" line="27" column="47" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/config.cljs" timestamp="1544899183490">
         <mark key="[" line="4" column="0" />
@@ -208,7 +208,7 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="/REPL.clj" timestamp="1551482176227">
+      <file name="/REPL.clj" timestamp="1551539125475">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -344,7 +344,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGxvZy9lcnJvciAic3ViLXJlc291cmNlIiBwYXRoLWluZm8pCg==</text>
+        <text encoding="base64">ICAgIChjbG9qdXJlLnBwcmludC9wcHJpbnQgKHlhZGEucmVzb3VyY2VzLnJlc291cmNlcy1yZXNvdXJjZS9uZXctcmVzb3VyY2VzLXJlc291cmNlICJwdWJsaWMiKSkK</text>
       </register>
       <register name="-" type="4">
         <text>Added .idea into .gitignore</text>
@@ -353,34 +353,34 @@
         <text>insert-page</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoLmFkZFNodXRkb3duSG9vayAoUnVudGltZS9nZXRSdW50aW1lKSAoVGhyZWFkLiBzdG9wLWFwcCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBbImpzLyIgKHlhZGEucmVzb3VyY2VzLnJlc291cmNlcy1yZXNvdXJjZS9uZXctcmVzb3VyY2VzLXJlc291cmNlICJwdWJsaWMvY3NzIildCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGxvZy9lcnJvciAic3ViLXJlc291cmNlIiBwYXRoLWluZm8pCg==</text>
+        <text encoding="base64">ICAgIChjbG9qdXJlLnBwcmludC9wcHJpbnQgKHlhZGEucmVzb3VyY2VzLnJlc291cmNlcy1yZXNvdXJjZS9uZXctcmVzb3VyY2VzLXJlc291cmNlICJwdWJsaWMiKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAobG9nL2luZm8gKGNsaS9wYXJzZS1vcHRzIGFyZ3MgY2xpLW9wdGlvbnMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGxvZy9lcnJvciAic3ViLXJlc291cmNlIiBwYXRoLWluZm8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAobG9nL2luZm8gYXJncykK</text>
+        <text encoding="base64">ICAobG9nL2luZm8gKGNsaS9wYXJzZS1vcHRzIGFyZ3MgY2xpLW9wdGlvbnMpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IGNvbmZpZy9lbnYpCg==</text>
+        <text encoding="base64">ICAobG9nL2luZm8gYXJncykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAobG9nL2luZm8gIlN0YXJ0aW5nIFdlYnNlcnZlciBvbiBwb3J0IiAoY29uZmlnL2VudiA6cG9ydCkpCg==</text>
+        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IGNvbmZpZy9lbnYpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKGNsb2p1cmUucHByaW50L3BwcmludCAoOm9wdGlvbnMgKG0vYXJncykpKQo=</text>
+        <text encoding="base64">ICAobG9nL2luZm8gIlN0YXJ0aW5nIFdlYnNlcnZlciBvbiBwb3J0IiAoY29uZmlnL2VudiA6cG9ydCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKGNsb2p1cmUucHByaW50L3BwcmludCAobS9hcmdzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKGNsb2p1cmUucHByaW50L3BwcmludCAoOm9wdGlvbnMgKG0vYXJncykpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKGNsb2p1cmUucHByaW50L3BwcmludCAobS9hcmdzKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
