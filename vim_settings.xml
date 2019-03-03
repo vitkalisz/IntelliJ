@@ -86,11 +86,11 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1551615763659">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="29" />
+      <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1551656199467">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/link.cljs" timestamp="1551217441981">
         <mark key="[" line="5" column="4" />
@@ -210,10 +210,10 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="/REPL.clj" timestamp="1551626508033">
+      <file name="/REPL.clj" timestamp="1551656002464">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/resources.clj" timestamp="1551625222939">
+      <file name="C:/Shared/orgpad/src/orgpad/server/resources.clj" timestamp="1551656248002">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="19" column="37" />
         <mark key="." line="19" column="37" />
@@ -254,7 +254,7 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db.cljs" timestamp="1551450764265">
+      <file name="C:/Shared/orgpad/src/orgpad/client/db.cljs" timestamp="1551656490809">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -376,7 +376,7 @@
         <text encoding="base64">ICAobG9nL2luZm8gKGNsaS9wYXJzZS1vcHRzIGFyZ3MgY2xpLW9wdGlvbnMpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -409,8 +409,8 @@
         <entry>m</entry>
         <entry>wt</entry>
         <entry>w\</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
