@@ -80,17 +80,17 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/.gitignore" timestamp="1551443918650">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="11" column="15" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="11" column="15" />
+      <file name="C:/Shared/orgpad/.gitignore" timestamp="1551625530546">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1551623609071">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="29" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1551625314225">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="50" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/config.cljs" timestamp="1544899183490">
         <mark key="[" line="4" column="0" />
@@ -208,6 +208,12 @@
         <mark key="." line="15" column="9" />
         <mark key="^" line="15" column="9" />
       </file>
+      <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1551626330004">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="57" />
+        <mark key="^" line="10" column="57" />
+        <mark key="." line="10" column="57" />
+      </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/subs.cljs" timestamp="1544916589778">
         <mark key="[" line="21" column="10" />
         <mark key="]" line="21" column="12" />
@@ -220,17 +226,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="/REPL.clj" timestamp="1551539125475">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/resources.clj" timestamp="1551615829094">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="16" column="26" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/resources.clj" timestamp="1551625222939">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="37" />
       </file>
       <file name="C:/Shared/exp/dev-config.edn" timestamp="1550932595994">
         <mark key="[" line="10" column="1" />
@@ -252,7 +252,7 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551221299008">
+      <file name="/Dummy.txt" timestamp="1551625741702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -363,11 +363,11 @@
       <jump line="229" column="0" filename="C:/Shared/orgpad/src/cljs/orgpad/events/orgpad.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5zZXJ2ZXIubnJlcGwgOmFzIG5yZXBsXQo=</text>
+      <register name="&quot;" type="4">
+        <text>Git cleanup and .gitignore updat</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Git cleanup and .gitignore updat</text>
       </register>
       <register name="/" type="4">
         <text>insert-page</text>
