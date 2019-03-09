@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Shared/orgpad/less/_editor.less" timestamp="1550409394901">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="99" column="16" />
-        <mark key="^" line="99" column="16" />
-        <mark key="." line="99" column="16" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="113" column="16" />
+        <mark key="^" line="113" column="16" />
+        <mark key="." line="113" column="16" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/events/common.cljs" timestamp="1550271928040">
         <mark key="'" line="181" column="22" />
@@ -120,12 +120,6 @@
         <mark key="]" line="13" column="35" />
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
-      </file>
-      <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1549655389197">
-        <mark key="[" line="8" column="47" />
-        <mark key="]" line="10" column="60" />
-        <mark key="^" line="10" column="60" />
-        <mark key="." line="10" column="60" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/views/unit.cljs" timestamp="1550276288999">
         <mark key="'" line="60" column="42" />
