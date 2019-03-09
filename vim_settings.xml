@@ -3,11 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/env/dev/clj/user.clj" timestamp="1552145576464">
-        <mark key="[" line="38" column="39" />
-        <mark key="]" line="38" column="45" />
-        <mark key="." line="38" column="45" />
-        <mark key="^" line="38" column="45" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1552156433868">
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/migrations/20190309191500-add-styles-table.down.sql" timestamp="1552155334504">
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/migrations/20190309191900-add-templates-table.up.sql" timestamp="1552156081749">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/test-config.edn" timestamp="1552130038516">
         <mark key="[" line="2" column="1" />
@@ -54,14 +61,15 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309180300-add-orgpages-table.up.sql" timestamp="1552152099932">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309180300-add-orgpages-table.up.sql" timestamp="1552155926141">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309181600-add-usergroups-table.up.sql" timestamp="1552151828814">
-        <mark key="[" line="0" column="13" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309181600-add-usergroups-table.up.sql" timestamp="1552155952717">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/resources/sql/queries.sql" timestamp="1552152174785">
         <mark key="[" line="3" column="26" />
@@ -102,11 +110,10 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309170600-add-users-table.up.sql" timestamp="1552152135474">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="9" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309170600-add-users-table.up.sql" timestamp="1552155906224">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/project.clj" timestamp="1552145523097">
         <mark key="[" line="14" column="52" />
@@ -120,6 +127,10 @@
       <file name="C:/Shared/orgpad/resources/migrations/20190309180300-add-orgpages-table.down.sql" timestamp="1552151061269">
         <mark key="[" line="0" column="11" />
       </file>
+      <file name="C:/Shared/orgpad/resources/migrations/20190309192200-add-styles-orgpages-table.up.sql" timestamp="1552156096394">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="24" />
+      </file>
       <file name="C:/Shared/orgpad/less/_editor.less" timestamp="1550409394901">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="113" column="16" />
@@ -132,8 +143,10 @@
         <mark key="." line="35" column="78" />
         <mark key="^" line="35" column="78" />
       </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309182600-add-links-table.up.sql" timestamp="1552152420395">
-        <mark key="[" line="0" column="14" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309182600-add-links-table.up.sql" timestamp="1552156033895">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/subs/orgpad.cljs" timestamp="1549568823725">
         <mark key="[" line="139" column="0" />
@@ -167,11 +180,6 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552130637927">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/subs/app_state.cljs" timestamp="1549580197128">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -183,11 +191,10 @@
         <mark key="^" line="12" column="8" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309182000-add-units-table.up.sql" timestamp="1552152109602">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309182000-add-units-table.up.sql" timestamp="1552155984358">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/public/index.html" timestamp="1548963764966">
         <mark key="[" line="8" column="20" />
@@ -197,6 +204,20 @@
       </file>
       <file name="C:/Shared/orgpad/resources/migrations/20190309181600-add-usergroups-table.down.sql" timestamp="1552151822154">
         <mark key="[" line="0" column="18" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/migrations/20190309191900-add-templates-table.down.sql" timestamp="1552155578678">
+        <mark key="[" line="0" column="11" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/migrations/20190309191500-add-styles-table.up.sql" timestamp="1552156043756">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/migrations/20190309170500-add-uuid-extension.up.sql" timestamp="1552156048165">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="50" column="22" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="22" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/events/panel.cljs" timestamp="1547985192567">
         <mark key="[" line="5" column="5" />
@@ -209,8 +230,19 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190223151734-add-users-table.up.sql" timestamp="1552147560520">
-        <mark key="^" line="4" column="19" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309191900-add-styles-orgpages-table.up.sql" timestamp="1552155714968">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/migrations/20190309191900-add-styles-orgpages-table.down.sql" timestamp="1552155674223">
+        <mark key="[" line="0" column="13" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1552156107574">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -236,7 +268,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IGxhc3RfbmFtZSBWQVJDSEFSLAo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIHN0eWxlc19vcmdwYWdlcwooc3R5bGUgdXVpZCBOT1QgTlVMTCwKIG9yZ3BhZ2UgdXVpZCBOT1QgTlVMTCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -245,37 +277,37 @@
         <text>start-app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZm1ldGhvZCBoYW5kbGUtbW91c2UtdXAgWzptb3VzZS9jbGljayA6dW5pdC1lZGl0b3IvY2hhbmdlLXN0eWxlXQogIFtkYiBfIHs6bW91c2UtZG93bi9rZXlzIFtwYXJlbnQtaWRdfV0KICBbKG9yZ3BhZC9jaGFuZ2UtdW5pdC10by1jdXJyZW50LXN0eWxlIGRiIHBhcmVudC1pZCkgZmFsc2VdKQo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIHN0eWxlc19vcmdwYWdlcwooc3R5bGUgdXVpZCBOT1QgTlVMTCwKIG9yZ3BhZ2UgdXVpZCBOT1QgTlVMTCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IGxhc3RfbmFtZSBWQVJDSEFSLAo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIHRlbXBsYXRlcwooaWQgdXVpZCBQUklNQVJZIEtFWSwKIHZhbCBqc29uLAogb3duZXIgdXVpZCBOT1QgTlVMTCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IGZpcnN0X25hbWUgVkFSQ0hBUiwK</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIHN0eWxlcwooaWQgdXVpZCBQUklNQVJZIEtFWSwKIHZhbCBqc29uLAogb3duZXIgdXVpZCBOT1QgTlVMTCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1JFQVRFIEVYVEVOU0lPTiBJRiBOT1QgRVhJU1RTICJ1dWlkLW9zc3AiOwo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGxpbmtzCihpZCB1dWlkIFBSSU1BUlkgS0VZLAogdmFsIGpzb24sCiBvcmdwYWdlIHV1aWQgTk9UIE5VTEwsCiBvd25lciB1dWlkIE5PVCBOVUxMKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IGVtYWlsIFZBUkNIQVIgTk9UIE5VTEwsCg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIHVuaXRzCihpZCB1dWlkIFBSSU1BUlkgS0VZLAogdmFsIGpzb24sCiBvcmdwYWdlIHV1aWQgTk9UIE5VTEwsCiBvd25lciB1dWlkIE5PVCBOVUxMKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IGVtYWlsIFZBUkNIQVIgTk9UIE5VTEwsCg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIHVzZXJncm91cHMKKGlkIHV1aWQgUFJJTUFSWSBLRVksCiBuYW1lIFZBUkNIQVIgTk9UIE5VTEwsCiBlbWFpbCBWQVJDSEFSIE5PVCBOVUxMLAogcGFzcyBqc29uIE5PVCBOVUxMLAogdmFsIGpzb24pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IHBhc3MganNvbiBOT1QgTlVMTAo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIG9yZ3BhZ2VzCihpZCB1dWlkIFBSSU1BUlkgS0VZLAogdmFsIGpzb24sCiBvd25lciB1dWlkIE5PVCBOVUxMKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IGFkbWluIEJPT0xFQU4sCg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIHVzZXJzCihpZCB1dWlkIFBSSU1BUlkgS0VZLAogdXNlcm5hbWUgVkFSQ0hBUiBOT1QgTlVMTCwKIGVtYWlsIFZBUkNIQVIgTk9UIE5VTEwsCiBwYXNzIGpzb24gTk9UIE5VTEwsCiB2YWwganNvbiwKIGxhc3RfbG9naW4gVElNRVNUQU1QLAogaXNfYWN0aXZlIEJPT0xFQU4pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5zZXJ2ZXIuY29yZSA6cmVmZXIgW3N0YXJ0LWFwcF1dCg==</text>
+        <text encoding="base64">IG93bmVyIHV1aWQgTk9UIE5VTEwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IHZhbCBqc29uLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -298,10 +330,12 @@
       <history-cmd>
         <entry>m</entry>
         <entry>wm</entry>
-        <entry>wv</entry>
         <entry>vw</entry>
-        <entry>wa</entry>
+        <entry>wv</entry>
+        <entry>wa;</entry>
         <entry>w</entry>
+        <entry>wa'</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
