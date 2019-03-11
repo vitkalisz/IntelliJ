@@ -191,6 +191,12 @@
         <mark key="^" line="12" column="8" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/resources/sql/orgpages.sql" timestamp="1552339231871">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
+      </file>
       <file name="C:/Shared/orgpad/resources/migrations/20190309182000-add-units-table.up.sql" timestamp="1552155984358">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -230,6 +236,10 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/resources/sql/users.sql" timestamp="1552338865635">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="14" />
+      </file>
       <file name="C:/Shared/orgpad/resources/migrations/20190309191900-add-styles-orgpages-table.up.sql" timestamp="1552155714968">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -268,7 +278,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIHN0eWxlc19vcmdwYWdlcwooc3R5bGUgdXVpZCBOT1QgTlVMTCwKIG9yZ3BhZ2UgdXVpZCBOT1QgTlVMTCk7Cg==</text>
+        <text encoding="base64">LS0gOm5hbWUgY3JlYXRlLXVzZXIhIDohIDpuCi0tIDpkb2MgY3JlYXRlcyBhIG5ldyB1c2VyIHJlY29yZApJTlNFUlQgSU5UTyB1c2VycwooaWQsIHVzZXJuYW1lLCBlbWFpbCwgcGFzcykKVkFMVUVTICg6aWQsIDp1c2VybmFtZSwgOmVtYWlsLCA6cGFzcywgOmZpcnN0X25hbWUsIDpsYXN0X25hbWUpCgotLSA6bmFtZSB1cGRhdGUtdXNlciEgOiEgOm4KLS0gOmRvYyB1cGRhdGVzIGFuIGV4aXN0aW5nIHVzZXIgcmVjb3JkClVQREFURSB1c2VycwpTRVQgdmFsID0gOnZhbCwgZW1haWwgPSA6ZW1haWwsIHBhc3MgPSA6cGFzcwpXSEVSRSBpZCA9IDppZAoKLS0gOm5hbWUgZ2V0LXVzZXIgOj8gOjEKLS0gOmRvYyByZXRyaWV2ZXMgYSB1c2VyIHJlY29yZCBnaXZlbiB0aGUgaWQKU0VMRUNUICogRlJPTSB1c2VycwpXSEVSRSBpZCA9IDppZAoKLS0gOm5hbWUgZ2V0LXVzZXJzIDo/IDoqCi0tIDpkb2MgZ2V0cyBhbGwgdXNlciByZWNvcmRzClNFTEVDVCAqIEZST00gdXNlcnMKCi0tIDpuYW1lIGRlbGV0ZS11c2VyISA6ISA6bgotLSA6ZG9jIGRlbGV0ZXMgYSB1c2VyIHJlY29yZCBnaXZlbiB0aGUgaWQKREVMRVRFIEZST00gdXNlcnMKV0hFUkUgaWQgPSA6aWQK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -277,7 +287,7 @@
         <text>start-app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIHN0eWxlc19vcmdwYWdlcwooc3R5bGUgdXVpZCBOT1QgTlVMTCwKIG9yZ3BhZ2UgdXVpZCBOT1QgTlVMTCk7Cg==</text>
+        <text encoding="base64">LS0gOm5hbWUgY3JlYXRlLXVzZXIhIDohIDpuCi0tIDpkb2MgY3JlYXRlcyBhIG5ldyB1c2VyIHJlY29yZApJTlNFUlQgSU5UTyB1c2VycwooaWQsIHVzZXJuYW1lLCBlbWFpbCwgcGFzcykKVkFMVUVTICg6aWQsIDp1c2VybmFtZSwgOmVtYWlsLCA6cGFzcywgOmZpcnN0X25hbWUsIDpsYXN0X25hbWUpCgotLSA6bmFtZSB1cGRhdGUtdXNlciEgOiEgOm4KLS0gOmRvYyB1cGRhdGVzIGFuIGV4aXN0aW5nIHVzZXIgcmVjb3JkClVQREFURSB1c2VycwpTRVQgdmFsID0gOnZhbCwgZW1haWwgPSA6ZW1haWwsIHBhc3MgPSA6cGFzcwpXSEVSRSBpZCA9IDppZAoKLS0gOm5hbWUgZ2V0LXVzZXIgOj8gOjEKLS0gOmRvYyByZXRyaWV2ZXMgYSB1c2VyIHJlY29yZCBnaXZlbiB0aGUgaWQKU0VMRUNUICogRlJPTSB1c2VycwpXSEVSRSBpZCA9IDppZAoKLS0gOm5hbWUgZ2V0LXVzZXJzIDo/IDoqCi0tIDpkb2MgZ2V0cyBhbGwgdXNlciByZWNvcmRzClNFTEVDVCAqIEZST00gdXNlcnMKCi0tIDpuYW1lIGRlbGV0ZS11c2VyISA6ISA6bgotLSA6ZG9jIGRlbGV0ZXMgYSB1c2VyIHJlY29yZCBnaXZlbiB0aGUgaWQKREVMRVRFIEZST00gdXNlcnMKV0hFUkUgaWQgPSA6aWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Q1JFQVRFIFRBQkxFIHRlbXBsYXRlcwooaWQgdXVpZCBQUklNQVJZIEtFWSwKIHZhbCBqc29uLAogb3duZXIgdXVpZCBOT1QgTlVMTCk7Cg==</text>
