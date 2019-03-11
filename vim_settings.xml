@@ -8,11 +8,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/env/dev/clj/user.clj" timestamp="1552342422388">
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="44" />
-        <mark key="." line="26" column="44" />
-        <mark key="^" line="26" column="44" />
+      <file name="C:/Shared/orgpad/env/dev/clj/user.clj" timestamp="1552343417770">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="142" />
+        <mark key="." line="27" column="142" />
+        <mark key="^" line="27" column="142" />
       </file>
       <file name="C:/Shared/orgpad/resources/migrations/20190309191500-add-styles-table.down.sql" timestamp="1552155334504">
         <mark key="[" line="0" column="13" />
@@ -240,11 +240,11 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="4" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1552341988612">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1552343426548">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="6" />
+        <mark key="^" line="24" column="6" />
+        <mark key="." line="24" column="6" />
       </file>
       <file name="C:/Shared/orgpad/resources/sql/users.sql" timestamp="1552338865635">
         <mark key="[" line="0" column="0" />
@@ -283,7 +283,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gOm5hbWUgZ2V0LXN0eWxlIDo/IDoxCi0tIDpkb2MgcmV0cmlldmVzIGEgc3R5bGUgZ2l2ZW4gdGhlIGlkClNFTEVDVCAqIEZST00gc3R5bGVzCldIRVJFIGlkID0gOmlkCgo=</text>
+        <text encoding="base64">KGFwcGx5IGNvbm1hbi9iaW5kLWNvbm5lY3Rpb24gKmRiKiBzcWwtZmlsZXMpCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -292,7 +292,7 @@
         <text>start-app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0gOm5hbWUgZ2V0LXN0eWxlIDo/IDoxCi0tIDpkb2MgcmV0cmlldmVzIGEgc3R5bGUgZ2l2ZW4gdGhlIGlkClNFTEVDVCAqIEZST00gc3R5bGVzCldIRVJFIGlkID0gOmlkCgo=</text>
+        <text encoding="base64">KGFwcGx5IGNvbm1hbi9iaW5kLWNvbm5lY3Rpb24gKmRiKiBzcWwtZmlsZXMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Q1JFQVRFIFRBQkxFIHRlbXBsYXRlcwooaWQgdXVpZCBQUklNQVJZIEtFWSwKIHZhbCBqc29uLAogb3duZXIgdXVpZCBOT1QgTlVMTCk7Cg==</text>
