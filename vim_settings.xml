@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1552156433868">
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/env/dev/clj/user.clj" timestamp="1552464509687">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="29" />
@@ -123,11 +118,11 @@
       <file name="C:/Shared/orgpad/resources/migrations/20190309180300-add-orgpages-table.down.sql" timestamp="1552151061269">
         <mark key="[" line="0" column="11" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1552512883616">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="31" />
-        <mark key="^" line="4" column="31" />
-        <mark key="." line="4" column="31" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1552513702991">
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="39" column="19" />
+        <mark key="^" line="39" column="19" />
+        <mark key="." line="39" column="19" />
       </file>
       <file name="C:/Shared/orgpad/less/_editor.less" timestamp="1550409394901">
         <mark key="[" line="109" column="0" />
@@ -148,6 +143,9 @@
         <mark key="^" line="150" column="13" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/resources.clj" timestamp="1552503945907" />
+      <file name="/REPL.clj" timestamp="1552513343458">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/events/link_editor.cljs" timestamp="1549202187397">
         <mark key="[" line="0" column="29" />
       </file>
@@ -264,11 +262,11 @@
       <jump line="8" column="8" filename="C:/Shared/orgpad/resources/sql/usergroups.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZm4tIGdlbi11bml0LXN0eWxlIFtpZCBuYW1lIHRpdGxlLXNpemUgd2lkdGggY29ybmVyLXJhZGl1cyBmcmFtZS1jb2xvciBiZy1jb2xvcl0KICB7aWQgezpvcmdwYWQvaWQgICAgICAgICBpZAogICAgICAgOm9yZ3BhZC9zdHlsZS10eXBlIDpzdHlsZS91bml0CiAgICAgICA6b3JncGFkL3RpdGxlICAgICAgbmFtZQogICAgICAgOm9yZ3BhZC9wcm9wcyAgICAgIHs6cHJvcHMvZnJhbWUgICAgezpmcmFtZS9jb2xvciAgICAgICAgIGZyYW1lLWNvbG9yCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmZyYW1lL3dpZHRoICAgICAgICAgd2lkdGgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZnJhbWUvY29ybmVyLXJhZGl1cyBjb3JuZXItcmFkaXVzfQogICAgICAgICAgICAgICAgICAgICAgICAgICA6cHJvcHMvdGl0bGUgICAgezp0aXRsZS9zaXplICB0aXRsZS1zaXplCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRpdGxlL2FsaWduIDpjZW50ZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dGl0bGUvY29sb3IgZnJhbWUtY29sb3J9CiAgICAgICAgICAgICAgICAgICAgICAgICAgIDpwcm9wcy9iZy1jb2xvciBiZy1jb2xvcgogICAgICAgICAgICAgICAgICAgICAgICAgICA6cHJvcHMvcGFkZGluZyAgMTB9fX0pCgooZGVmbi0gZ2VuLXVuaXQtc3R5bGVzIFtpZCBuYW1lIGZyYW1lLWNvbG9yIGJnLWNvbG9yXQogIChtZXJnZSAoZ2VuLXVuaXQtc3R5bGUgKHN0ciAidW5pdC0iIGlkICItaDEiKSBuYW1lIDpoMSA2IDI1IGZyYW1lLWNvbG9yIGJnLWNvbG9yKQogICAgICAgICAoZ2VuLXVuaXQtc3R5bGUgKHN0ciAidW5pdC0iIGlkICItaDIiKSBuYW1lIDpoMiA0IDE1IGZyYW1lLWNvbG9yIGJnLWNvbG9yKSkpCgooZGVmbi0gZ2VuLWRlZmF1bHQtdW5pdC1zdHlsZXMgW10KICAobWVyZ2UKICAgIChnZW4tdW5pdC1zdHlsZXMgInJlZCIgIlJlZCIgIiNkYjQ0MDAiICIjZmZjN2I1IikKICAgIChnZW4tdW5pdC1zdHlsZXMgImdyZWVuIiAiR3JlZW4iICIjNTRiYTQyIiAiI2M5ZmZiYyIpCiAgICAoZ2VuLXVuaXQtc3R5bGVzICJncmF5IiAiR3JheSIgIiM4MzgzODMiICIjZWJlYmViIikKICAgIChnZW4tdW5pdC1zdHlsZXMgInllbGxvdyIgIlllbGxvdyIgIiNlNmI0MmYiICIjZmZlYjg5IikKICAgIChnZW4tdW5pdC1zdHlsZXMgImJsdWUiICJCbHVlIiAiIzAzYTBmZCIgIiNjMmU4ZmYiKQogICAgKGdlbi11bml0LXN0eWxlcyAidGVhbCIgIlRlYWwiICIjMDA4MDgwIiAiIzQwZTBkMCIpCiAgICAoZ2VuLXVuaXQtc3R5bGVzICJwdXJwbGUiICJQdXJwbGUiICIjOGEyYmUyIiAiI2M5OTVmZiIpCiAgICAoZ2VuLXVuaXQtc3R5bGVzICJicm93biIgIkJyb3duIiAiIzkxNWUxOCIgIiNmZmQ5OTEiKSkpCgooZGVmbi0gZ2VuLWxpbmstc3R5bGUgW2lkIG5hbWUgd2lkdGggdHlwZSBjb2xvciBmaWxsLWNvbG9yXQogIChtYXBzL2RlZXAtbWVyZ2UKICAgIHtpZCB7Om9yZ3BhZC9pZCAgICAgICAgIGlkCiAgICAgICAgIDpvcmdwYWQvc3R5bGUtdHlwZSA6c3R5bGUvbGluawogICAgICAgICA6b3JncGFkL3RpdGxlICAgICAgbmFtZQogICAgICAgICA6b3JncGFkL3Byb3BzICAgICAgezpwcm9wcy9jb2xvciBjb2xvcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpwcm9wcy93aWR0aCB3aWR0aH19fQogICAgKHdoZW4gKG5vdD0gdHlwZSA6dW5kaXJlY3RlZCkKICAgICAge2lkIHs6b3JncGFkL3Byb3BzIHs6cHJvcHMvYXJyb3doZWFkIHs6YXJyb3doZWFkL3R5cGUgICAgICAgdHlwZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDphcnJvd2hlYWQvdGltZSAgICAgICAwLjUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YXJyb3doZWFkL2xlbmd0aCAgICAgKCogNSB3aWR0aCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YXJyb3doZWFkL2ZpbGwtY29sb3IgZmlsbC1jb2xvcn19fX0pKSkKCihkZWZuLSBnZW4tbGluay1zdHlsZXMgW2lkIG5hbWUgY29sb3IgZmlsbC1jb2xvcl0KICAobWVyZ2UgKGdlbi1saW5rLXN0eWxlIChzdHIgImxpbmstIiBpZCAiLXVuZGlyZWN0ZWQiKSBuYW1lIDQgOnVuZGlyZWN0ZWQgY29sb3IgZmlsbC1jb2xvcikKICAgICAgICAgKGdlbi1saW5rLXN0eWxlIChzdHIgImxpbmstIiBpZCAiLXNpbXBsZSIpIG5hbWUgNCA6c2ltcGxlIGNvbG9yIGZpbGwtY29sb3IpCiAgICAgICAgIChnZW4tbGluay1zdHlsZSAoc3RyICJsaW5rLSIgaWQgIi1maWxsZWQiKSBuYW1lIDQgOmZpbGxlZCBjb2xvciBmaWxsLWNvbG9yKQogICAgICAgICAoZ2VuLWxpbmstc3R5bGUgKHN0ciAibGluay0iIGlkICItZG91YmxlIikgbmFtZSA0IDpkb3VibGUgY29sb3IgZmlsbC1jb2xvcikpKQoKKGRlZm4tIGdlbi1kZWZhdWx0LWxpbmstc3R5bGVzIFtdCiAgKG1lcmdlCiAgICAoZ2VuLWxpbmstc3R5bGVzICJyZWQiICJSZWQiICIjZGI0NDAwIiAiI2ZmYzdiNSIpCiAgICAoZ2VuLWxpbmstc3R5bGVzICJncmVlbiIgIkdyZWVuIiAiIzU0YmE0MiIgIiNjOWZmYmMiKQogICAgKGdlbi1saW5rLXN0eWxlcyAiZ3JheSIgIkdyYXkiICIjODM4MzgzIiAiI2ViZWJlYiIpCiAgICAoZ2VuLWxpbmstc3R5bGVzICJ5ZWxsb3ciICJZZWxsb3ciICIjZTZiNDJmIiAiI2ZmZWI4OSIpCiAgICAoZ2VuLWxpbmstc3R5bGVzICJibHVlIiAiQmx1ZSIgIiMwM2EwZmQiICIjYzJlOGZmIikKICAgIChnZW4tbGluay1zdHlsZXMgInRlYWwiICJUZWFsIiAiIzAwODA4MCIgIiM0MGUwZDAiKQogICAgKGdlbi1saW5rLXN0eWxlcyAicHVycGxlIiAiUHVycGxlIiAiIzhhMmJlMiIgIiNjOTk1ZmYiKQogICAgKGdlbi1saW5rLXN0eWxlcyAiYnJvd24iICJCcm93biIgIiM5MTVlMTgiICIjZmZkOTkxIikpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
