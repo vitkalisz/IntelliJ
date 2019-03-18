@@ -8,6 +8,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1552938435270">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+      </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/views/unit_util.cljs" timestamp="1547580834014">
         <mark key="[" line="27" column="14" />
         <mark key="]" line="27" column="108" />
@@ -106,6 +113,8 @@
       <jump line="126" column="44" filename="C:/Shared/exp/project.clj" />
       <jump line="131" column="45" filename="C:/Shared/exp/project.clj" />
       <jump line="50" column="20" filename="C:/Shared/exp/project.clj" />
+      <jump line="1" column="0" filename="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" />
+      <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
