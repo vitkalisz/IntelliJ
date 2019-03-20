@@ -8,12 +8,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1552941439708">
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1553063113276">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="52" />
-        <mark key="]" line="8" column="56" />
-        <mark key="^" line="8" column="56" />
-        <mark key="." line="8" column="56" />
+        <mark key="[" line="14" column="63" />
+        <mark key="]" line="14" column="61" />
+        <mark key="^" line="14" column="61" />
+        <mark key="." line="14" column="61" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/views/unit_util.cljs" timestamp="1547580834014">
         <mark key="[" line="27" column="14" />
@@ -157,7 +157,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgOm9yZ3BhZC94ICAgICAgICAgICAgICB4Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -172,8 +172,8 @@
         <entry>resource</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
