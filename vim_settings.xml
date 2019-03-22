@@ -6,6 +6,12 @@
       <file name="C:/Shared/exp/project.clj" timestamp="1551430675024">
         <mark key="'" line="50" column="20" />
       </file>
+      <file name="C:/Shared/orgpad/resources/public/index.html" timestamp="1553281445653">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+      </file>
       <file name="/REPL.clj" timestamp="1553269568692">
         <mark key="[" line="0" column="0" />
       </file>
@@ -204,7 +210,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICBbY29tLnRhb2Vuc3NvL3NlbnRlICIxLjE0LjAtUkMyIl0K</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -219,8 +225,8 @@
         <entry>resource</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
