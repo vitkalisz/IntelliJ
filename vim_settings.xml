@@ -82,6 +82,12 @@
         <mark key="^" line="44" column="100" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1553244481328">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="48" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+      </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/views/unit.cljs" timestamp="1547580694397">
         <mark key="[" line="51" column="70" />
         <mark key="]" line="54" column="108" />
@@ -118,9 +124,9 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/project.clj" timestamp="1553069630219">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="33" />
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1553244468272">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="50" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/views/editor.cljs" timestamp="1547581067339">
@@ -159,7 +165,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbY29tLnRhb2Vuc3NvL3NlbnRlICIxLjE0LjAtUkMyIl0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">QWRkZWQgbWFraW5nIG9mIA==</text>
@@ -168,7 +174,7 @@
         <text>resource</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZm4gaGFuZGxlLW1vdXNlLXVwIFtqcy1ldmVudF0KICAoLnN0b3BQcm9wYWdhdGlvbiBqcy1ldmVudCkKICAocmYvZGlzcGF0Y2ggWzphcHAtc3RhdGUvaGFuZGxlLW1vdXNlLXVwIChtb3VzZS1jb29yZCBqcy1ldmVudCldKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbY29tLnRhb2Vuc3NvL3NlbnRlICIxLjE0LjAtUkMyIl0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -198,7 +204,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICBbY29tLnRhb2Vuc3NvL3NlbnRlICIxLjE0LjAtUkMyIl0K</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -213,8 +219,8 @@
         <entry>resource</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
