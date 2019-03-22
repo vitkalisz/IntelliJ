@@ -6,7 +6,7 @@
       <file name="C:/Shared/exp/project.clj" timestamp="1551430675024">
         <mark key="'" line="50" column="20" />
       </file>
-      <file name="C:/Shared/orgpad/resources/public/index.html" timestamp="1553281445653">
+      <file name="C:/Shared/orgpad/resources/public/index.html" timestamp="1553291934699">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
@@ -15,11 +15,11 @@
       <file name="/REPL.clj" timestamp="1553269568692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/resources.clj" timestamp="1553269555876">
-        <mark key="[" line="19" column="69" />
-        <mark key="]" line="20" column="59" />
-        <mark key="." line="20" column="59" />
-        <mark key="^" line="20" column="59" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/resources.clj" timestamp="1553291452376">
+        <mark key="[" line="19" column="64" />
+        <mark key="]" line="19" column="62" />
+        <mark key="." line="19" column="62" />
+        <mark key="^" line="19" column="62" />
       </file>
       <file name="C:/Shared/exp/dev-config.edn" timestamp="1550799279386">
         <mark key="'" line="10" column="1" />
@@ -130,10 +130,11 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/project.clj" timestamp="1553244468272">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1553291308245">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="48" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/views/editor.cljs" timestamp="1547581067339">
         <mark key="[" line="47" column="44" />
