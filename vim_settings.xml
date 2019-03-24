@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1553416573432">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="31" />
-        <mark key="^" line="26" column="31" />
-        <mark key="." line="26" column="31" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1553425895995">
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="26" column="9" />
+        <mark key="^" line="26" column="9" />
+        <mark key="." line="26" column="9" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws.clj" timestamp="1553413867017">
         <mark key="[" line="5" column="0" />
@@ -30,7 +30,7 @@
         <text encoding="base64">ICAgICAgICAgICAgW3lhZGEuaGFuZGxlciA6YXMgeS1oYW5kbGVyXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -39,8 +39,8 @@
     </search>
     <history>
       <history-cmd>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
