@@ -3,23 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1553416573432">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws.clj" timestamp="1553413867017">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="31" />
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/resources.clj" timestamp="1553415695902">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="59" />
-        <mark key="^" line="18" column="59" />
-        <mark key="." line="18" column="59" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/resources.clj" timestamp="1553416561007">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW3lhZGEuaGFuZGxlciA6YXMgeS1oYW5kbGVyXQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW3lhZGEuaGFuZGxlciA6YXMgeS1oYW5kbGVyXQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -28,8 +39,8 @@
     </search>
     <history>
       <history-cmd>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
