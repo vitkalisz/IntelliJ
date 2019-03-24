@@ -9,11 +9,17 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/resources.clj" timestamp="1553415695902">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="59" />
+        <mark key="^" line="18" column="59" />
+        <mark key="." line="18" column="59" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -23,6 +29,7 @@
     <history>
       <history-cmd>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
