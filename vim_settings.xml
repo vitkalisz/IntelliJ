@@ -74,12 +74,6 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1551728352246">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="36" />
-        <mark key="^" line="8" column="36" />
-        <mark key="." line="8" column="36" />
-      </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/config.cljs" timestamp="1544899183490">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -176,8 +170,6 @@
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpad.cljs" timestamp="1551656576939">
         <mark key="[" line="3" column="12" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
         <mark key="." line="3" column="18" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/canvas.cljs" timestamp="1551217396707">
@@ -193,10 +185,10 @@
         <mark key="^" line="15" column="9" />
       </file>
       <file name="C:/Shared/orgpad/dev-config.edn" timestamp="1551626330004">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="57" />
-        <mark key="^" line="10" column="57" />
-        <mark key="." line="10" column="57" />
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="57" />
+        <mark key="^" line="6" column="57" />
+        <mark key="." line="6" column="57" />
       </file>
       <file name="C:/Shared/orgpad/src/cljs/orgpad/subs.cljs" timestamp="1544916589778">
         <mark key="[" line="21" column="10" />
@@ -210,26 +202,14 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="/REPL.clj" timestamp="1551656002464">
+      <file name="/REPL.clj" timestamp="1553547578048">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/resources.clj" timestamp="1551656248002">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="^" line="19" column="37" />
       </file>
       <file name="C:/Shared/exp/dev-config.edn" timestamp="1550932595994">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="10" column="67" />
         <mark key="^" line="10" column="67" />
         <mark key="." line="10" column="67" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/nrepl.clj" timestamp="1551478873902">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="36" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="2" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1551801305113">
         <mark key="[" line="0" column="0" />
