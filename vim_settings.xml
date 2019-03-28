@@ -20,6 +20,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/project.clj" timestamp="1553759484055">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="21" column="45" />
+        <mark key="^" line="21" column="45" />
+        <mark key="." line="21" column="45" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -30,7 +36,7 @@
         <text encoding="base64">ICAgICAgICAgICAgW3lhZGEuaGFuZGxlciA6YXMgeS1oYW5kbGVyXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -39,8 +45,8 @@
     </search>
     <history>
       <history-cmd>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
