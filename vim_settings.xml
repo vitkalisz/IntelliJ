@@ -32,11 +32,11 @@
       <file name="/REPL.clj" timestamp="1553761595786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1553763739698">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="34" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="12" column="34" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1553854328243">
+        <mark key="[" line="17" column="50" />
+        <mark key="]" line="20" column="2" />
+        <mark key="^" line="20" column="2" />
+        <mark key="." line="20" column="2" />
       </file>
       <file name="C:/Shared/orgpad/resources/sql/users.sql" timestamp="1553761741402">
         <mark key="[" line="18" column="42" />
@@ -74,7 +74,7 @@
         <text encoding="base64">LS0gOm5hbWUgZ2V0LXVzZXIgOj8gOjEKLS0gOmRvYyByZXRyaWV2ZXMgYSB1c2VyIHJlY29yZCBnaXZlbiB0aGUgaWQKU0VMRUNUICogRlJPTSB1c2VycwpXSEVSRSBpZCA9IDppZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -84,8 +84,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
