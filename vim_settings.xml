@@ -12,6 +12,12 @@
       <file name="/Dummy.txt" timestamp="1553762937976">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1553879085476">
+        <mark key="[" line="25" column="86" />
+        <mark key="]" line="26" column="25" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="26" column="25" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws.clj" timestamp="1553413867017">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="31" />
@@ -29,14 +35,14 @@
         <mark key="^" line="21" column="45" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="/REPL.clj" timestamp="1553761595786">
+      <file name="/REPL.clj" timestamp="1553879271804">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1553857827879">
-        <mark key="[" line="35" column="11" />
-        <mark key="]" line="35" column="12" />
-        <mark key="^" line="35" column="12" />
-        <mark key="." line="35" column="12" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1553878509203">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="21" column="1" />
+        <mark key="^" line="21" column="1" />
+        <mark key="." line="21" column="1" />
       </file>
       <file name="C:/Shared/orgpad/resources/sql/users.sql" timestamp="1553761741402">
         <mark key="[" line="18" column="42" />
@@ -44,11 +50,11 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1553876583270">
-        <mark key="[" line="124" column="71" />
-        <mark key="]" line="123" column="81" />
-        <mark key="^" line="123" column="81" />
-        <mark key="." line="123" column="81" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1553879831153">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="99" column="39" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/op/user.clj" timestamp="1553761917762">
         <mark key="[" line="5" column="66" />
@@ -69,13 +75,22 @@
         <text encoding="base64">LS0gOm5hbWUgZ2V0LXVzZXIgOj8gOjEKLS0gOmRvYyByZXRyaWV2ZXMgYSB1c2VyIHJlY29yZCBnaXZlbiB0aGUgaWQKU0VMRUNUICogRlJPTSB1c2VycwpXSEVSRSBpZCA9IDppZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3lhZGEuaGFuZGxlciA6YXMgeS1oYW5kbGVyXQo=</text>
+        <text encoding="base64">KGRlZm4tIGFkZC1zdHlsZSEgW3s6a2V5cyBbaWRdIDphcyBzdHlsZX0gb3JncGFnZV0KICAoZGIvY3JlYXRlLXN0eWxlISBzdHlsZSkKICAoZGIvYXNzb2Mtc3R5bGUhIHs6c3R5bGUgaWQgOm9yZ3BhZ2Ugb3JncGFnZX0pKQoK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gOm5hbWUgZ2V0LXVzZXIgOj8gOjEKLS0gOmRvYyByZXRyaWV2ZXMgYSB1c2VyIHJlY29yZCBnaXZlbiB0aGUgaWQKU0VMRUNUICogRlJPTSB1c2VycwpXSEVSRSBpZCA9IDppZAo=</text>
+        <text encoding="base64">KGRlZm4tIGFkZC1zdHlsZSEgW3s6a2V5cyBbaWRdIDphcyBzdHlsZX0gb3JncGFnZV0KICAoZGIvY3JlYXRlLXN0eWxlISBzdHlsZSkKICAoZGIvYXNzb2Mtc3R5bGUhIHs6c3R5bGUgaWQgOm9yZ3BhZ2Ugb3JncGFnZX0pKQoK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOnVuaXQveSAgICAgICAgICAgICAgeQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOnVuaXQveCAgICAgICAgICAgICAgeAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW3lhZGEuaGFuZGxlciA6YXMgeS1oYW5kbGVyXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -85,8 +100,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
