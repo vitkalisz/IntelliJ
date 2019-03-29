@@ -32,7 +32,7 @@
       <file name="/REPL.clj" timestamp="1553761595786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1553857097420">
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1553857827879">
         <mark key="[" line="35" column="11" />
         <mark key="]" line="35" column="12" />
         <mark key="^" line="35" column="12" />
@@ -44,10 +44,11 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1553764030267">
-        <mark key="]" line="104" column="24" />
-        <mark key="^" line="104" column="24" />
-        <mark key="." line="104" column="24" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1553859900361">
+        <mark key="[" line="112" column="108" />
+        <mark key="]" line="118" column="72" />
+        <mark key="^" line="118" column="72" />
+        <mark key="." line="118" column="72" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/op/user.clj" timestamp="1553761917762">
         <mark key="[" line="5" column="66" />
