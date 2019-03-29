@@ -12,6 +12,24 @@
       <file name="/Dummy.txt" timestamp="1553881994087">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1553888001007">
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="53" column="18" />
+        <mark key="^" line="53" column="18" />
+        <mark key="." line="53" column="18" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1553887052222">
+        <mark key="[" line="117" column="73" />
+        <mark key="]" line="97" column="31" />
+        <mark key="." line="97" column="31" />
+        <mark key="^" line="97" column="31" />
+      </file>
+      <file name="C:/Shared/orgpad/resources/sql/styles.sql" timestamp="1553886417332">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1553879085476">
         <mark key="[" line="25" column="86" />
         <mark key="]" line="26" column="25" />
@@ -38,23 +56,11 @@
       <file name="/REPL.clj" timestamp="1553879271804">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1553885553147">
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="49" column="4" />
-        <mark key="^" line="49" column="4" />
-        <mark key="." line="49" column="4" />
-      </file>
       <file name="C:/Shared/orgpad/resources/sql/users.sql" timestamp="1553761741402">
         <mark key="[" line="18" column="42" />
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1553881624749">
-        <mark key="[" line="139" column="31" />
-        <mark key="]" line="139" column="31" />
-        <mark key="." line="139" column="31" />
-        <mark key="^" line="139" column="31" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/op/user.clj" timestamp="1553761917762">
         <mark key="[" line="5" column="66" />
@@ -62,11 +68,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1553761132113">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="9" column="12" />
+      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1553886433151">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
         <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+        <mark key="." line="50" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -75,31 +81,34 @@
         <text encoding="base64">LS0gOm5hbWUgZ2V0LXVzZXIgOj8gOjEKLS0gOmRvYyByZXRyaWV2ZXMgYSB1c2VyIHJlY29yZCBnaXZlbiB0aGUgaWQKU0VMRUNUICogRlJPTSB1c2VycwpXSEVSRSBpZCA9IDppZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAocHJpbnRsbiAoZmlsdGVyICMoOnVuaXRfc3R5bGUgJSkgKGRiL2dldC1vcmdwYWdlLXN0eWxlcyB7Om9yZ3BhZ2Ugb3JncGFnZX0pKSkK</text>
+        <text encoding="base64">IHVuaXRfc3R5bGUgQk9PTEVBTiwK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAocHJpbnRsbiAoZmlsdGVyICMoOnVuaXRfc3R5bGUgJSkgKGRiL2dldC1vcmdwYWdlLXN0eWxlcyB7Om9yZ3BhZ2Ugb3JncGFnZX0pKSkK</text>
+        <text encoding="base64">IHVuaXRfc3R5bGUgQk9PTEVBTiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAocHJpbnRsbiAoZGIvZ2V0LW9yZ3BhZ2Utc3R5bGVzIHs6b3JncGFnZSBvcmdwYWdlfSkpCg==</text>
+        <text encoding="base64">ICAgOnVuaXRfc3R5bGUgdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAocHJpbnRsbiAiQWRkaW5nIHN0eWxlOiAiIHN0eWxlKQo=</text>
+        <text encoding="base64">ICAgOnVuaXRfc3R5bGUgZmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnN0eWxlL3R5cGUgIDpzdHlsZS9saW5rCg==</text>
+        <text encoding="base64">ICAocHJpbnRsbiAoZmlsdGVyICMoOnVuaXRfc3R5bGUgJSkgKGRiL2dldC1vcmdwYWdlLXN0eWxlcyB7Om9yZ3BhZ2Ugb3JncGFnZX0pKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGRlZm4tIGFkZC1zdHlsZSEgW3s6a2V5cyBbaWRdIDphcyBzdHlsZX0gb3JncGFnZV0KICAoZGIvY3JlYXRlLXN0eWxlISBzdHlsZSkKICAoZGIvYXNzb2Mtc3R5bGUhIHs6c3R5bGUgaWQgOm9yZ3BhZ2Ugb3JncGFnZX0pKQoK</text>
+        <text encoding="base64">ICAocHJpbnRsbiAoZGIvZ2V0LW9yZ3BhZ2Utc3R5bGVzIHs6b3JncGFnZSBvcmdwYWdlfSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOnVuaXQveSAgICAgICAgICAgICAgeQo=</text>
+        <text encoding="base64">ICAocHJpbnRsbiAiQWRkaW5nIHN0eWxlOiAiIHN0eWxlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOnVuaXQveCAgICAgICAgICAgICAgeAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnN0eWxlL3R5cGUgIDpzdHlsZS9saW5rCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3lhZGEuaGFuZGxlciA6YXMgeS1oYW5kbGVyXQo=</text>
+        <text encoding="base64">KGRlZm4tIGFkZC1zdHlsZSEgW3s6a2V5cyBbaWRdIDphcyBzdHlsZX0gb3JncGFnZV0KICAoZGIvY3JlYXRlLXN0eWxlISBzdHlsZSkKICAoZGIvYXNzb2Mtc3R5bGUhIHs6c3R5bGUgaWQgOm9yZ3BhZ2Ugb3JncGFnZX0pKQoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOnVuaXQveSAgICAgICAgICAgICAgeQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
