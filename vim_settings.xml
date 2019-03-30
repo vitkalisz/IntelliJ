@@ -12,6 +12,12 @@
       <file name="/Dummy.txt" timestamp="1553891600362">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1553961883635">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1553940923040">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="61" column="6" />
@@ -74,6 +80,14 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/ws.cljs" timestamp="1553961730111">
+        <mark key="[" line="32" column="22" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/ws/core.cljs" timestamp="1553961890652">
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -114,7 +128,7 @@
         <text encoding="base64">ICAocHJpbnRsbiAiQWRkaW5nIHN0eWxlOiAiIHN0eWxlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -124,8 +138,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
