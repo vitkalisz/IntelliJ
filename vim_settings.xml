@@ -9,6 +9,12 @@
         <mark key="^" line="184" column="0" />
         <mark key="." line="184" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/autoresize.cljs" timestamp="1554043529814">
+        <mark key="[" line="28" column="54" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1554042164318">
         <mark key="'" line="2" column="12" />
       </file>
@@ -150,11 +156,12 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/common.cljs" timestamp="1553965301823">
-        <mark key="[" line="168" column="29" />
-        <mark key="]" line="169" column="28" />
-        <mark key="^" line="169" column="28" />
-        <mark key="." line="169" column="28" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/common.cljs" timestamp="1554043450025">
+        <mark key="'" line="253" column="2" />
+        <mark key="[" line="193" column="18" />
+        <mark key="]" line="193" column="15" />
+        <mark key="." line="193" column="15" />
+        <mark key="^" line="193" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpad.cljs" timestamp="1554040391807">
         <mark key="'" line="288" column="27" />
@@ -221,68 +228,68 @@
       <jump line="12" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" />
       <jump line="75" column="14" filename="C:/Shared/orgpad/src/orgpad/client/views/panel.cljs" />
       <jump line="2" column="12" filename="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" />
+      <jump line="255" column="2" filename="C:/Shared/orgpad/src/orgpad/client/events/common.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KHJmL3JlZy1ldmVudC1kYgogIDpvcmdwYWQvaGlkZS16b29tLWluZm8KICAoZm4gW2RiIFtfIGRpc3BsYXllZC16b29tXV0KICAgIChsZXQgW3s6Y2FudmFzL2tleXMgW3pvb21dfSAoY29tbW9uL2dldC1jYW52YXMgZGIpXQogICAgICAoaWYgKD0gem9vbSBkaXNwbGF5ZWQtem9vbSkKICAgICAgICAoY29tbW9uL3VwZGF0ZS1jYW52YXMgZGIgYXNzb2MgOmNhbnZhcy9zaG93LXpvb20/IGZhbHNlKQogICAgICAgIGRiKSkpKQoK</text>
+        <text encoding="base64">KGRlZm4tIGdldC1wb3MgW3s6dW5pdC9rZXlzIFt4IHldfV0KICBbeCB5XSkKCg==</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>:orgpad</text>
+        <text>orgpad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpvcmdwYWQvY2FudmFzICAgICAgICAgICAgICAgIHs6Y2FudmFzL3ggICAgMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjYW52YXMveSAgICAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmNhbnZhcy96b29tIDEuMH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KHJmL3JlZy1ldmVudC1kYgogIDpvcmdwYWQvaGlkZS16b29tLWluZm8KICAoZm4gW2RiIFtfIGRpc3BsYXllZC16b29tXV0KICAgIChsZXQgW3s6Y2FudmFzL2tleXMgW3pvb21dfSAoY29tbW9uL2dldC1jYW52YXMgZGIpXQogICAgICAoaWYgKD0gem9vbSBkaXNwbGF5ZWQtem9vbSkKICAgICAgICAoY29tbW9uL3VwZGF0ZS1jYW52YXMgZGIgYXNzb2MgOmNhbnZhcy9zaG93LXpvb20/IGZhbHNlKQogICAgICAgIGRiKSkpKQoK</text>
+        <text encoding="base64">KGRlZm4tIGdldC1wb3MgW3s6dW5pdC9rZXlzIFt4IHldfV0KICBbeCB5XSkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFtvcmdwYWQuY2xpZW50LnZpZXdzLmVkaXRvciA6YXMgZWRpdG9yXQo=</text>
+        <text encoding="base64">KHJmL3JlZy1ldmVudC1kYgogIDpvcmdwYWQvaGlkZS16b29tLWluZm8KICAoZm4gW2RiIFtfIGRpc3BsYXllZC16b29tXV0KICAgIChsZXQgW3s6Y2FudmFzL2tleXMgW3pvb21dfSAoY29tbW9uL2dldC1jYW52YXMgZGIpXQogICAgICAoaWYgKD0gem9vbSBkaXNwbGF5ZWQtem9vbSkKICAgICAgICAoY29tbW9uL3VwZGF0ZS1jYW52YXMgZGIgYXNzb2MgOmNhbnZhcy9zaG93LXpvb20/IGZhbHNlKQogICAgICAgIGRiKSkpKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFtvcmdwYWQuY2xpZW50LnZpZXdzLmNzcyA6YXMgY3NzXQo=</text>
+        <text encoding="base64">ICAgIFtvcmdwYWQuY2xpZW50LnZpZXdzLmVkaXRvciA6YXMgZWRpdG9yXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFtvcmdwYWQuY29tbW9uLm1hcHMgOmFzIG1hcHNdCg==</text>
+        <text encoding="base64">ICAgIFtvcmdwYWQuY2xpZW50LnZpZXdzLmNzcyA6YXMgY3NzXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICJSZWNpZXZlZCBvcmdwYWdlIiBvcmdwYWdlKQo=</text>
+        <text encoding="base64">ICAgIFtvcmdwYWQuY29tbW9uLm1hcHMgOmFzIG1hcHNdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OzsgVE9ETyEgQWRkIGNob2ljZSBvZiBjdXJyZW50IHN0eWxlcyEK</text>
+        <text encoding="base64">ICAgICAgKGpzL2NvbnNvbGUubG9nICJSZWNpZXZlZCBvcmdwYWdlIiBvcmdwYWdlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAocHJpbnRsbiBoaWNjdXAgImhhcyB0eXBlIiAodHlwZSBoaWNjdXApKQo=</text>
+        <text encoding="base64">OzsgVE9ETyEgQWRkIGNob2ljZSBvZiBjdXJyZW50IHN0eWxlcyEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImV2ZW50LW1zZy1oYW5kbGVyOiIgZXYtbXNnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAocHJpbnRsbiBoaWNjdXAgImhhcyB0eXBlIiAodHlwZSBoaWNjdXApKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBpZC0+cGFyZW50LWlkKQogICAgKGpzL2NvbnNvbGUubG9nIHVuaXRzLXdpdGgtbm8tcGFyZW50KQogICAgKGpzL2NvbnNvbGUubG9nIHVuaXRzLXdpdGgtcGFyZW50LWlkcykK</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImV2ZW50LW1zZy1oYW5kbGVyOiIgZXYtbXNnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>:orgpad</last-search>
+      <last-search>orgpad</last-search>
       <last-offset />
-      <last-pattern>:orgpad</last-pattern>
-      <last-replace>:orgpage</last-replace>
-      <last-substitute>:orgpad</last-substitute>
+      <last-pattern>orgpad</last-pattern>
+      <last-replace>orgpage</last-replace>
+      <last-substitute>orgpad</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>hide-zoom-info</entry>
-        <entry>orgpad</entry>
         <entry>:orgpad</entry>
+        <entry>orgpad</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL29yZ3BhZC9vcmdwYWdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL29yZ3BhZC9zdHlsZS9n</entry>
         <entry encoding="base64">JzwsJz5zL29yZ3BhZC9saW5r</entry>
         <entry encoding="base64">JzwsJz5zL29yZ3BhZC91bml0L2c=</entry>
@@ -290,6 +297,7 @@
         <entry>%s/orgpad/orgpage/g</entry>
         <entry>w</entry>
         <entry>%s/:orgpad/:orgpage/g</entry>
+        <entry encoding="base64">JzwsJz5zL29yZ3BhZC9vcmdwYWdlL2c=</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
