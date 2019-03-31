@@ -120,12 +120,12 @@
         <mark key="^" line="297" column="89" />
         <mark key="." line="298" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage.cljs" timestamp="1554032388756">
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage.cljs" timestamp="1554035609381">
         <mark key="'" line="14" column="22" />
-        <mark key="[" line="89" column="18" />
-        <mark key="]" line="86" column="48" />
-        <mark key="^" line="86" column="48" />
-        <mark key="." line="86" column="48" />
+        <mark key="[" line="125" column="21" />
+        <mark key="]" line="125" column="17" />
+        <mark key="^" line="125" column="17" />
+        <mark key="." line="125" column="17" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/op/user.clj" timestamp="1553761917762">
         <mark key="[" line="5" column="66" />
