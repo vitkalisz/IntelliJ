@@ -9,6 +9,9 @@
         <mark key="^" line="184" column="0" />
         <mark key="." line="184" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1554042164318">
+        <mark key="'" line="2" column="12" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1553978223288">
         <mark key="[" line="131" column="64" />
         <mark key="]" line="131" column="70" />
@@ -54,8 +57,11 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/unit_util.cljs" timestamp="1554041187672">
-        <mark key="[" line="7" column="6" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/unit_util.cljs" timestamp="1554041985781">
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="57" column="31" />
+        <mark key="^" line="57" column="31" />
+        <mark key="." line="57" column="31" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/editor.cljs" timestamp="1554038280049">
         <mark key="[" line="30" column="86" />
@@ -81,11 +87,12 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="25" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" timestamp="1554041158851">
-        <mark key="[" line="98" column="21" />
-        <mark key="]" line="106" column="58" />
-        <mark key="^" line="106" column="58" />
-        <mark key="." line="106" column="58" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" timestamp="1554042064392">
+        <mark key="'" line="17" column="86" />
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="17" column="86" />
+        <mark key="^" line="17" column="86" />
+        <mark key="." line="17" column="86" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1553977828850">
         <mark key="[" line="57" column="21" />
@@ -112,7 +119,8 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" timestamp="1554040366735">
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" timestamp="1554042071814">
+        <mark key="'" line="12" column="5" />
         <mark key="[" line="46" column="46" />
         <mark key="]" line="46" column="47" />
         <mark key="." line="46" column="47" />
@@ -155,11 +163,12 @@
         <mark key="^" line="280" column="57" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1554040205501">
-        <mark key="[" line="70" column="38" />
-        <mark key="]" line="70" column="39" />
-        <mark key="^" line="70" column="39" />
-        <mark key="." line="70" column="39" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1554042085269">
+        <mark key="'" line="75" column="14" />
+        <mark key="[" line="49" column="49" />
+        <mark key="]" line="49" column="56" />
+        <mark key="^" line="49" column="56" />
+        <mark key="." line="49" column="56" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/orgpage.cljs" timestamp="1554037839805">
         <mark key="'" line="14" column="22" />
@@ -190,6 +199,28 @@
       <jump line="7" column="8" filename="C:/Shared/orgpad/src/orgpad/client/subs/orgpage.cljs" />
       <jump line="13" column="22" filename="C:/Shared/orgpad/src/orgpad/client/subs/orgpage.cljs" />
       <jump line="288" column="27" filename="C:/Shared/orgpad/src/orgpad/client/events/orgpad.cljs" />
+      <jump line="97" column="23" filename="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" />
+      <jump line="0" column="4" filename="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" />
+      <jump line="4" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" />
+      <jump line="5" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" />
+      <jump line="6" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" />
+      <jump line="7" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" />
+      <jump line="8" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" />
+      <jump line="9" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" />
+      <jump line="10" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" />
+      <jump line="11" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" />
+      <jump line="12" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" />
+      <jump line="17" column="86" filename="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" />
+      <jump line="40" column="32" filename="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" />
+      <jump line="0" column="4" filename="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" />
+      <jump line="7" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" />
+      <jump line="8" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" />
+      <jump line="9" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" />
+      <jump line="10" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" />
+      <jump line="11" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" />
+      <jump line="12" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" />
+      <jump line="75" column="14" filename="C:/Shared/orgpad/src/orgpad/client/views/panel.cljs" />
+      <jump line="2" column="12" filename="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -199,7 +230,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>hide-zoom-info</text>
+        <text>:orgpad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDpvcmdwYWQvY2FudmFzICAgICAgICAgICAgICAgIHs6Y2FudmFzL3ggICAgMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjYW52YXMveSAgICAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmNhbnZhcy96b29tIDEuMH0K</text>
@@ -236,29 +267,29 @@
       </register>
     </registers>
     <search>
-      <last-search>hide-zoom-info</last-search>
+      <last-search>:orgpad</last-search>
       <last-offset />
-      <last-pattern>hide-zoom-info</last-pattern>
-      <last-replace>orgpage</last-replace>
-      <last-substitute>orgpad</last-substitute>
+      <last-pattern>:orgpad</last-pattern>
+      <last-replace>:orgpage</last-replace>
+      <last-substitute>:orgpad</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>:orgpad</entry>
-        <entry>orgpad</entry>
         <entry>hide-zoom-info</entry>
+        <entry>orgpad</entry>
+        <entry>:orgpad</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL29yZ3BhZC9vcmdwYWdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL29yZ3BhZC9zdHlsZS9n</entry>
         <entry encoding="base64">JzwsJz5zL29yZ3BhZC9saW5r</entry>
         <entry encoding="base64">JzwsJz5zL29yZ3BhZC91bml0L2c=</entry>
-        <entry>%s/:orgpad/:orgpage/g</entry>
         <entry>s/orgpad/orgpage/g</entry>
         <entry>%s/orgpad/orgpage/g</entry>
         <entry>w</entry>
+        <entry>%s/:orgpad/:orgpage/g</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
