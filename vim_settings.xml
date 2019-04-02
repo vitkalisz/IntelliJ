@@ -182,7 +182,7 @@
         <mark key="^" line="133" column="51" />
         <mark key="." line="133" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554154555342">
+      <file name="/Dummy.txt" timestamp="1554247564929">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1553961883635">
@@ -245,12 +245,12 @@
         <mark key="^" line="280" column="57" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1554235209921">
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1554247337281">
         <mark key="'" line="85" column="14" />
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="71" column="23" />
-        <mark key="^" line="71" column="23" />
-        <mark key="." line="71" column="23" />
+        <mark key="[" line="70" column="20" />
+        <mark key="]" line="71" column="21" />
+        <mark key="^" line="71" column="21" />
+        <mark key="." line="71" column="21" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/op/user.clj" timestamp="1553761917762">
         <mark key="[" line="5" column="66" />
