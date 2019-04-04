@@ -192,8 +192,8 @@
         <mark key="." line="7" column="106" />
         <mark key="^" line="7" column="106" />
       </file>
-      <file name="C:/Shared/mines/src/mines/views.cljs" timestamp="1554415029350">
-        <mark key="[" line="38" column="38" />
+      <file name="C:/Shared/mines/src/mines/views.cljs" timestamp="1554416720208">
+        <mark key="[" line="3" column="24" />
         <mark key="]" line="38" column="31" />
         <mark key="." line="38" column="31" />
         <mark key="^" line="38" column="31" />
@@ -298,11 +298,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="41" column="6" />
       </file>
-      <file name="C:/Shared/mines/src/mines/game.cljs" timestamp="1554415501843">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="9" column="37" />
-        <mark key="^" line="9" column="37" />
-        <mark key="." line="9" column="37" />
+      <file name="C:/Shared/mines/src/mines/game.cljs" timestamp="1554417163795">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="C:/Shared/orgpad/resources/sql/users.sql" timestamp="1553761741402">
         <mark key="[" line="18" column="42" />
@@ -330,11 +330,11 @@
         <mark key="^" line="69" column="30" />
         <mark key="." line="69" column="30" />
       </file>
-      <file name="C:/Shared/mines/src/mines/events.cljs" timestamp="1554414978668">
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="36" column="34" />
-        <mark key="." line="36" column="34" />
-        <mark key="^" line="36" column="34" />
+      <file name="C:/Shared/mines/src/mines/events.cljs" timestamp="1554417251247">
+        <mark key="[" line="37" column="46" />
+        <mark key="]" line="37" column="43" />
+        <mark key="." line="37" column="43" />
+        <mark key="^" line="37" column="43" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/op/user.clj" timestamp="1553761917762">
         <mark key="[" line="5" column="66" />
@@ -393,7 +393,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZm4tIGdlbi1taW5lcyBbW3ggeV0gY291bnQgW2Z4IGZ5XV0KICAobGV0IFtjb29yZGluYXRlcyAoZm9yIFthIChyYW5nZSB4KSBiIChyYW5nZSB5KQogICAgICAgICAgICAgICAgICAgICAgICAgIDp3aGVuIChvciAobm90PSBhIGZ4KSAobm90PSBiIGZ5KSldCiAgICAgICAgICAgICAgICAgICAgICBbYSBiXSldCiAgICAoLT4+IGNvb3JkaW5hdGVzIHNodWZmbGUgKHRha2UgY291bnQpIChpbnRvICN7fSkpKSkKCg==</text>
+        <text encoding="base64">ICAgICh6ZXJvLW5laWdoYm9ycy1mbiBzdGFydCkK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -405,34 +405,34 @@
         <text encoding="base64">LnJldmVhbGVkLWZpZWxkIHsKICBib3JkZXI6IDFweCBzb2xpZCByZ2JhKDAsIDAsIDAsIDAuOCk7CiAgcGFkZGluZzogNXB4OwogIGZvbnQtc2l6ZTogMjBweDsKICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgd2lkdGg6IDIwcHg7CiAgaGVpZ2h0OiAyMHB4Owp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGRlZm4tIGdlbi1taW5lcyBbW3ggeV0gY291bnQgW2Z4IGZ5XV0KICAobGV0IFtjb29yZGluYXRlcyAoZm9yIFthIChyYW5nZSB4KSBiIChyYW5nZSB5KQogICAgICAgICAgICAgICAgICAgICAgICAgIDp3aGVuIChvciAobm90PSBhIGZ4KSAobm90PSBiIGZ5KSldCiAgICAgICAgICAgICAgICAgICAgICBbYSBiXSldCiAgICAoLT4+IGNvb3JkaW5hdGVzIHNodWZmbGUgKHRha2UgY291bnQpIChpbnRvICN7fSkpKSkKCg==</text>
+        <text encoding="base64">ICAgICh6ZXJvLW5laWdoYm9ycy1mbiBzdGFydCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRlZm4gbmV3LWdhbWUgW2RiXQogIChhc3NvYyBkYiA6bWluZXMgI3t9IDpyZXZlYWxlZCAje30pKQo=</text>
+        <text encoding="base64">ICAgICh6ZXJvLW5laWdoYm9ycy1mbiBzdGFydCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGRlZm4tIGdlbi1taW5lcyBbW3ggeV0gY291bnRdCiAgKGxldCBbY29vcmRpbmF0ZXMgKGZvciBbYSAocmFuZ2UgeCkgYiAocmFuZ2UgeSldCiAgICAgICAgICAgICAgICAgICAgICBbYSBiXSldCiAgICAoLT4+IGNvb3JkaW5hdGVzIHNodWZmbGUgKHRha2UgY291bnQpIChpbnRvICN7fSkpKSkKCg==</text>
+        <text encoding="base64">KGRlZm4tIGdlbi1taW5lcyBbW3ggeV0gY291bnQgW2Z4IGZ5XV0KICAobGV0IFtjb29yZGluYXRlcyAoZm9yIFthIChyYW5nZSB4KSBiIChyYW5nZSB5KQogICAgICAgICAgICAgICAgICAgICAgICAgIDp3aGVuIChvciAobm90PSBhIGZ4KSAobm90PSBiIGZ5KSldCiAgICAgICAgICAgICAgICAgICAgICBbYSBiXSldCiAgICAoLT4+IGNvb3JkaW5hdGVzIHNodWZmbGUgKHRha2UgY291bnQpIChpbnRvICN7fSkpKSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFs6ZGl2Cg==</text>
+        <text encoding="base64">KGRlZm4gbmV3LWdhbWUgW2RiXQogIChhc3NvYyBkYiA6bWluZXMgI3t9IDpyZXZlYWxlZCAje30pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICBbOmgxIF0K</text>
+        <text encoding="base64">KGRlZm4tIGdlbi1taW5lcyBbW3ggeV0gY291bnRdCiAgKGxldCBbY29vcmRpbmF0ZXMgKGZvciBbYSAocmFuZ2UgeCkgYiAocmFuZ2UgeSldCiAgICAgICAgICAgICAgICAgICAgICBbYSBiXSldCiAgICAoLT4+IGNvb3JkaW5hdGVzIHNodWZmbGUgKHRha2UgY291bnQpIChpbnRvICN7fSkpKSkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAicmV2ZWFsIiBwb3MpCg==</text>
+        <text encoding="base64">ICAgIFs6ZGl2Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA6b24tY2xpY2sgIyhyZi9kaXNwYXRjaCBbOnJldmVhbCBwb3NdKQo=</text>
+        <text encoding="base64">ICAgICBbOmgxIF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcyAoaWYgcmV2ZWFsZWQ/ICJyZXZlYWxlZC1maWVsZCIgImZpZWxkIikK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAicmV2ZWFsIiBwb3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcyAoaWYgcmV2ZWFsZWQ/ICJyZXZlYWxlZC1maWVsZCIgImZpZWxkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA6b24tY2xpY2sgIyhyZi9kaXNwYXRjaCBbOnJldmVhbCBwb3NdKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -471,8 +471,8 @@
         <entry>wa'</entry>
         <entry encoding="base64">JzwsJz5zL14vICAvZw==</entry>
         <entry>%s/editor-btn/button\/button/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
