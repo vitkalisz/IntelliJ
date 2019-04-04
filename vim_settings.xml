@@ -46,6 +46,9 @@
         <mark key="^" line="6" column="39" />
         <mark key="." line="6" column="39" />
       </file>
+      <file name="C:/Shared/mines/src/mines/db.cljs" timestamp="1554408968336">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/unit_util.cljs" timestamp="1554052168537">
         <mark key="[" line="23" column="35" />
         <mark key="]" line="25" column="38" />
@@ -64,7 +67,6 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/link.cljs" timestamp="1554327351989" />
       <file name="C:/Shared/mines/src/cljs/mines/views.cljs" timestamp="1554407853865">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="17" />
@@ -139,7 +141,12 @@
         <mark key="]" line="310" column="0" />
         <mark key="." line="310" column="0" />
       </file>
-      <file name="C:/Shared/mines/resources/public/index.html" timestamp="1554408285249" />
+      <file name="C:/Shared/mines/resources/public/index.html" timestamp="1554408785692">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/init.clj" timestamp="1554234274123">
         <mark key="[" line="134" column="46" />
         <mark key="]" line="134" column="53" />
@@ -164,6 +171,12 @@
         <mark key="." line="25" column="36" />
         <mark key="^" line="25" column="36" />
       </file>
+      <file name="/REPL.clj" timestamp="1554409066150">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1554039335770">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="3" column="0" />
@@ -175,6 +188,12 @@
         <mark key="]" line="7" column="106" />
         <mark key="." line="7" column="106" />
         <mark key="^" line="7" column="106" />
+      </file>
+      <file name="C:/Shared/mines/src/mines/views.cljs" timestamp="1554408705437">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/ws/core.cljs" timestamp="1554399888383">
         <mark key="[" line="23" column="0" />
@@ -403,7 +422,7 @@
         <text encoding="base64">KHJmL3JlZy1ldmVudC1kYgogIDpkYXNoYm9hcmQvbG9hZC1vcmdwYWdlCiAgKGZuIFtkYiBbXyBpZF1dCiAgICAKICAgIGRiKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -442,8 +461,8 @@
         <entry>wa'</entry>
         <entry encoding="base64">JzwsJz5zL14vICAvZw==</entry>
         <entry>%s/editor-btn/button\/button/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
