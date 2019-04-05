@@ -112,12 +112,12 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/common.cljs" timestamp="1554495167763">
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/common.cljs" timestamp="1554498135609">
         <mark key="'" line="253" column="2" />
-        <mark key="[" line="255" column="2" />
-        <mark key="]" line="256" column="58" />
-        <mark key="." line="256" column="58" />
-        <mark key="^" line="256" column="58" />
+        <mark key="[" line="256" column="4" />
+        <mark key="]" line="256" column="4" />
+        <mark key="." line="256" column="4" />
+        <mark key="^" line="256" column="4" />
       </file>
       <file name="C:/Shared/orgpad/less/_dashboard.less" timestamp="1554496048081">
         <mark key="[" line="4" column="0" />
@@ -168,11 +168,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/canvas.cljs" timestamp="1554407531147">
-        <mark key="[" line="9" column="49" />
-        <mark key="]" line="9" column="49" />
-        <mark key="^" line="9" column="49" />
-        <mark key="." line="9" column="49" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/canvas.cljs" timestamp="1554498060769">
+        <mark key="[" line="16" column="70" />
+        <mark key="]" line="16" column="81" />
+        <mark key="^" line="16" column="81" />
+        <mark key="." line="16" column="81" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/maps.cljc" timestamp="1554058567842">
         <mark key="[" line="21" column="33" />
@@ -316,12 +316,12 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" timestamp="1554407384842">
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/root.cljs" timestamp="1554498460465">
         <mark key="'" line="11" column="5" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="41" column="6" />
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="43" column="5" />
+        <mark key="." line="43" column="5" />
+        <mark key="^" line="43" column="5" />
       </file>
       <file name="C:/Shared/mines/src/mines/game.cljs" timestamp="1554417295648">
         <mark key="[" line="9" column="0" />
@@ -417,7 +417,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
+        <text encoding="base64">OzsgV1JPTkcgQ0FOVkFTIFBPU0lUSU9OIEZPUiBESUZGRVJFTlQgWk9PTSBMRVZFTFMK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -426,37 +426,37 @@
         <text>editor-btn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4OwogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgd2lkdGg6IDEwMCU7CiAgaGVpZ2h0OiAxMDAlOwogIGZsZXgtZ3JvdzogMTsK</text>
+        <text encoding="base64">ICAgIDtbKC4tb2Zmc2V0TGVmdCBlbGVtZW50KSAoLi1vZmZzZXRUb3AgZWxlbWVudCkgKC4td2lkdGggYmJveCkgKC4taGVpZ2h0IGJib3gpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
+        <text encoding="base64">OzsgV1JPTkcgQ0FOVkFTIFBPU0lUSU9OIEZPUiBESUZGRVJFTlQgWk9PTSBMRVZFTFMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdy15OiBhdXRvOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93LXk6IGF1dG87Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBvdmVyZmxvdy15OiBhdXRvOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG92ZXJmbG93LXk6IGF1dG87Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInBvcyIgbWluZXMgcG9zIChjb3VudCAoZmlsdGVyICMoY29udGFpbnM/IG1pbmVzICUpIChuZWlnaGJvcnMgcG9zKSkpKQo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICh6ZXJvLW5laWdoYm9ycy1mbiBzdGFydCkK</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInBvcyIgbWluZXMgcG9zIChjb3VudCAoZmlsdGVyICMoY29udGFpbnM/IG1pbmVzICUpIChuZWlnaGJvcnMgcG9zKSkpKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICh6ZXJvLW5laWdoYm9ycy1mbiBzdGFydCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -495,8 +495,8 @@
         <entry>wa'</entry>
         <entry encoding="base64">JzwsJz5zL14vICAvZw==</entry>
         <entry>%s/editor-btn/button\/button/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
