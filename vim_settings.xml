@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/app_state.cljs" timestamp="1554327825850">
-        <mark key="[" line="109" column="42" />
-        <mark key="]" line="109" column="17" />
-        <mark key="^" line="109" column="17" />
-        <mark key="." line="109" column="17" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/app_state.cljs" timestamp="1554649146787">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/autoresize.cljs" timestamp="1554045558354">
         <mark key="'" line="22" column="36" />
