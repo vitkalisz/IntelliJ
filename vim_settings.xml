@@ -147,11 +147,11 @@
         <mark key="^" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/op/link.clj" timestamp="1554738768686">
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="26" column="30" />
-        <mark key="." line="26" column="30" />
-        <mark key="^" line="26" column="30" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/link.clj" timestamp="1554742246139">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="26" column="48" />
+        <mark key="." line="26" column="48" />
+        <mark key="^" line="26" column="48" />
       </file>
       <file name="C:/Shared/mines/src/mines/subs.cljs" timestamp="1554415242604">
         <mark key="[" line="2" column="26" />
@@ -177,11 +177,11 @@
         <mark key="." line="143" column="52" />
         <mark key="^" line="143" column="52" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/core.cljs" timestamp="1554737001856">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="54" />
-        <mark key="." line="15" column="54" />
-        <mark key="^" line="15" column="54" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/core.cljs" timestamp="1554741510795">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="11" column="62" />
+        <mark key="." line="11" column="62" />
+        <mark key="^" line="11" column="62" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/canvas.cljs" timestamp="1554650986308">
         <mark key="[" line="12" column="7" />
@@ -201,7 +201,7 @@
         <mark key="." line="25" column="36" />
         <mark key="^" line="25" column="36" />
       </file>
-      <file name="/REPL.clj" timestamp="1554734817220">
+      <file name="/REPL.clj" timestamp="1554741937924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1554039335770">
@@ -222,11 +222,11 @@
         <mark key="." line="38" column="31" />
         <mark key="^" line="38" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/link.cljs" timestamp="1554739882685">
-        <mark key="[" line="48" column="8" />
-        <mark key="]" line="48" column="36" />
-        <mark key="^" line="48" column="36" />
-        <mark key="." line="48" column="36" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/link.cljs" timestamp="1554742015012">
+        <mark key="[" line="44" column="33" />
+        <mark key="]" line="51" column="19" />
+        <mark key="^" line="51" column="19" />
+        <mark key="." line="51" column="19" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/ws/core.cljs" timestamp="1554652911450">
         <mark key="[" line="17" column="50" />
