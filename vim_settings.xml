@@ -6,7 +6,12 @@
       <file name="/Dummy.txt" timestamp="1555151659494">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1555151986327" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1555166052619">
+        <mark key="[" line="277" column="62" />
+        <mark key="]" line="281" column="56" />
+        <mark key="." line="281" column="56" />
+        <mark key="^" line="281" column="56" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/core.cljs" timestamp="1555151880598">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="113" />
@@ -35,8 +40,11 @@
       <register name="0" type="2">
         <text encoding="base64">OzsgOnVuaXQvY2hhbmdlLXN0eWxlIC0gQ2hhbmdlIHVuaXQncyBzdHlsZS4gVGhlIHNpbmdsZSBwYXJhbWV0ZXIgaXMgYSBtYXAgd2l0aCBrZXlzIDp1bml0L2lkIGFuZCA6dW5pdC9zdHlsZS1pZC4K</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHBhZ2UtdW5pdC1pZHMgKGludG8gI3t9ICgtPj4gdW5pdHMgdmFscyAoZmlsdGVyICMoPSAoOnVuaXQvdHlwZSAlKSA6dW5pdC9wYWdlKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG1hcCA6dW5pdC9pZCkpKQo=</text>
+      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">OzsgOnVuaXQvY2hhbmdlLXN0eWxlIC0gQ2hhbmdlIHVuaXQncyBzdHlsZS4gVGhlIHNpbmdsZSBwYXJhbWV0ZXIgaXMgYSBtYXAgd2l0aCBrZXlzIDp1bml0L2lkIGFuZCA6dW5pdC9zdHlsZS1pZC4K</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZ2UtdW5pdC1pZHMgKGludG8gI3t9ICgtPj4gdW5pdHMgdmFscyAoZmlsdGVyICMoPSAoOnVuaXQvdHlwZSAlKSA6dW5pdC9wYWdlKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG1hcCA6dW5pdC9pZCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
