@@ -40,11 +40,11 @@
         <mark key="." line="4" column="40" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/unit.clj" timestamp="1555152086222" />
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/interceptor.cljs" timestamp="1555238195416">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="48" />
-        <mark key="." line="21" column="48" />
-        <mark key="^" line="21" column="48" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/interceptor.cljs" timestamp="1555247048233">
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="33" />
+        <mark key="^" line="36" column="33" />
       </file>
       <file name="C:/Shared/orgpad/resources/public/index.html" timestamp="1555151592993">
         <mark key="[" line="6" column="36" />
@@ -121,8 +121,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHVwZGF0ZWQtZWZmZWN0cyAoaWYgc2luZ2xlLW9wCiAgICAgICAgICAgICAgICAgICAgICAgKG9wL29yZ3BhZ2Utb3AgdHlwZSBkYiBsaXN0KQogICAgICAgICAgICAgICAgICAgICAgIChyZWR1Y2UgKHBhcnRpYWwgb3Avb3JncGFnZS1vcCB0eXBlKSBkYiBsaXN0KSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICg9IHR5cGUgOm9wcy9sb2NhbCkgKGFzc29jIDp3cyB3cykK</text>
+      <register name="&quot;" type="4">
+        <text>ps-</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB7OnVuaXQva2V5cyBbY2hpbGQtdW5pdC1pZHNdfSAod2hlbiBwYXJlbnQtaWQgKGNvbW1vbi9nZXQtdW5pdC1tYXAgZGIgcGFyZW50LWlkKSkKICAgICAgICByZW1haW5pbmctaWRzLXRvLXJlc2l6ZSAoLT4+IGRiIGNvbW1vbi9nZXQtYXV0b3Jlc2l6ZSA6YXV0b3Jlc2l6ZS9yZXNpemUtaW5mb3MKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChtYXAgOnJlc2l6ZS1pbmZvL3VuaXQtaWQpIChyZW1vdmUgIyg9ICUgaWQpKSAoaW50byAje30pKQogICAgICAgIGFwcGx5LW1lcmdpbmctdG8tcGFyZW50IChhbmQgKD0gdHlwZSA6dW5pdC9tYXApKQo=</text>
@@ -144,6 +144,9 @@
       </register>
       <register name=":" type="4">
         <text>wa</text>
+      </register>
+      <register name="-" type="4">
+        <text>ps-</text>
       </register>
     </registers>
     <search>
