@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1555151659494">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1555197274316">
+        <mark key="[" line="0" column="12" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/autoresize.cljs" timestamp="1555197090717">
+        <mark key="[" line="39" column="51" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" timestamp="1555195822886">
         <mark key="[" line="95" column="11" />
