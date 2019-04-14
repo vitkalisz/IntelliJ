@@ -49,7 +49,6 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/unit.clj" timestamp="1555152086222" />
       <file name="C:/Shared/orgpad/src/orgpad/client/op/interceptor.cljs" timestamp="1555250097761">
         <mark key="[" line="15" column="26" />
         <mark key="]" line="15" column="35" />
@@ -94,6 +93,11 @@
         <mark key="]" line="63" column="48" />
         <mark key="^" line="63" column="48" />
         <mark key="." line="63" column="48" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/editor.cljs" timestamp="1555254034075">
+        <mark key="]" line="65" column="2" />
+        <mark key="^" line="65" column="2" />
+        <mark key="." line="65" column="2" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/link.cljs" timestamp="1555238525998">
         <mark key="[" line="21" column="2" />
