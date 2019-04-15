@@ -9,11 +9,11 @@
         <mark key="^" line="23" column="82" />
         <mark key="." line="23" column="82" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/app_state.cljs" timestamp="1555357706447">
-        <mark key="[" line="35" column="18" />
-        <mark key="]" line="32" column="79" />
-        <mark key="^" line="32" column="79" />
-        <mark key="." line="32" column="79" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/app_state.cljs" timestamp="1555358970492">
+        <mark key="[" line="177" column="64" />
+        <mark key="]" line="177" column="59" />
+        <mark key="^" line="177" column="59" />
+        <mark key="." line="177" column="59" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/common.cljs" timestamp="1555272842903">
         <mark key="[" line="29" column="17" />
@@ -138,11 +138,12 @@
         <mark key="^" line="26" column="13" />
         <mark key="." line="26" column="13" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/common.cljs" timestamp="1555258058153">
-        <mark key="[" line="160" column="61" />
-        <mark key="]" line="160" column="60" />
-        <mark key="." line="160" column="60" />
-        <mark key="^" line="160" column="60" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/common.cljs" timestamp="1555358857445">
+        <mark key="'" line="230" column="0" />
+        <mark key="[" line="234" column="58" />
+        <mark key="]" line="234" column="54" />
+        <mark key="." line="234" column="54" />
+        <mark key="^" line="234" column="54" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1555151572944">
         <mark key="[" line="69" column="30" />
@@ -157,13 +158,19 @@
         <mark key="^" line="123" column="60" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="154" column="0" filename="C:/Shared/orgpad/src/orgpad/client/events/common.cljs" />
+      <jump line="229" column="0" filename="C:/Shared/orgpad/src/orgpad/client/events/common.cljs" />
+    </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">KGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wIDp1bml0L2NoYW5nZS1zdHlsZSBbXyBkYiBbXyB7OnVuaXQva2V5cyBbaWQgc3R5bGUtaWRdfV1dCiAgKGxldCBbezp1bml0L2tleXMgW2NoaWxkLXVuaXQtaWRzXX0gKGNvbW1vbi9nZXQtdW5pdC1tYXAgZGIgaWQpXQogICAgezpkYiAgICAgICAgIChjb21tb24vdXBkYXRlLXVuaXQtZnV0dXJlIGRiIGlkIGFzc29jIDp1bml0L3N0eWxlLWlkIHN0eWxlLWlkKQogICAgIDphdXRvcmVzaXplIHs6YXV0b3Jlc2l6ZS91bml0cyBjaGlsZC11bml0LWlkc319KSkK</text>
       </register>
       <register name="-" type="4">
         <text>ps-</text>
+      </register>
+      <register name="/" type="4">
+        <text>assoc-in</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wIDp1bml0L2NoYW5nZS1zdHlsZSBbXyBkYiBbXyB7OnVuaXQva2V5cyBbaWQgc3R5bGUtaWRdfV1dCiAgKGxldCBbezp1bml0L2tleXMgW2NoaWxkLXVuaXQtaWRzXX0gKGNvbW1vbi9nZXQtdW5pdC1tYXAgZGIgaWQpXQogICAgezpkYiAgICAgICAgIChjb21tb24vdXBkYXRlLXVuaXQtZnV0dXJlIGRiIGlkIGFzc29jIDp1bml0L3N0eWxlLWlkIHN0eWxlLWlkKQogICAgIDphdXRvcmVzaXplIHs6YXV0b3Jlc2l6ZS91bml0cyBjaGlsZC11bml0LWlkc319KSkK</text>
@@ -200,12 +207,22 @@
       </register>
     </registers>
     <search>
+      <last-search>assoc-in</last-search>
+      <last-pattern>assoc-in</last-pattern>
+      <last-replace>assoc-in-db</last-replace>
+      <last-substitute>assoc-in</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>get-in</entry>
+        <entry>assoc-in</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2dldC1pbi9nZXQtaW4tZGIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2Fzc29jLWluL2Fzc29jLWluLWRiL2c=</entry>
         <entry>wa</entry>
       </history-cmd>
     </history>
