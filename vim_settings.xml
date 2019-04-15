@@ -84,6 +84,12 @@
       <file name="/Dummy.txt" timestamp="1555281921198">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/coeffects.cljs" timestamp="1555345796908">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" timestamp="1555195822886">
         <mark key="[" line="95" column="11" />
         <mark key="]" line="83" column="68" />
