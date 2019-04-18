@@ -161,6 +161,11 @@
         <mark key="^" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/op/link.clj" timestamp="1555618562275">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/unit.cljs" timestamp="1555615095892">
         <mark key="'" line="50" column="41" />
         <mark key="[" line="50" column="38" />
@@ -442,7 +447,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CihkZWZtZXRob2Qgb3Avb3JncGFnZS1vcCA6bGluay9zdHJhaWdodGVuIFtfIGVmZmVjdHMgW18gezpsaW5rL2tleXMgW2lkXX1dXQo=</text>
+        <text encoding="base64">KGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wISA6bGluay9tb3ZlIFtfIFtfIHs6bGluay9rZXlzIFtpZCBiZXppZXJdfV1dCiAgKGxpbmsvdXBkYXRlLWxpbmshIGlkIHs6bGluay9iZXppZXIgYmV6aWVyfSBuaWwpKQo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -451,7 +456,7 @@
         <text encoding="base64">XDxsaW5rXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wISA6dW5pdC9tb3ZlIFtfIF8gW18gdW5pdC1pZCBbeCB5XV1dCiAgKHVwZGF0ZS11bml0ISB1bml0LWlkIHs6dW5pdC94IHgKICAgICAgICAgICAgICAgICAgICAgICAgIDp1bml0L3kgeX0pKQo=</text>
+        <text encoding="base64">KGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wISA6bGluay9tb3ZlIFtfIFtfIHs6bGluay9rZXlzIFtpZCBiZXppZXJdfV1dCiAgKGxpbmsvdXBkYXRlLWxpbmshIGlkIHs6bGluay9iZXppZXIgYmV6aWVyfSBuaWwpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CihkZWZtZXRob2Qgb3Avb3JncGFnZS1vcCA6bGluay9zdHJhaWdodGVuIFtfIGVmZmVjdHMgW18gezpsaW5rL2tleXMgW2lkXX1dXQo=</text>
