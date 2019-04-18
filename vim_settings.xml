@@ -9,8 +9,8 @@
         <mark key="^" line="162" column="35" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" timestamp="1554678137978">
-        <mark key="[" line="4" column="61" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" timestamp="1555617850971">
+        <mark key="[" line="23" column="70" />
         <mark key="]" line="4" column="60" />
         <mark key="." line="4" column="60" />
         <mark key="^" line="4" column="60" />
@@ -346,11 +346,11 @@
         <mark key="." line="30" column="61" />
         <mark key="^" line="30" column="61" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/link.cljs" timestamp="1555616973494">
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/link.cljs" timestamp="1555617769810">
         <mark key="[" line="4" column="0" />
-        <mark key="]" line="23" column="45" />
-        <mark key="." line="23" column="45" />
-        <mark key="^" line="23" column="45" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="6" column="40" />
       </file>
       <file name="C:/Shared/orgpad/resources/sql/users.sql" timestamp="1553761741402">
         <mark key="[" line="18" column="42" />
@@ -481,7 +481,7 @@
         <text encoding="base64">KGRlZm4gc3dpdGNoLXRvLWRhc2hib2FyZCBbZGJdCiAgezpkYiAoY29tbW9uL2Fzc29jLWxvYWRpbmcgZGIgezpsb2FkaW5nL3N0YXRlIDpsb2FkaW5nL2dldHRpbmctZGFzaGJvYXJkfSkKICAgOndzIFs6ZGFzaGJvYXJkL2xvYWRdfSkKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -521,8 +521,8 @@
         <entry>wa'</entry>
         <entry encoding="base64">JzwsJz5zL14vICAvZw==</entry>
         <entry>%s/editor-btn/button\/button/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
