@@ -161,11 +161,12 @@
         <mark key="^" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit.cljs" timestamp="1555613348625">
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="36" column="40" />
-        <mark key="^" line="36" column="40" />
-        <mark key="." line="36" column="40" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit.cljs" timestamp="1555615095892">
+        <mark key="'" line="50" column="41" />
+        <mark key="[" line="50" column="38" />
+        <mark key="]" line="50" column="39" />
+        <mark key="^" line="50" column="39" />
+        <mark key="." line="50" column="39" />
       </file>
       <file name="C:/Shared/mines/src/mines/subs.cljs" timestamp="1554415242604">
         <mark key="[" line="2" column="26" />
@@ -208,9 +209,6 @@
         <mark key="]" line="25" column="36" />
         <mark key="." line="25" column="36" />
         <mark key="^" line="25" column="36" />
-      </file>
-      <file name="/REPL.clj" timestamp="1555613405331">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1554039335770">
         <mark key="[" line="2" column="4" />
@@ -434,6 +432,7 @@
       <jump line="110" column="56" filename="C:/Shared/orgpad/src/orgpad/client/views/link.cljs" />
       <jump line="45" column="6" filename="C:/Shared/orgpad/less/_panel.less" />
       <jump line="53" column="15" filename="C:/Shared/orgpad/src/orgpad/client/views/editor.cljs" />
+      <jump line="50" column="41" filename="C:/Shared/orgpad/src/orgpad/client/events/unit.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -443,7 +442,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>editor-btn</text>
+        <text encoding="base64">XDxsaW5rXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGRlZm1ldGhvZCBvcC9vcmdwYWdlLW9wISA6dW5pdC9tb3ZlIFtfIF8gW18gdW5pdC1pZCBbeCB5XV1dCiAgKHVwZGF0ZS11bml0ISB1bml0LWlkIHs6dW5pdC94IHgKICAgICAgICAgICAgICAgICAgICAgICAgIDp1bml0L3kgeX0pKQo=</text>
@@ -480,12 +479,12 @@
       </register>
     </registers>
     <search>
-      <last-search>editor-btn</last-search>
+      <last-search encoding="base64">XDxsaW5rXD4=</last-search>
       <last-offset />
-      <last-pattern>editor-btn</last-pattern>
+      <last-pattern encoding="base64">XDxsaW5rXD4=</last-pattern>
       <last-replace>button\/button</last-replace>
       <last-substitute>editor-btn</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -501,6 +500,7 @@
         <entry>bg-color</entry>
         <entry>^</entry>
         <entry>editor-btn</entry>
+        <entry encoding="base64">XDxsaW5rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL29yZ3BhZC9zdHlsZS9n</entry>
