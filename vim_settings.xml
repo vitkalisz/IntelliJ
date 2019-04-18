@@ -161,6 +161,12 @@
         <mark key="^" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit.cljs" timestamp="1555613348625">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="36" column="40" />
+        <mark key="^" line="36" column="40" />
+        <mark key="." line="36" column="40" />
+      </file>
       <file name="C:/Shared/mines/src/mines/subs.cljs" timestamp="1554415242604">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="3" column="23" />
@@ -203,7 +209,7 @@
         <mark key="." line="25" column="36" />
         <mark key="^" line="25" column="36" />
       </file>
-      <file name="/REPL.clj" timestamp="1555487504873">
+      <file name="/REPL.clj" timestamp="1555613405331">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1554039335770">
@@ -470,7 +476,7 @@
         <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgIldpbGwgdHJ5IHRvIGxvYWQgT3JncGFnZSIgaWQgIihzb29uKS4iKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -509,8 +515,8 @@
         <entry>wa'</entry>
         <entry encoding="base64">JzwsJz5zL14vICAvZw==</entry>
         <entry>%s/editor-btn/button\/button/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
