@@ -116,6 +116,12 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/link.cljs" timestamp="1555792951153">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/user.clj" timestamp="1555657028849">
         <mark key="[" line="18" column="29" />
         <mark key="]" line="15" column="14" />
@@ -134,11 +140,11 @@
         <mark key="." line="37" column="53" />
         <mark key="^" line="37" column="53" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" timestamp="1554058932028">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" timestamp="1555792895205">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="60" />
+        <mark key="^" line="1" column="60" />
+        <mark key="." line="1" column="60" />
       </file>
       <file name="C:/Shared/orgpad/shadow-cljs.edn" timestamp="1554323620692">
         <mark key="[" line="12" column="44" />
@@ -329,12 +335,6 @@
         <mark key="]" line="4" column="67" />
         <mark key="." line="4" column="67" />
         <mark key="^" line="4" column="67" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1555786104892">
-        <mark key="'" line="58" column="2" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1555791990382">
         <mark key="[" line="0" column="0" />
@@ -631,7 +631,6 @@
         <entry>common\/update-</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2luLWRiL2dldC1pbi1kYi9nXA==</entry>
         <entry encoding="base64">JzwsJz5zL1woW14gKF0qXCktcGF0aC9wYXRoc1wvXDEvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Fzc29jLS8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2luLWRiL2dldC1pbi1kYi9n</entry>
@@ -650,6 +649,7 @@
         <entry>%s/common\/get-/db-get\//g</entry>
         <entry>%s/common\/update-/db-update\//g</entry>
         <entry>va</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
