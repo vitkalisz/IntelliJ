@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/app_state.cljs" timestamp="1555747883092">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="25" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/app_state.cljs" timestamp="1555786412725">
+        <mark key="'" line="205" column="35" />
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+        <mark key="^" line="18" column="37" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" timestamp="1555742201588">
         <mark key="[" line="63" column="52" />
@@ -213,12 +214,12 @@
         <mark key="." line="143" column="52" />
         <mark key="^" line="143" column="52" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1555784679974">
-        <mark key="'" line="10" column="0" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1555786025056">
+        <mark key="'" line="92" column="2" />
         <mark key="[" line="68" column="6" />
-        <mark key="]" line="68" column="6" />
-        <mark key="^" line="68" column="6" />
-        <mark key="." line="65" column="4" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/core.cljs" timestamp="1554677496384">
         <mark key="[" line="8" column="2" />
@@ -286,12 +287,12 @@
         <mark key="." line="34" column="8" />
         <mark key="^" line="34" column="8" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1555784882202">
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1555785840097">
         <mark key="'" line="59" column="2" />
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="7" column="32" />
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="5" />
       </file>
       <file name="C:/Shared/mines/less/site.less" timestamp="1554414050362">
         <mark key="[" line="24" column="32" />
@@ -305,12 +306,11 @@
         <mark key="." line="4" column="67" />
         <mark key="^" line="4" column="67" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1555784907861">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1555786104892">
+        <mark key="'" line="58" column="2" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1554650863145">
         <mark key="[" line="9" column="33" />
@@ -376,11 +376,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="39" column="6" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/interceptor.cljs" timestamp="1555741418803">
-        <mark key="[" line="5" column="57" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="31" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/interceptor.cljs" timestamp="1555786246882">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1553879085476">
         <mark key="[" line="25" column="86" />
@@ -471,8 +471,17 @@
       <jump line="74" column="6" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
       <jump line="93" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
       <jump line="10" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
-      <jump line="59" column="2" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
       <jump line="59" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="20" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="60" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
+      <jump line="59" column="2" filename="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" />
+      <jump line="94" column="0" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="92" column="2" filename="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" />
+      <jump line="58" column="2" filename="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" />
+      <jump line="19" column="20" filename="C:/Shared/orgpad/src/orgpad/client/events/app_state.cljs" />
+      <jump line="175" column="39" filename="C:/Shared/orgpad/src/orgpad/client/events/app_state.cljs" />
+      <jump line="174" column="42" filename="C:/Shared/orgpad/src/orgpad/client/events/app_state.cljs" />
+      <jump line="205" column="35" filename="C:/Shared/orgpad/src/orgpad/client/events/app_state.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -482,7 +491,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>\([^ (]*\)-path</text>
+        <text>common\/update-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGRlZm4gYXNzb2MtY3VycmVudCBbZGIgdmFsXQogIChhc3NvYy1pbi1kYiBkYiBjdXJyZW50LXBhdGggdmFsKSkK</text>
@@ -515,29 +524,20 @@
         <text encoding="base64">ICAgIFtvcmdwYWQuY2xpZW50LmRiIDphcyBkYl0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1woW14gKF0qXCktcGF0aC9wYXRoc1wvXDEvZw==</text>
+        <text>%s/common\/update-/db-update\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>\([^ (]*\)-path</last-search>
+      <last-search>common\/update-</last-search>
       <last-offset />
-      <last-pattern>\([^ (]*\)-path</last-pattern>
-      <last-replace>paths\/\1</last-replace>
-      <last-substitute>\([^ (]*\)-path</last-substitute>
+      <last-pattern>common\/update-</last-pattern>
+      <last-replace>db-update\/</last-replace>
+      <last-substitute>common\/update-</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hide-zoom-info</entry>
-        <entry>:orgpad</entry>
-        <entry>orgpad</entry>
-        <entry>sive</entry>
-        <entry>size</entry>
-        <entry>:orgpage</entry>
-        <entry>orgpage</entry>
-        <entry>unit-type</entry>
-        <entry>bg-color</entry>
         <entry>^</entry>
         <entry>editor-btn</entry>
         <entry encoding="base64">XDxsaW5rXD4=</entry>
@@ -545,30 +545,41 @@
         <entry>([^ ]*)-path</entry>
         <entry>\([^ ]*\)-path</entry>
         <entry>get-</entry>
-        <entry>in-db</entry>
         <entry>\([^ (]*\)-path</entry>
+        <entry>assoc-</entry>
+        <entry>update-</entry>
+        <entry>in-db</entry>
+        <entry>update-in-db</entry>
+        <entry>update-in-db-or-effects</entry>
+        <entry>get-in-db-or-effects</entry>
+        <entry>db</entry>
+        <entry>assoc-in-db-or-effects</entry>
+        <entry>common\/assoc</entry>
+        <entry>common\/assoc-</entry>
+        <entry>common\/get-</entry>
+        <entry>common\/update-</entry>
       </history-search>
       <history-cmd>
-        <entry>s/orgpad/orgpage/g</entry>
-        <entry>%s/orgpad/orgpage/g</entry>
-        <entry>%s/:orgpad/:orgpage/g</entry>
-        <entry encoding="base64">JzwsJz5zL29yZ3BhZC9vcmdwYWdlL2c=</entry>
-        <entry>Wa</entry>
-        <entry encoding="base64">JzwsJz5zL29yZ3BhZ2UvdW5pdC9n</entry>
-        <entry>wa'</entry>
-        <entry encoding="base64">JzwsJz5zL14vICAvZw==</entry>
-        <entry>%s/editor-btn/button\/button/g</entry>
-        <entry>wa\</entry>
-        <entry>w</entry>
-        <entry>wa</entry>
-        <entry encoding="base64">JzwsJz5zLy1wYXRoLy9n</entry>
-        <entry encoding="base64">JzwsJz5zLyhbXiBdKiktcGF0aC9wYXRoc1wvJDEvZw==</entry>
-        <entry encoding="base64">JzwsJz5zLyhbXiBdKiktcGF0aC9wYXRoc1wvXDEvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL1woW14gXSpcKS1wYXRoL3BhdGhzXC9cMS9n</entry>
         <entry encoding="base64">JzwsJz5zL2dldC0vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2luLWRiL2dldC1pbi1kYi9nXA==</entry>
-        <entry encoding="base64">JzwsJz5zL2luLWRiL2dldC1pbi1kYi9n</entry>
         <entry encoding="base64">JzwsJz5zL1woW14gKF0qXCktcGF0aC9wYXRoc1wvXDEvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2Fzc29jLS8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2luLWRiL2dldC1pbi1kYi9n</entry>
+        <entry encoding="base64">JzwsJz5zL2luLWRiL2Fzc29jLWluLWRiL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3VwZGF0ZS0vL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2luLWRiL3VwZGF0ZS1pbi1kYi9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RiL2RiLW9yLWVmZmVjdHM=</entry>
+        <entry encoding="base64">JzwsJz5zL3VwZGF0ZS1pbi1kYi91cGRhdGUtaW4tZGI=</entry>
+        <entry encoding="base64">JzwsJz5zL3VwZGF0ZS1pbi1kYi1vci1lZmZlY3RzL3VwZGF0ZS1pbi1kYg==</entry>
+        <entry encoding="base64">JzwsJz5zL2dldC1pbi1kYi1vci1lZmZlY3RzL2dldC1pbi1kYg==</entry>
+        <entry encoding="base64">JzwsJz5zL2RiL2RiLW9yLWVmZmVjdHMvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2Fzc29jLWluLWRiLW9yLWVmZmVjdHMvYXNzb2MtaW4tZGI=</entry>
+        <entry>wa</entry>
+        <entry>wa\</entry>
+        <entry>%s/common\/assoc/db-assoc\//g</entry>
+        <entry>%s/common\/assoc-/db-assoc\//g</entry>
+        <entry>%s/common\/get-/db-get\//g</entry>
+        <entry>%s/common\/update-/db-update\//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
