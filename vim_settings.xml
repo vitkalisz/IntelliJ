@@ -336,9 +336,6 @@
         <mark key="." line="4" column="67" />
         <mark key="^" line="4" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555791990382">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1554650863145">
         <mark key="[" line="9" column="33" />
         <mark key="]" line="10" column="27" />
@@ -373,9 +370,6 @@
         <mark key="]" line="2" column="70" />
         <mark key="." line="2" column="70" />
         <mark key="^" line="2" column="70" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/autoresize.cljs" timestamp="1554031692299">
-        <mark key="[" line="63" column="56" />
       </file>
       <file name="C:/Shared/orgpad/less/_root.less" timestamp="1554652333296">
         <mark key="[" line="51" column="14" />
