@@ -436,17 +436,17 @@
         <mark key="]" line="5" column="40" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/button.cljs" timestamp="1554397122147">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="23" column="32" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="23" column="32" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/button.cljs" timestamp="1555839496134">
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="84" />
+        <mark key="^" line="15" column="84" />
+        <mark key="." line="15" column="84" />
       </file>
-      <file name="C:/Shared/orgpad/less/_buttons.less" timestamp="1554327254235">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="39" column="6" />
+      <file name="C:/Shared/orgpad/less/_buttons.less" timestamp="1555839747759">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="50" column="5" />
+        <mark key="." line="50" column="5" />
+        <mark key="^" line="50" column="5" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/interceptor.cljs" timestamp="1555786246882">
         <mark key="[" line="3" column="33" />
@@ -605,7 +605,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5rLWVkaXRvci1tYXAgQChyZi9zdWJzY3JpYmUgWzphcHAtc3RhdGUvbGluay1lZGl0b3JdKQo=</text>
+        <text encoding="base64">LmJ1dHRvbiB7CiAgd2lkdGg6IDQwcHg7CiAgaGVpZ2h0OiA0MHB4OwogIGJvcmRlci1yYWRpdXM6IDIwcHg7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -614,7 +614,7 @@
         <text>handle-mouse-up</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZm4gYXNzb2MtY3VycmVudCBbZGIgdmFsXQogIChhc3NvYy1pbi1kYiBkYiBjdXJyZW50LXBhdGggdmFsKSkK</text>
+        <text encoding="base64">LmJ1dHRvbiB7CiAgd2lkdGg6IDQwcHg7CiAgaGVpZ2h0OiA0MHB4OwogIGJvcmRlci1yYWRpdXM6IDIwcHg7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsaW5rLWVkaXRvci1tYXAgQChyZi9zdWJzY3JpYmUgWzphcHAtc3RhdGUvbGluay1lZGl0b3JdKQo=</text>
