@@ -159,10 +159,9 @@
         <mark key="." line="5" column="23" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/ws.clj" timestamp="1555872209998">
-        <mark key="[" line="65" column="62" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/html2hiccup.cljs" timestamp="1554057736060">
         <mark key="[" line="79" column="50" />
