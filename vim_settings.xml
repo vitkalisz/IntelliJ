@@ -18,18 +18,18 @@
       <file name="/Dummy.txt" timestamp="1555970333657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1556048581393">
-        <mark key="[" line="32" column="54" />
-        <mark key="]" line="32" column="60" />
-        <mark key="^" line="32" column="60" />
-        <mark key="." line="32" column="60" />
+      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1556050896372">
+        <mark key="[" line="28" column="64" />
+        <mark key="]" line="28" column="68" />
+        <mark key="^" line="28" column="68" />
+        <mark key="." line="28" column="68" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1556050279955">
-        <mark key="'" line="18" column="3" />
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="26" column="23" />
-        <mark key="." line="26" column="23" />
-        <mark key="^" line="26" column="23" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1556051642530">
+        <mark key="'" line="23" column="3" />
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="38" />
+        <mark key="^" line="26" column="38" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1556048367252">
         <mark key="[" line="5" column="25" />
@@ -91,25 +91,28 @@
         <text encoding="base64">ICAgIFtoaWNrb3J5LmNvcmVdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIChwcmludGxuIHZhbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBodG1sMmhpY2N1cC9jb252ZXJ0Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIChwcmludGxuIHZhbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBodG1sMmhpY2N1cC9jb252ZXJ0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRlZm4tIGRlY29kZS11bml0LWNvbnRlbnQgW2NvbnRlbnRdCiAgKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIChwcmludGxuIHZhbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgO1tsZWluLW5wbSAiMC42LjIiXQo=</text>
+        <text encoding="base64">KGRlZm4tIGRlY29kZS11bml0LWNvbnRlbnQgW2NvbnRlbnRdCiAgKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKGxvZy9pbmZvIChjb25maWcvZW52IDpkYXRhYmFzZS11cmwpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgO1tsZWluLW5wbSAiMC42LjIiXQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKGxvZy9pbmZvIChjb25maWcvZW52IDpkYXRhYmFzZS11cmwpKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAobG9nL2luZm8gIkxpc3Qgb2Ygb3JncGFnZXM6IiAoZGItb3JncGFnZS9vcmdwYWdlLWxpc3QpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -119,8 +122,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
