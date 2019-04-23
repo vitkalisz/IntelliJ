@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" timestamp="1555965349180" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" timestamp="1556048323250">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1556042148512">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="14" column="46" />
@@ -12,6 +17,37 @@
       </file>
       <file name="/Dummy.txt" timestamp="1555970333657">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1556048277731">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1556047373797">
+        <mark key="'" line="16" column="3" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1556048367252">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
+      <file name="C:/Shared/orgpad/Procfile" timestamp="1555970322159">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="59" />
+        <mark key="^" line="0" column="59" />
+        <mark key="." line="0" column="59" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/editor.cljs" timestamp="1556048300362">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1555969830160">
         <mark key="[" line="20" column="73" />
@@ -28,28 +64,17 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="76" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1556045953929">
-        <mark key="'" line="10" column="3" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="11" column="60" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/html2hiccup.cljs" timestamp="1556045949483">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="18" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/html2hiccup.cljs" timestamp="1556047726175">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="53" />
+        <mark key="." line="32" column="53" />
+        <mark key="^" line="32" column="53" />
       </file>
       <file name="C:/Shared/orgpad/project.clj" timestamp="1556042059371">
         <mark key="[" line="21" column="41" />
         <mark key="]" line="22" column="39" />
         <mark key="." line="22" column="39" />
         <mark key="^" line="22" column="39" />
-      </file>
-      <file name="C:/Shared/orgpad/Procfile" timestamp="1555970322159">
-        <mark key="[" line="0" column="42" />
-        <mark key="]" line="0" column="59" />
-        <mark key="^" line="0" column="59" />
-        <mark key="." line="0" column="59" />
       </file>
       <file name="C:/Shared/orgpad/env/prod/resources/config.edn" timestamp="1555968190136">
         <mark key="[" line="1" column="76" />
@@ -66,19 +91,25 @@
         <text encoding="base64">ICAgIFtoaWNrb3J5LmNvcmVdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgO1tsZWluLW5wbSAiMC42LjIiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIChwcmludGxuIHZhbCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFtoaWNrb3J5LmNvcmVdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIChwcmludGxuIHZhbCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKGxvZy9pbmZvIChjb25maWcvZW52IDpkYXRhYmFzZS11cmwpKQo=</text>
+        <text encoding="base64">KGRlZm4tIGRlY29kZS11bml0LWNvbnRlbnQgW2NvbnRlbnRdCiAgKQoK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgO1tsZWluLW5wbSAiMC42LjIiXQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKGxvZy9pbmZvIChjb25maWcvZW52IDpkYXRhYmFzZS11cmwpKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAobG9nL2luZm8gIkxpc3Qgb2Ygb3JncGFnZXM6IiAoZGItb3JncGFnZS9vcmdwYWdlLWxpc3QpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -88,8 +119,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
