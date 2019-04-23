@@ -18,18 +18,18 @@
       <file name="/Dummy.txt" timestamp="1555970333657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1556048277731">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1556048581393">
+        <mark key="[" line="32" column="54" />
+        <mark key="]" line="32" column="60" />
+        <mark key="^" line="32" column="60" />
+        <mark key="." line="32" column="60" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1556047373797">
-        <mark key="'" line="16" column="3" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="36" />
-        <mark key="." line="11" column="36" />
-        <mark key="^" line="11" column="36" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1556049580637">
+        <mark key="'" line="18" column="3" />
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="33" />
+        <mark key="^" line="26" column="33" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1556048367252">
         <mark key="[" line="5" column="25" />
@@ -109,7 +109,7 @@
         <text encoding="base64">ICAobG9nL2luZm8gIkxpc3Qgb2Ygb3JncGFnZXM6IiAoZGItb3JncGFnZS9vcmdwYWdlLWxpc3QpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -119,8 +119,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
