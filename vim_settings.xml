@@ -24,12 +24,12 @@
         <mark key="^" line="28" column="68" />
         <mark key="." line="28" column="68" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1556055739694">
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1556127334929">
         <mark key="'" line="42" column="3" />
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
+        <mark key="[" line="47" column="41" />
+        <mark key="]" line="47" column="44" />
+        <mark key="." line="47" column="44" />
+        <mark key="^" line="47" column="44" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1556048367252">
         <mark key="[" line="5" column="25" />
@@ -127,7 +127,7 @@
         <text encoding="base64">ICAobG9nL2luZm8gIkxpc3Qgb2Ygb3JncGFnZXM6IiAoZGItb3JncGFnZS9vcmdwYWdlLWxpc3QpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -137,8 +137,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
