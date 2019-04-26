@@ -26,12 +26,12 @@
         <mark key="." line="42" column="27" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1556290941352">
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1556293920750">
         <mark key="'" line="88" column="55" />
-        <mark key="[" line="91" column="6" />
-        <mark key="]" line="89" column="45" />
-        <mark key="." line="89" column="45" />
-        <mark key="^" line="89" column="45" />
+        <mark key="[" line="107" column="8" />
+        <mark key="]" line="111" column="5" />
+        <mark key="." line="111" column="5" />
+        <mark key="^" line="111" column="5" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1556272422571">
         <mark key="[" line="102" column="35" />
@@ -204,7 +204,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG1hcCAjKC0+ICUgaGlja29yeS5jb3JlL2FzLWhpY2N1cCAgICAgICAgICAgICAgICAgO3BhcnNlLXN0eWxlcyByZXBsYWNlLWVzY2FwZS1zZXF1ZW5jZXMgcmVtb3ZlLW5vbndoaXRlbGlzdGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjXyhyZW1vdmUgIyg9ICUgIlxuIikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICNfKG1hcCByZW1vdmUtbmV3bGluZXMpKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -225,9 +225,9 @@
       <history-cmd>
         <entry>wa'</entry>
         <entry encoding="base64">JzwsJz5zLzphcHAtc3RhdGVcL2FwcC1zdGF0ZS86b3JncGFnZVwvb3JncGFnZS9n</entry>
-        <entry>w</entry>
         <entry>aw</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
