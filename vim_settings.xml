@@ -250,7 +250,7 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1556305870786">
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1556307541981">
         <mark key="'" line="68" column="15" />
         <mark key="[" line="73" column="14" />
         <mark key="]" line="74" column="16" />
@@ -471,12 +471,7 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/db/orgpage.clj" timestamp="1555871533671">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-        <mark key="^" line="13" column="12" />
-      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/db/orgpage.clj" timestamp="1555871533671" />
       <file name="C:/Shared/orgpad/src/orgpad/client/op/link.cljs" timestamp="1555788478991">
         <mark key="'" line="24" column="2" />
         <mark key="[" line="2" column="0" />
