@@ -57,11 +57,11 @@
       <file name="/Dummy.txt" timestamp="1556229041930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1556275051075">
-        <mark key="[" line="79" column="11" />
-        <mark key="]" line="80" column="32" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="78" column="10" />
+      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1556279996244">
+        <mark key="[" line="79" column="39" />
+        <mark key="]" line="79" column="28" />
+        <mark key="." line="79" column="28" />
+        <mark key="^" line="79" column="28" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/unit.cljs" timestamp="1556225055388">
         <mark key="[" line="104" column="4" />
@@ -206,7 +206,7 @@
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBkYikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -227,8 +227,8 @@
       <history-cmd>
         <entry>wa'</entry>
         <entry encoding="base64">JzwsJz5zLzphcHAtc3RhdGVcL2FwcC1zdGF0ZS86b3JncGFnZVwvb3JncGFnZS9n</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
