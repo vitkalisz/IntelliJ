@@ -272,11 +272,12 @@
         <mark key="^" line="34" column="26" />
         <mark key="." line="34" column="26" />
       </file>
-      <file name="C:/Shared/orgpad/resources/sql/images.sql" timestamp="1556448690091">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
+      <file name="C:/Shared/orgpad/resources/sql/images.sql" timestamp="1556449401501">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/loading.cljs" timestamp="1555787856222">
         <mark key="'" line="4" column="16" />
@@ -487,12 +488,6 @@
         <mark key="." line="12" column="76" />
         <mark key="^" line="12" column="76" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/editor.cljs" timestamp="1555835833006">
-        <mark key="'" line="146" column="12" />
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="5" column="40" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/less/_buttons.less" timestamp="1555843267058">
         <mark key="[" line="71" column="20" />
         <mark key="]" line="80" column="20" />
@@ -632,7 +627,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gOm5hbWUgY3JlYXRlLXVuaXQhIDohIDpuCi0tIDpkb2MgY3JlYXRlcyBhIG5ldyB1bml0CklOU0VSVCBJTlRPIHVuaXRzCihpZCwgb3JncGFnZSwgb3duZXIsIHZhbCkKVkFMVUVTICg6aWQsIDpvcmdwYWdlLCA6b3duZXIsIDp2YWwpCgotLSA6bmFtZSB1cGRhdGUtdW5pdCEgOiEgOm4KLS0gOmRvYyB1cGRhdGVzIGFuIGV4aXN0aW5nIHVuaXQKVVBEQVRFIHVuaXRzClNFVCB2YWwgPSA6dmFsLCBvd25lciA9IDpvd25lcgpXSEVSRSBpZCA9IDppZAoKLS0gOm5hbWUgZ2V0LXVuaXQgOj8gOjEKLS0gOmRvYyByZXRyaWV2ZXMgYSB1bml0IGdpdmVuIHRoZSBpZApTRUxFQ1QgKiBGUk9NIHVuaXRzCldIRVJFIGlkID0gOmlkCgotLSA6bmFtZSBnZXQtdW5pdHMgOj8gOioKLS0gOmRvYyBnZXRzIGFsbCB1bml0cwpTRUxFQ1QgKiBGUk9NIHVuaXRzCgotLSA6bmFtZSBkZWxldGUtdW5pdCEgOiEgOm4KLS0gOmRvYyBkZWxldGVzIGEgdW5pdCBnaXZlbiB0aGUgaWQKREVMRVRFIEZST00gdW5pdHMKV0hFUkUgaWQgPSA6aWQKCi0tIDpuYW1lIGdldC1vcmdwYWdlLXVuaXRzIDo/IDoqCi0tIDpkb2MgcmV0cmlldmVzIHVuaXRzIGFzc29jaWF0ZWQgdG8gYW4gb3JncGFnZSBvZiBnaXZlbiBpZApTRUxFQ1QgKiBGUk9NIHVuaXRzCldIRVJFIG9yZ3BhZ2UgPSA6b3JncGFnZQoK</text>
+        <text encoding="base64">LS0gOm5hbWUgdXBkYXRlLWltYWdlISA6ISA6bgotLSA6ZG9jIHVwZGF0ZXMgYW4gZXhpc3RpbmcgaW1hZ2UKVVBEQVRFIGltYWdlcwpTRVQgdmFsID0gOnZhbCwgb3duZXIgPSA6b3duZXIKV0hFUkUgaWQgPSA6aWQK</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -641,7 +636,7 @@
         <text>unit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0gOm5hbWUgY3JlYXRlLXVuaXQhIDohIDpuCi0tIDpkb2MgY3JlYXRlcyBhIG5ldyB1bml0CklOU0VSVCBJTlRPIHVuaXRzCihpZCwgb3JncGFnZSwgb3duZXIsIHZhbCkKVkFMVUVTICg6aWQsIDpvcmdwYWdlLCA6b3duZXIsIDp2YWwpCgotLSA6bmFtZSB1cGRhdGUtdW5pdCEgOiEgOm4KLS0gOmRvYyB1cGRhdGVzIGFuIGV4aXN0aW5nIHVuaXQKVVBEQVRFIHVuaXRzClNFVCB2YWwgPSA6dmFsLCBvd25lciA9IDpvd25lcgpXSEVSRSBpZCA9IDppZAoKLS0gOm5hbWUgZ2V0LXVuaXQgOj8gOjEKLS0gOmRvYyByZXRyaWV2ZXMgYSB1bml0IGdpdmVuIHRoZSBpZApTRUxFQ1QgKiBGUk9NIHVuaXRzCldIRVJFIGlkID0gOmlkCgotLSA6bmFtZSBnZXQtdW5pdHMgOj8gOioKLS0gOmRvYyBnZXRzIGFsbCB1bml0cwpTRUxFQ1QgKiBGUk9NIHVuaXRzCgotLSA6bmFtZSBkZWxldGUtdW5pdCEgOiEgOm4KLS0gOmRvYyBkZWxldGVzIGEgdW5pdCBnaXZlbiB0aGUgaWQKREVMRVRFIEZST00gdW5pdHMKV0hFUkUgaWQgPSA6aWQKCi0tIDpuYW1lIGdldC1vcmdwYWdlLXVuaXRzIDo/IDoqCi0tIDpkb2MgcmV0cmlldmVzIHVuaXRzIGFzc29jaWF0ZWQgdG8gYW4gb3JncGFnZSBvZiBnaXZlbiBpZApTRUxFQ1QgKiBGUk9NIHVuaXRzCldIRVJFIG9yZ3BhZ2UgPSA6b3JncGFnZQoK</text>
+        <text encoding="base64">LS0gOm5hbWUgdXBkYXRlLWltYWdlISA6ISA6bgotLSA6ZG9jIHVwZGF0ZXMgYW4gZXhpc3RpbmcgaW1hZ2UKVVBEQVRFIGltYWdlcwpTRVQgdmFsID0gOnZhbCwgb3duZXIgPSA6b3duZXIKV0hFUkUgaWQgPSA6aWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -671,7 +666,7 @@
         <text encoding="base64">ICAgICAgICAgIG9yZ3BhZ2UgKGdldC12YWwtd2l0aC1pZCA6b3JncGFnZS9pZCBvcmdwYWdlLW1hcCkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3VuaXQvaW1hZ2UvZw==</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -725,8 +720,8 @@
         <entry>va</entry>
         <entry encoding="base64">JzwsJz5zL2hhbmRsZS1tb3VzZS11cC9oYW5kbGUtdXAvZw==</entry>
         <entry>w</entry>
-        <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zL3VuaXQvaW1hZ2UvZw==</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
