@@ -244,6 +244,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1556440074591">
+        <mark key="'" line="53" column="17" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="53" column="17" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="53" column="17" />
+      </file>
       <file name="C:/Shared/mines/resources/public/index.html" timestamp="1554408785692">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="32" />
@@ -610,6 +617,9 @@
       <jump line="2" column="30" filename="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" />
       <jump line="0" column="0" filename="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" />
       <jump line="49" column="5" filename="C:/Shared/orgpad/src/orgpad/client/views/widgets/button.cljs" />
+      <jump line="52" column="0" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
+      <jump line="5" column="13" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
+      <jump line="39" column="17" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -619,7 +629,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>handle-mouse-up</text>
+        <text>clojure.set</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGRlZm1ldGhvZCBoYW5kbGUtdXAgWzptb3VzZS9jbGljayA6ZGFzaGJvYXJkL2RlbGV0ZS1vcmdwYWdlXQogIFtlZmZlY3RzIF8gezptb3VzZS1kb3duL2tleXMgW2lkXX1dCiAgWyhkYXNoYm9hcmQvZGVsZXRlLW9yZ3BhZ2UgZWZmZWN0cyBpZCkgZmFsc2VdKQo=</text>
@@ -656,9 +666,9 @@
       </register>
     </registers>
     <search>
-      <last-search>handle-mouse-up</last-search>
+      <last-search>clojure.set</last-search>
       <last-offset />
-      <last-pattern>handle-mouse-up</last-pattern>
+      <last-pattern>clojure.set</last-pattern>
       <last-replace>handle-up</last-replace>
       <last-substitute>handle-mouse-up</last-substitute>
       <last-dir>1</last-dir>
@@ -666,7 +676,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaW5rXD4=</entry>
         <entry>-path</entry>
         <entry>([^ ]*)-path</entry>
         <entry>\([^ ]*\)-path</entry>
@@ -686,6 +695,7 @@
         <entry>common\/get-</entry>
         <entry>common\/update-</entry>
         <entry>handle-mouse-up</entry>
+        <entry>clojure.set</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Fzc29jLS8vZw==</entry>
