@@ -97,12 +97,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit.cljs" timestamp="1556566289807">
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit.cljs" timestamp="1556569601405">
         <mark key="'" line="124" column="36" />
         <mark key="[" line="15" column="9" />
-        <mark key="]" line="15" column="8" />
-        <mark key="^" line="15" column="8" />
-        <mark key="." line="15" column="8" />
+        <mark key="]" line="95" column="15" />
+        <mark key="^" line="95" column="15" />
+        <mark key="." line="95" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1555780107177">
         <mark key="'" line="89" column="0" />
