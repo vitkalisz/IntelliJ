@@ -412,11 +412,11 @@
       <file name="/Dummy.txt" timestamp="1557283822150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/link_editor.cljs" timestamp="1557364175685">
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/link_editor.cljs" timestamp="1557383789857">
         <mark key="[" line="37" column="36" />
-        <mark key="]" line="44" column="41" />
-        <mark key="^" line="44" column="41" />
-        <mark key="." line="44" column="41" />
+        <mark key="]" line="36" column="18" />
+        <mark key="^" line="36" column="18" />
+        <mark key="." line="36" column="18" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/ws/effect.cljs" timestamp="1555745867288">
         <mark key="[" line="6" column="7" />
