@@ -57,11 +57,11 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/panel.cljs" timestamp="1557585302779">
         <mark key="[" line="1" column="2" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/links/core.cljs" timestamp="1557952617031">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="24" column="23" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/links/core.cljs" timestamp="1557955757961">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="9" column="60" />
+        <mark key="." line="9" column="60" />
+        <mark key="^" line="9" column="60" />
       </file>
       <file name="C:/Shared/orgpad/less/_orgpage.less" timestamp="1554496207720">
         <mark key="[" line="5" column="0" />
@@ -239,10 +239,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/links/bezier.cljs" timestamp="1557952720252">
-        <mark key="]" line="36" column="46" />
-        <mark key="." line="36" column="46" />
-        <mark key="^" line="36" column="46" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/links/bezier.cljs" timestamp="1557954893152">
+        <mark key="[" line="49" column="12" />
+        <mark key="]" line="42" column="46" />
+        <mark key="." line="42" column="46" />
+        <mark key="^" line="42" column="46" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/loading.cljs" timestamp="1557152221610">
         <mark key="[" line="13" column="26" />
