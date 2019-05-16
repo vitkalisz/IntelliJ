@@ -156,6 +156,12 @@
         <mark key="^" line="28" column="72" />
         <mark key="." line="28" column="72" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/canvas.cljs" timestamp="1558024053896">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="19" column="40" />
+        <mark key="^" line="19" column="40" />
+        <mark key="." line="19" column="40" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up.cljs" timestamp="1557441260804">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="52" column="0" />
@@ -242,11 +248,11 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="15" column="13" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/loading.cljs" timestamp="1557152221610">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="12" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/loading.cljs" timestamp="1558024231431">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="4" column="7" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/modes.cljs" timestamp="1557415387679">
         <mark key="[" line="8" column="2" />
@@ -464,11 +470,11 @@
         <mark key="." line="30" column="41" />
         <mark key="^" line="30" column="41" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1556918875260">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="24" column="60" />
-        <mark key="^" line="24" column="60" />
-        <mark key="." line="24" column="60" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1558024797574">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="46" column="74" />
+        <mark key="^" line="46" column="74" />
+        <mark key="." line="46" column="74" />
       </file>
       <file name="/REPL.clj" timestamp="1557996802886">
         <mark key="[" line="0" column="0" />
