@@ -81,8 +81,8 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/util.cljs" timestamp="1557777153681">
-        <mark key="[" line="0" column="24" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/util.cljs" timestamp="1557984174564">
+        <mark key="[" line="1" column="2" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -150,11 +150,11 @@
         <mark key="." line="51" column="15" />
         <mark key="^" line="51" column="15" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1557962837630">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1557984871567">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="28" column="72" />
+        <mark key="^" line="28" column="72" />
+        <mark key="." line="28" column="72" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up.cljs" timestamp="1557441260804">
         <mark key="[" line="76" column="0" />
@@ -326,11 +326,11 @@
         <mark key="^" line="6" column="39" />
         <mark key="." line="6" column="39" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/core.cljs" timestamp="1557960903661">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="8" column="55" />
-        <mark key="^" line="8" column="55" />
-        <mark key="." line="8" column="55" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/core.cljs" timestamp="1557984558571">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="13" column="55" />
+        <mark key="^" line="13" column="55" />
+        <mark key="." line="13" column="55" />
       </file>
       <file name="C:/Shared/mines/src/mines/db.cljs" timestamp="1554414484268">
         <mark key="[" line="6" column="13" />
