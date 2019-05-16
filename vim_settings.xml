@@ -217,9 +217,6 @@
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/link_editor.cljs" timestamp="1557688211923">
         <mark key="[" line="0" column="42" />
-        <mark key="]" line="44" column="51" />
-        <mark key="^" line="44" column="51" />
-        <mark key="." line="44" column="51" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/ws/effect.cljs" timestamp="1557705822397">
         <mark key="[" line="12" column="26" />
@@ -256,12 +253,6 @@
         <mark key="]" line="8" column="64" />
         <mark key="^" line="8" column="64" />
         <mark key="." line="8" column="64" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/button.cljs" timestamp="1557986461878">
-        <mark key="[" line="53" column="1" />
-        <mark key="]" line="54" column="1" />
-        <mark key="^" line="54" column="1" />
-        <mark key="." line="54" column="1" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/interceptor.cljs" timestamp="1557159510917">
         <mark key="[" line="6" column="26" />
