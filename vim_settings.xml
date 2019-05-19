@@ -68,11 +68,6 @@
         <mark key="^" line="20" column="51" />
         <mark key="." line="20" column="51" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/interceptor.cljs" timestamp="1558071984079">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/less/_orgpage.less" timestamp="1554496207720">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -102,6 +97,9 @@
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1558243416260">
+        <mark key="[" line="40" column="11" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1553939508345">
         <mark key="[" line="27" column="30" />
@@ -211,11 +209,11 @@
         <mark key="." line="9" column="32" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/orgpage.cljs" timestamp="1558078433511">
-        <mark key="'" line="109" column="46" />
-        <mark key="[" line="103" column="14" />
-        <mark key="]" line="103" column="32" />
-        <mark key="^" line="103" column="32" />
-        <mark key="." line="103" column="32" />
+        <mark key="'" line="141" column="46" />
+        <mark key="[" line="135" column="14" />
+        <mark key="]" line="135" column="32" />
+        <mark key="^" line="135" column="32" />
+        <mark key="." line="135" column="32" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1558077451568">
         <mark key="[" line="135" column="4" />
@@ -300,7 +298,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558078463105">
+      <file name="/Dummy.txt" timestamp="1558158196715">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1554650863145">
@@ -370,9 +368,9 @@
         <mark key="^" line="43" column="24" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/autoresize/interceptor.cljs" timestamp="1555025608080">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1553879085476">
         <mark key="[" line="25" column="86" />
