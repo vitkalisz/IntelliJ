@@ -48,8 +48,8 @@
         <mark key="." line="68" column="13" />
         <mark key="^" line="68" column="13" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/tinymce_wrapper.cljs" timestamp="1558458741342">
-        <mark key="[" line="33" column="22" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/tinymce_wrapper.cljs" timestamp="1558459348609">
+        <mark key="[" line="9" column="2" />
         <mark key="]" line="34" column="42" />
         <mark key="^" line="34" column="42" />
         <mark key="." line="34" column="42" />
@@ -66,11 +66,11 @@
         <mark key="^" line="0" column="59" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/editor.cljs" timestamp="1558458590688">
-        <mark key="[" line="108" column="79" />
-        <mark key="]" line="109" column="19" />
-        <mark key="^" line="109" column="19" />
-        <mark key="." line="109" column="19" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/editor.cljs" timestamp="1558459610524">
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="63" column="75" />
+        <mark key="^" line="63" column="75" />
+        <mark key="." line="63" column="75" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1555969830160">
         <mark key="[" line="20" column="73" />
@@ -144,7 +144,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBqcy1ldmVudCAoLi10YXJnZXQganMtZXZlbnQpKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiZGVhY3RpdmF0ZS11bml0LWVkaXRvciIgdW5pdC1lZGl0b3IpCg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -156,31 +156,31 @@
         <text>[</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBqcy1ldmVudCAoLi10YXJnZXQganMtZXZlbnQpKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiZGVhY3RpdmF0ZS11bml0LWVkaXRvciIgdW5pdC1lZGl0b3IpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAib24tbW91c2UtZG93biBmb3IgY29udGVudCIgb2Zmc2V0LXggb2Zmc2V0LXkgd2lkdGggaGVpZ2h0KQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBqcy1ldmVudCAoLi10YXJnZXQganMtZXZlbnQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImFjdGl2ZS1wYWdlLWlkcyIpCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAib24tbW91c2UtZG93biBmb3IgY29udGVudCIgb2Zmc2V0LXggb2Zmc2V0LXkgd2lkdGggaGVpZ2h0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImFjdGl2ZS1wYWdlPyIgaWQpCg==</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImFjdGl2ZS1wYWdlLWlkcyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgdW5pdC1tYXApCg==</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImFjdGl2ZS1wYWdlPyIgaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IHN0eWxlKQo=</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgdW5pdC1tYXApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IGNvbnRlbnQpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IHN0eWxlKQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IGNvbnRlbnQpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IGluZGV4IHN0eWxlKQo=</text>
+        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IHN0eWxlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
