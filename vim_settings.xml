@@ -48,6 +48,12 @@
         <mark key="." line="68" column="13" />
         <mark key="^" line="68" column="13" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/tinymce_wrapper.cljs" timestamp="1558458741342">
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="34" column="42" />
+        <mark key="^" line="34" column="42" />
+        <mark key="." line="34" column="42" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/style.clj" timestamp="1556221305783">
         <mark key="[" line="5" column="80" />
         <mark key="]" line="8" column="0" />
@@ -60,11 +66,11 @@
         <mark key="^" line="0" column="59" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/editor.cljs" timestamp="1558455595980">
-        <mark key="[" line="64" column="60" />
-        <mark key="]" line="66" column="61" />
-        <mark key="^" line="66" column="61" />
-        <mark key="." line="66" column="61" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/editor.cljs" timestamp="1558458590688">
+        <mark key="[" line="108" column="79" />
+        <mark key="]" line="109" column="19" />
+        <mark key="^" line="109" column="19" />
+        <mark key="." line="109" column="19" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1555969830160">
         <mark key="[" line="20" column="73" />
@@ -97,6 +103,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1558457966928">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="40" column="20" />
+        <mark key="." line="40" column="20" />
       </file>
       <file name="C:/Shared/orgpad/env/prod/resources/config.edn" timestamp="1555968190136">
         <mark key="[" line="1" column="76" />
