@@ -84,11 +84,11 @@
       <file name="/REPL.clj" timestamp="1558618016513">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/highlighting.cljs" timestamp="1558626166156">
-        <mark key="[" line="64" column="55" />
-        <mark key="]" line="64" column="54" />
-        <mark key="." line="64" column="54" />
-        <mark key="^" line="64" column="54" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/highlighting.cljs" timestamp="1558627546143">
+        <mark key="[" line="68" column="55" />
+        <mark key="]" line="68" column="54" />
+        <mark key="^" line="68" column="54" />
+        <mark key="." line="68" column="54" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1558619821295">
         <mark key="[" line="1" column="78" />
@@ -101,6 +101,12 @@
         <mark key="]" line="35" column="48" />
         <mark key="^" line="35" column="48" />
         <mark key="." line="35" column="48" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1558628020815">
+        <mark key="[" line="57" column="3" />
+        <mark key="]" line="57" column="2" />
+        <mark key="^" line="57" column="2" />
+        <mark key="." line="57" column="2" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1556042148512">
         <mark key="[" line="13" column="47" />
@@ -168,11 +174,17 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="10" column="56" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" timestamp="1558626105042">
-        <mark key="[" line="28" column="84" />
-        <mark key="]" line="7" column="45" />
-        <mark key="^" line="7" column="45" />
-        <mark key="." line="7" column="45" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/button.cljs" timestamp="1558627236023">
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="60" />
+        <mark key="^" line="48" column="60" />
+        <mark key="." line="48" column="60" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" timestamp="1558626791830">
+        <mark key="[" line="34" column="91" />
+        <mark key="]" line="35" column="12" />
+        <mark key="^" line="35" column="12" />
+        <mark key="." line="35" column="12" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/core.clj" timestamp="1555969830160">
         <mark key="[" line="20" column="73" />
@@ -278,7 +290,7 @@
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAib24tbW91c2UtZG93biBmb3IgY29udGVudCIgb2Zmc2V0LXggb2Zmc2V0LXkgd2lkdGggaGVpZ2h0KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -301,8 +313,8 @@
         <entry>wa'</entry>
         <entry encoding="base64">JzwsJz5zLzphcHAtc3RhdGVcL2FwcC1zdGF0ZS86b3JncGFnZVwvb3JncGFnZS9n</entry>
         <entry>aw</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
