@@ -15,11 +15,6 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_unit.cljs" timestamp="1558690492400">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/unit_buttons.cljs" timestamp="1558695353128">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="41" column="52" />
@@ -50,11 +45,11 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler.clj" timestamp="1558803350512">
-        <mark key="[" line="29" column="57" />
-        <mark key="]" line="30" column="44" />
-        <mark key="^" line="30" column="44" />
-        <mark key="." line="30" column="44" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler.clj" timestamp="1558816800665">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="46" />
+        <mark key="^" line="30" column="46" />
+        <mark key="." line="30" column="46" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1558734123438">
         <mark key="[" line="65" column="0" />
@@ -143,11 +138,6 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/unit.cljs" timestamp="1558700167906">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1558698707204">
         <mark key="[" line="72" column="24" />
         <mark key="]" line="71" column="20" />
@@ -178,9 +168,9 @@
         <mark key="^" line="15" column="74" />
         <mark key="." line="15" column="74" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up.cljs" timestamp="1558730185435">
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up.cljs" timestamp="1558816033261">
         <mark key="'" line="7" column="46" />
-        <mark key="[" line="104" column="68" />
+        <mark key="[" line="181" column="51" />
         <mark key="]" line="104" column="65" />
         <mark key="." line="104" column="65" />
         <mark key="^" line="104" column="65" />
@@ -212,11 +202,17 @@
         <mark key="." line="12" column="60" />
         <mark key="^" line="12" column="60" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1558803876218">
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="51" column="52" />
-        <mark key="^" line="51" column="52" />
-        <mark key="." line="51" column="52" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1558816472652">
+        <mark key="[" line="69" column="56" />
+        <mark key="]" line="69" column="56" />
+        <mark key="." line="69" column="56" />
+        <mark key="^" line="69" column="56" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/dashboard.cljs" timestamp="1558816092988">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="67" column="77" />
+        <mark key="^" line="67" column="77" />
+        <mark key="." line="67" column="77" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/update.cljs" timestamp="1558619821295">
         <mark key="[" line="1" column="78" />
@@ -325,7 +321,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIFsiL3dlYmZvbnRzLyIgOnJlc291cmNlL3dlYmZvbnRzXQo=</text>
+        <text encoding="base64">ICAgICBbYnV0dG9uL2xhYmVsZWQtYnV0dG9uICM6YnV0dG9uezp0eXBlIDpkYXNoYm9hcmQvaW1wb3J0LW9yZ3BhZ2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDppY29uICJ1cGxvYWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bGFiZWwgIkltcG9ydCBvcmdwYWdlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmNvbG9yICJncmVlbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpzdHlsZSB7Om1hcmdpbi1yaWdodCA1fX0gbmlsIG5pbF0K</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -337,34 +333,34 @@
         <text encoding="base64">KGRlcml2ZSA6bW9kZS92aWV3IDptb2RlL2FsbCkKKGRlcml2ZSA6bW9kZS9lZGl0IDptb2RlL2FsbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIFsiL3dlYmZvbnRzLyIgOnJlc291cmNlL3dlYmZvbnRzXQo=</text>
+        <text encoding="base64">ICAgICBbYnV0dG9uL2xhYmVsZWQtYnV0dG9uICM6YnV0dG9uezp0eXBlIDpkYXNoYm9hcmQvaW1wb3J0LW9yZ3BhZ2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDppY29uICJ1cGxvYWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bGFiZWwgIkltcG9ydCBvcmdwYWdlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmNvbG9yICJncmVlbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpzdHlsZSB7Om1hcmdpbi1yaWdodCA1fX0gbmlsIG5pbF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIFsiL2ltZy8iIDpyZXNvdXJjZS9pbWddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpzdHlsZSB7Om1hcmdpbi1yaWdodCA1fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIFsiL2pzLyIgOnJlc291cmNlL2pzXQo=</text>
+        <text encoding="base64">ICAgICBbYnV0dG9uL2xhYmVsZWQtYnV0dG9uICM6YnV0dG9uezp0eXBlICA6ZGFzaGJvYXJkL2RlbGV0ZS1vcmdwYWdlcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmljb24gICJ0cmFzaC1hbHQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bGFiZWwgIkRlbGV0ZSBvcmdwYWdlcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjb2xvciAicmVkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnN0eWxlIHs6bWFyZ2luLXJpZ2h0IDV9fSBuaWwgbmlsXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIFsiL2Nzcy8iIDpyZXNvdXJjZS9jc3NdCg==</text>
+        <text encoding="base64">ICAgICAgIFsiL3dlYmZvbnRzLyIgOnJlc291cmNlL3dlYmZvbnRzXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIFsiL29saXN0IiA6b3JncGFnZS9saXN0XQo=</text>
+        <text encoding="base64">ICAgICAgIFsiL2ltZy8iIDpyZXNvdXJjZS9pbWddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbeWFkYSAiMS4yLjE1Il0K</text>
+        <text encoding="base64">ICAgICAgIFsiL2pzLyIgOnJlc291cmNlL2pzXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3JpbmcubWlkZGxld2FyZS5kZWZhdWx0cyA6YXMgZGVmYXVsdHNdCg==</text>
+        <text encoding="base64">ICAgICAgIFsiL2Nzcy8iIDpyZXNvdXJjZS9jc3NdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3JpbmcubWlkZGxld2FyZS5hbnRpLWZvcmdlcnkgOmFzIGFudGktZm9yZ2VyeV0K</text>
+        <text encoding="base64">ICAgICAgIFsiL29saXN0IiA6b3JncGFnZS9saXN0XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2Nsb2p1cmUuamF2YS5pbyA6YXMgaW9dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbeWFkYSAiMS4yLjE1Il0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -388,8 +384,8 @@
         <entry>wa'</entry>
         <entry encoding="base64">JzwsJz5zLzphcHAtc3RhdGVcL2FwcC1zdGF0ZS86b3JncGFnZVwvb3JncGFnZS9n</entry>
         <entry>aw</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
