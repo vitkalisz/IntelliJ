@@ -269,7 +269,7 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/dashboard.cljs" timestamp="1558884344520">
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/dashboard.cljs" timestamp="1558897488353">
         <mark key="[" line="92" column="18" />
         <mark key="]" line="93" column="29" />
         <mark key="." line="93" column="29" />
@@ -286,9 +286,6 @@
         <mark key="]" line="4" column="67" />
         <mark key="." line="4" column="67" />
         <mark key="^" line="4" column="67" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1558269488410">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1554650863145">
         <mark key="[" line="9" column="33" />
