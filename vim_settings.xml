@@ -12,11 +12,11 @@
       <file name="/Dummy.txt" timestamp="1559069778980">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/op/interceptor.cljs" timestamp="1559075072138">
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="35" />
-        <mark key="^" line="47" column="35" />
-        <mark key="." line="47" column="35" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/op/interceptor.cljs" timestamp="1559075968169">
+        <mark key="[" line="45" column="2" />
+        <mark key="]" line="45" column="92" />
+        <mark key="^" line="45" column="92" />
+        <mark key="." line="45" column="92" />
       </file>
       <file name="/REPL.clj" timestamp="1559070893554">
         <mark key="[" line="0" column="0" />
@@ -87,7 +87,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -97,8 +97,8 @@
     <history>
       <history-cmd>
         <entry>wma</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
