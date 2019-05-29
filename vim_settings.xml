@@ -350,11 +350,11 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1554496582317">
-        <mark key="[" line="44" column="40" />
-        <mark key="]" line="44" column="69" />
-        <mark key="^" line="44" column="69" />
-        <mark key="." line="44" column="69" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1559135770189">
+        <mark key="[" line="49" column="22" />
+        <mark key="]" line="49" column="23" />
+        <mark key="^" line="49" column="23" />
+        <mark key="." line="49" column="23" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/op/orgpage.clj" timestamp="1554672651083">
         <mark key="[" line="57" column="23" />
@@ -620,7 +620,7 @@
         <text encoding="base64">KGRlZm1ldGhvZCBoYW5kbGUgWzptb3VzZS9kcmFnIDpvcmdwYWdlL2NhbnZhcyA6bW9kZS9hbGxdCiAgW2VmZmVjdHMgXyB7Om1vdXNlLWRvd24va2V5cyBbc3RhcnQtY3ggc3RhcnQtY3kgZW5kLWN4IGVuZC1jeV19IF9dCiAgWyhjYW52YXMvbW92ZS1ieSBlZmZlY3RzICgtIGVuZC1jeCBzdGFydC1jeCkgKC0gZW5kLWN5IHN0YXJ0LWN5KSkgZmFsc2UgdHJ1ZV0pCgooZGVmbWV0aG9kIGhhbmRsZSBbOm1vdXNlL2NsaWNrIDpvcmdwYWdlL2NhbnZhcyA6bW9kZS92aWV3XQogIFtlZmZlY3RzIF8gXyBfXQogIFsoZWRpdG9yLWNoYW5nZS9kZWFjdGl2YXRlLWVkaXRvciBlZmZlY3RzKSB0cnVlIHRydWVdKQoKKGRlZm1ldGhvZCBoYW5kbGUgWzptb3VzZS9jbGljayA6b3JncGFnZS9jYW52YXMgOm1vZGUvZWRpdF0KICBbZWZmZWN0cyBfIHs6bW91c2UtZG93bi9rZXlzIFtzdGFydC1jeCBzdGFydC1jeV19IF9dCiAgKGxldCBbezpsaW5rLWNyZWF0aW9uL2tleXMgW3VuaXQtaWRdfSAoZGItZ2V0L2xpbmstY3JlYXRpb24gZWZmZWN0cyldCiAgICBbKGlmIChkYi1nZXQvbGluay1jcmVhdGlvbiBlZmZlY3RzKQogICAgICAgKG9wYy11bml0L2NyZWF0ZS1hdHRhY2hlZC11bml0IGVmZmVjdHMgW3N0YXJ0LWN4IHN0YXJ0LWN5XSB1bml0LWlkKQogICAgICAgKGVkaXRvci1jaGFuZ2UvZGVhY3RpdmF0ZS1lZGl0b3IgZWZmZWN0cykpIHRydWUgdHJ1ZV0pKQoKKGRlZm1ldGhvZCBoYW5kbGUgWzptb3VzZS9kYmwtY2xpY2sgOm9yZ3BhZ2UvY2FudmFzIDptb2RlL2VkaXRdCiAgW2VmZmVjdHMgXyB7Om1vdXNlLWRvd24va2V5cyBbc3RhcnQtY3ggc3RhcnQtY3ldfSBfXQogIFsob3BjLXVuaXQvY3JlYXRlLXVuaXQgZWZmZWN0cyBbc3RhcnQtY3ggc3RhcnQtY3ldKSBmYWxzZSB0cnVlXSkKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -666,8 +666,8 @@
         <entry encoding="base64">JzwsJz5zL14vICAvZw==</entry>
         <entry>%s/editor-btn/button\/button/g</entry>
         <entry>wa\</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
