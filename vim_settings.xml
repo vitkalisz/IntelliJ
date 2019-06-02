@@ -40,7 +40,6 @@
         <mark key="^" line="4" column="21" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/events.cljs" timestamp="1558982849356">
-        <mark key="[" line="63" column="34" />
         <mark key="]" line="17" column="53" />
         <mark key="." line="17" column="53" />
         <mark key="^" line="17" column="53" />
@@ -501,11 +500,6 @@
         <mark key="]" line="50" column="0" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="50" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit_button.cljs" timestamp="1558982827099">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps>
