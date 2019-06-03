@@ -486,11 +486,11 @@
         <mark key="." line="11" column="62" />
         <mark key="^" line="11" column="62" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1559589347740">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="25" column="39" />
-        <mark key="^" line="25" column="39" />
-        <mark key="." line="25" column="39" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1559590835905">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="35" column="65" />
+        <mark key="^" line="35" column="65" />
+        <mark key="." line="35" column="65" />
       </file>
       <file name="C:/Shared/mines/src/mines/events.cljs" timestamp="1554417251247">
         <mark key="[" line="37" column="46" />
@@ -622,7 +622,7 @@
         <text encoding="base64">KGRlZm4gbW92ZS1zZWxlY3Rpb24K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -668,8 +668,8 @@
         <entry encoding="base64">JzwsJz5zL14vICAvZw==</entry>
         <entry>%s/editor-btn/button\/button/g</entry>
         <entry>wa\</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
