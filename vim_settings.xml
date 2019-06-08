@@ -33,11 +33,11 @@
         <mark key="^" line="59" column="14" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/subs/panel.cljs" timestamp="1559996092950">
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="58" column="53" />
-        <mark key="^" line="58" column="53" />
-        <mark key="." line="58" column="53" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/subs/panel.cljs" timestamp="1560025939576">
+        <mark key="[" line="57" column="34" />
+        <mark key="]" line="57" column="33" />
+        <mark key="^" line="57" column="33" />
+        <mark key="." line="57" column="33" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/links/core.cljs" timestamp="1559485614490">
         <mark key="[" line="49" column="81" />
@@ -143,11 +143,11 @@
         <mark key="^" line="21" column="45" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/selection_button.cljs" timestamp="1560002574862">
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="35" column="100" />
-        <mark key="." line="35" column="100" />
-        <mark key="^" line="35" column="100" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/selection_button.cljs" timestamp="1560025447808">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="36" column="100" />
+        <mark key="." line="36" column="100" />
+        <mark key="^" line="36" column="100" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1559809541368">
         <mark key="[" line="150" column="62" />
@@ -202,6 +202,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1560010574445">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/link_editor.cljs" timestamp="1560025558738">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="28" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/link_editor.cljs" timestamp="1559480498931">
         <mark key="[" line="6" column="68" />
@@ -315,7 +321,7 @@
         <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQuZXZlbnRzLmxpbmsgOmFzIGxpbmtdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -334,8 +340,8 @@
         <entry>wva</entry>
         <entry>v</entry>
         <entry>wa'</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
