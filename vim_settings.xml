@@ -53,10 +53,10 @@
         <mark key="^" line="5" column="54" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" timestamp="1560114589867">
-        <mark key="[" line="110" column="34" />
-        <mark key="]" line="110" column="39" />
-        <mark key="^" line="110" column="39" />
-        <mark key="." line="110" column="39" />
+        <mark key="[" line="109" column="34" />
+        <mark key="]" line="109" column="39" />
+        <mark key="^" line="109" column="39" />
+        <mark key="." line="109" column="39" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/panel.cljs" timestamp="1560025939576">
         <mark key="[" line="57" column="34" />
@@ -126,11 +126,11 @@
         <mark key="^" line="102" column="7" />
         <mark key="." line="102" column="7" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" timestamp="1560114405338">
-        <mark key="[" line="180" column="67" />
-        <mark key="]" line="179" column="11" />
-        <mark key="^" line="179" column="11" />
-        <mark key="." line="179" column="11" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" timestamp="1560115442403">
+        <mark key="[" line="145" column="75" />
+        <mark key="]" line="184" column="11" />
+        <mark key="^" line="184" column="11" />
+        <mark key="." line="184" column="11" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/create/unit.cljs" timestamp="1559951168007">
         <mark key="[" line="55" column="69" />
