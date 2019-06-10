@@ -96,6 +96,12 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/modifier.cljs" timestamp="1560027415545">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1560175801284">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/links/util.cljs" timestamp="1559485684046">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="16" column="31" />
@@ -227,6 +233,15 @@
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/dashboard.cljs" timestamp="1559480462603">
         <mark key="[" line="6" column="63" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/zip.clj" timestamp="1560176602861">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+      </file>
+      <file name="/REPL.clj" timestamp="1560176167174">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1560027194685">
         <mark key="[" line="31" column="82" />
@@ -430,8 +445,8 @@
         <entry>wva</entry>
         <entry>v</entry>
         <entry>wa'</entry>
-        <entry>wv</entry>
         <entry>w\</entry>
+        <entry>wv</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
