@@ -25,7 +25,7 @@
         <mark key="." line="31" column="85" />
         <mark key="^" line="31" column="85" />
       </file>
-      <file name="C:/Shared/orgpad/resources/sql/images.sql" timestamp="1560476513983">
+      <file name="C:/Shared/orgpad/resources/sql/images.sql" timestamp="1560631699905">
         <mark key="'" line="47" column="17" />
         <mark key="[" line="36" column="9" />
         <mark key="]" line="40" column="17" />
@@ -61,12 +61,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/upload.clj" timestamp="1560473328661">
-        <mark key="[" line="54" column="61" />
-        <mark key="]" line="59" column="40" />
-        <mark key="." line="59" column="40" />
-        <mark key="^" line="59" column="40" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/util/extensions.clj" timestamp="1560439846422">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="19" column="12" />
@@ -83,12 +77,6 @@
         <mark key="[" line="11" column="42" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.up.sql" timestamp="1560474484163">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="3" />
-        <mark key="^" line="71" column="3" />
-        <mark key="." line="71" column="3" />
       </file>
     </filemarks>
     <jumps>
