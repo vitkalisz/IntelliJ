@@ -122,11 +122,14 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="16" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/handler/upload.clj" timestamp="1560707391408">
-        <mark key="[" line="53" column="51" />
-        <mark key="]" line="49" column="72" />
-        <mark key="." line="49" column="72" />
-        <mark key="^" line="49" column="72" />
+      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1560716474297">
+        <mark key="[" line="19" column="5" />
+      </file>
+      <file name="C:/Shared/orgpad/src/orgpad/server/handler/upload.clj" timestamp="1560715659848">
+        <mark key="[" line="53" column="10" />
+        <mark key="]" line="51" column="74" />
+        <mark key="." line="51" column="74" />
+        <mark key="^" line="51" column="74" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1560696616832">
         <mark key="[" line="7" column="60" />
@@ -223,11 +226,12 @@
         <mark key="^" line="72" column="28" />
         <mark key="." line="72" column="28" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1560555658811">
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="250" column="19" />
-        <mark key="^" line="250" column="19" />
-        <mark key="." line="250" column="19" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" timestamp="1560716399928">
+        <mark key="'" line="7" column="43" />
+        <mark key="[" line="62" column="39" />
+        <mark key="]" line="259" column="74" />
+        <mark key="^" line="259" column="74" />
+        <mark key="." line="259" column="74" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/selection_button.cljs" timestamp="1560025447808">
         <mark key="[" line="0" column="49" />
@@ -436,55 +440,57 @@
       <jump line="46" column="31" filename="C:/Shared/orgpad/src/orgpad/client/op/unit.cljs" />
       <jump line="102" column="43" filename="C:/Shared/orgpad/src/orgpad/client/events/selection.cljs" />
       <jump line="152" column="17" filename="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" />
+      <jump line="6" column="32" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
+      <jump line="7" column="43" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICA6ZmlsZW5hbWUgZmlsZW5hbWUK</text>
+        <text encoding="base64">ICAgICAgICA7IHNhdmUgb3JncGFnZQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>root</text>
+        <text>html2hiccup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOmxpbmsveDEgICAgICAgICB4MQogICAgICAgICAgICAgICAgICAgICAgICAgICA6bGluay95MSAgICAgICAgIHkxCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDpsaW5rL3gyICAgICAgICAgeDIKICAgICAgICAgICAgICAgICAgICAgICAgICAgOmxpbmsveTIgICAgICAgICB5Mgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICA6ZmlsZW5hbWUgZmlsZW5hbWUK</text>
+        <text encoding="base64">ICAgICAgICA7IHNhdmUgb3JncGFnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZS1uYW1lICg6aW1hZ2UvaWQgcm91dGUtcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICA6ZmlsZW5hbWUgZmlsZW5hbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICBJUGVyc2lzdGVudFZlY3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZS1uYW1lICg6aW1hZ2UvaWQgcm91dGUtcGFyYW1zKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBJUGVyc2lzdGVudFZlY3Rvcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGRlZm4tIHJlc291cmNlIFtdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDsgVE9ETzogc3RvcmUgaW1hZ2VzIGluIHRoZSBkYXRhYmFzZSEK</text>
+        <text encoding="base64">KGRlZm4tIHJlc291cmNlIFtdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChwcmludGxuIChlbnVtZXJhdGlvbi1zZXEgKC5lbnRyaWVzIHppcGZpbGUpKSkK</text>
+        <text encoding="base64">ICAgIDsgVE9ETzogc3RvcmUgaW1hZ2VzIGluIHRoZSBkYXRhYmFzZSEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAocHJpbnRsbiAicmVhZC1pbWFnZSIgKC5nZXROYW1lIGVudHJ5KSkK</text>
+        <text encoding="base64">ICAgIChwcmludGxuIChlbnVtZXJhdGlvbi1zZXEgKC5lbnRyaWVzIHppcGZpbGUpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKHByaW50bG4gbmFtZSkK</text>
+        <text encoding="base64">ICAocHJpbnRsbiAicmVhZC1pbWFnZSIgKC5nZXROYW1lIGVudHJ5KSkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>root</last-search>
+      <last-search>html2hiccup</last-search>
       <last-offset />
-      <last-pattern>root</last-pattern>
+      <last-pattern>html2hiccup</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -492,6 +498,7 @@
       <history-search>
         <entry>remove</entry>
         <entry>root</entry>
+        <entry>html2hiccup</entry>
       </history-search>
       <history-cmd>
         <entry>wma</entry>
