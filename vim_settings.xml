@@ -122,8 +122,11 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="16" column="31" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1560716474297">
-        <mark key="[" line="19" column="5" />
+      <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1560718455693">
+        <mark key="[" line="135" column="13" />
+        <mark key="]" line="135" column="13" />
+        <mark key="^" line="135" column="13" />
+        <mark key="." line="135" column="13" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/upload.clj" timestamp="1560715659848">
         <mark key="[" line="53" column="10" />
