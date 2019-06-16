@@ -334,11 +334,11 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/util/extensions.clj" timestamp="1560707632917">
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="34" column="11" />
-        <mark key="^" line="34" column="11" />
-        <mark key="." line="34" column="11" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/util/extensions.clj" timestamp="1560711404500">
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="9" />
+        <mark key="^" line="37" column="9" />
+        <mark key="." line="37" column="9" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/link_editor.cljs" timestamp="1559480498931">
         <mark key="[" line="6" column="68" />
