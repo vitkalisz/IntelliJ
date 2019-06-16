@@ -303,11 +303,11 @@
         <mark key="^" line="41" column="30" />
         <mark key="." line="41" column="30" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/util/zipfile.clj" timestamp="1560681035540">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="12" column="37" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/util/zipfile.clj" timestamp="1560683170530">
+        <mark key="[" line="34" column="58" />
+        <mark key="]" line="35" column="42" />
+        <mark key="." line="35" column="42" />
+        <mark key="^" line="35" column="42" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1560101328993">
         <mark key="[" line="47" column="35" />
@@ -421,8 +421,8 @@
       <jump line="152" column="17" filename="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgKHByaW50bG4gbmFtZSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -434,10 +434,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOmxpbmsveDEgICAgICAgICB4MQogICAgICAgICAgICAgICAgICAgICAgICAgICA6bGluay95MSAgICAgICAgIHkxCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDpsaW5rL3gyICAgICAgICAgeDIKICAgICAgICAgICAgICAgICAgICAgICAgICAgOmxpbmsveTIgICAgICAgICB5Mgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKHByaW50bG4gbmFtZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBuYW1lICguZ2V0TmFtZSBlbnRyeSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -483,6 +483,7 @@
         <entry>wa'</entry>
         <entry>w\</entry>
         <entry>wv</entry>
+        <entry>wta</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
