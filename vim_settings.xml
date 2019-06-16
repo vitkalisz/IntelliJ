@@ -303,7 +303,12 @@
         <mark key="^" line="41" column="30" />
         <mark key="." line="41" column="30" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/util/zipfile.clj" timestamp="1560556313810" />
+      <file name="C:/Shared/orgpad/src/orgpad/server/util/zipfile.clj" timestamp="1560681035540">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="37" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1560101328993">
         <mark key="[" line="47" column="35" />
         <mark key="]" line="47" column="39" />
@@ -416,11 +421,11 @@
       <jump line="152" column="17" filename="C:/Shared/orgpad/src/orgpad/client/util/geom.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>root</text>
