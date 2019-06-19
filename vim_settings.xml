@@ -134,10 +134,10 @@
         <mark key="^" line="176" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/upload.clj" timestamp="1560967595312">
-        <mark key="[" line="52" column="6" />
-        <mark key="]" line="55" column="15" />
-        <mark key="^" line="55" column="15" />
-        <mark key="." line="55" column="15" />
+        <mark key="[" line="55" column="6" />
+        <mark key="]" line="58" column="15" />
+        <mark key="^" line="58" column="15" />
+        <mark key="." line="58" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/routes.cljc" timestamp="1560696616832">
         <mark key="[" line="7" column="60" />
@@ -319,17 +319,11 @@
         <mark key="^" line="41" column="30" />
         <mark key="." line="41" column="30" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/server/util/zipfile.clj" timestamp="1560967626848">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="48" />
-        <mark key="." line="16" column="48" />
-        <mark key="^" line="16" column="48" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/db/image.clj" timestamp="1560792322772">
-        <mark key="[" line="33" column="10" />
-        <mark key="]" line="30" column="37" />
-        <mark key="^" line="30" column="37" />
-        <mark key="." line="30" column="37" />
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="32" column="37" />
+        <mark key="^" line="32" column="37" />
+        <mark key="." line="32" column="37" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/download.clj" timestamp="1560796682103">
         <mark key="[" line="29" column="30" />
@@ -348,6 +342,9 @@
         <mark key="]" line="23" column="46" />
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560968602834">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/link_editor.cljs" timestamp="1560025558738">
         <mark key="[" line="10" column="27" />
