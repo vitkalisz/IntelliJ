@@ -28,11 +28,11 @@
         <mark key="^" line="21" column="81" />
         <mark key="." line="21" column="81" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_unit.cljs" timestamp="1560097964234">
-        <mark key="[" line="119" column="2" />
-        <mark key="]" line="119" column="30" />
-        <mark key="." line="119" column="30" />
-        <mark key="^" line="119" column="30" />
+      <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_unit.cljs" timestamp="1561846504666">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+        <mark key="^" line="21" column="2" />
       </file>
       <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1560556604068">
         <mark key="[" line="18" column="11" />
@@ -58,7 +58,12 @@
         <mark key="." line="5" column="54" />
         <mark key="^" line="5" column="54" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/common/colls.cljc" timestamp="1561473301107" />
+      <file name="C:/Shared/orgpad/src/orgpad/common/colls.cljc" timestamp="1561846343173">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/util/geom_link.cljs" timestamp="1560122533958">
         <mark key="[" line="117" column="4" />
         <mark key="]" line="117" column="61" />
@@ -211,11 +216,11 @@
         <mark key="^" line="40" column="36" />
         <mark key="." line="40" column="36" />
       </file>
-      <file name="C:/Shared/orgpad/less/_dashboard.less" timestamp="1561320094302">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="32" column="0" />
+      <file name="C:/Shared/orgpad/less/_dashboard.less" timestamp="1561846796841">
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="22" column="27" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/time.cljs" timestamp="1559074572593">
         <mark key="[" line="34" column="56" />
@@ -314,7 +319,7 @@
         <mark key="^" line="40" column="25" />
         <mark key="." line="40" column="25" />
       </file>
-      <file name="C:/Shared/orgpad/src/orgpad/client/events/dashboard.cljs" timestamp="1561320618898">
+      <file name="C:/Shared/orgpad/src/orgpad/client/events/dashboard.cljs" timestamp="1561846338576">
         <mark key="[" line="48" column="37" />
         <mark key="]" line="48" column="50" />
         <mark key="^" line="48" column="50" />
@@ -353,6 +358,12 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
+      <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1561846671996">
+        <mark key="[" line="46" column="22" />
+        <mark key="]" line="49" column="22" />
+        <mark key="^" line="49" column="22" />
+        <mark key="." line="49" column="22" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/util/extensions.clj" timestamp="1560711404500">
         <mark key="[" line="37" column="30" />
         <mark key="]" line="37" column="9" />
@@ -361,6 +372,12 @@
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/link_editor.cljs" timestamp="1559480498931">
         <mark key="[" line="6" column="68" />
+      </file>
+      <file name="C:/Shared/orgpad/less/_root.less" timestamp="1561846770299">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="28" column="24" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="28" column="24" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/create/link.cljs" timestamp="1559809879148">
         <mark key="[" line="36" column="56" />
@@ -501,7 +518,7 @@
         <text encoding="base64">KGRlZm4tIHRhZz8KICAiUmV0dXJucyB0cnVlIGlmIGEgZ2l2ZW4gaGljY3VwIGVsZW1lbnQgaXMgYSB0YWcuIFdpdGggYW4gb3B0aW9uYWwgcGFyYW1ldGVyLAogIHRoZW4gaXQgYWxzbyBjaGVjayB3aGV0aGVyIHRoZSB0YWcgaXMgZXF1YWwuIgogIChbaGljY3VwXSAoYW5kICh2ZWN0b3I/IGhpY2N1cCkgKGtleXdvcmQ/IChmaXJzdCBoaWNjdXApKSkpCiAgKFtoaWNjdXAgdGFnXSAoYW5kICh2ZWN0b3I/IGhpY2N1cCkgKD0gKGZpcnN0IGhpY2N1cCkgdGFnKSkpKQoK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -527,9 +544,9 @@
         <entry>wta</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>mw</entry>
-        <entry>w</entry>
         <entry>wva</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
