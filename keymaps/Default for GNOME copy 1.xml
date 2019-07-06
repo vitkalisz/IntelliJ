@@ -1,0 +1,10 @@
+<keymap version="1" name="Default for GNOME copy 1" parent="Default for GNOME">
+  <action id=":cursive.actions.paredit/slurp-backwards">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="InsertLiveTemplate" />
+</keymap>

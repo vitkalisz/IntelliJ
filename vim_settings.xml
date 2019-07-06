@@ -183,6 +183,12 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/panel.cljs" timestamp="1559480515755">
         <mark key="[" line="5" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562435956745">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="^" line="19" column="61" />
+        <mark key="." line="19" column="32" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" timestamp="1560092124696">
         <mark key="[" line="24" column="14" />
         <mark key="]" line="24" column="60" />
@@ -276,7 +282,7 @@
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="72" />
       </file>
-      <file name="/REPL.clj" timestamp="1561929917734">
+      <file name="/REPL.clj" timestamp="1562435425155">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/highlighting.cljs" timestamp="1560103713143">
@@ -468,11 +474,11 @@
       <jump line="67" column="39" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDBweDsK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>html2hiccup</text>
@@ -508,7 +514,7 @@
         <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -535,8 +541,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>mw</entry>
         <entry>wva</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
