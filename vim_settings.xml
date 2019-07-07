@@ -99,11 +99,11 @@
         <mark key="." line="17" column="45" />
         <mark key="^" line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/less/site.less" timestamp="1562437465805">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="17" column="13" />
-        <mark key="." line="17" column="13" />
-        <mark key="^" line="17" column="13" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/less/site.less" timestamp="1562442583048">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/less/_links.less" timestamp="1559485749165">
         <mark key="[" line="10" column="0" />
@@ -195,8 +195,8 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/panel.cljs" timestamp="1559480515755">
         <mark key="[" line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562437633608">
-        <mark key="[" line="19" column="71" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562442533575">
+        <mark key="[" line="16" column="78" />
         <mark key="]" line="20" column="56" />
         <mark key="^" line="20" column="56" />
         <mark key="." line="20" column="56" />
@@ -261,8 +261,12 @@
         <mark key="^" line="166" column="29" />
         <mark key="." line="166" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/subs.cljs" timestamp="1562438386010">
-        <mark key="[" line="22" column="16" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/subs.cljs" timestamp="1562441906056">
+        <mark key="'" line="31" column="2" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="2" />
+        <mark key="^" line="31" column="2" />
+        <mark key="." line="31" column="2" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/selection.cljs" timestamp="1560103165057">
         <mark key="[" line="37" column="22" />
@@ -490,11 +494,11 @@
       <jump line="261" column="30" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
       <jump line="7" column="43" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
       <jump line="67" column="39" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
+      <jump line="31" column="2" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/subs.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:border-color &quot;black&quot;
-                                        :border-width 3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -505,34 +509,46 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1sZWZ0OiAxcHggc29saWQgI2JiYjsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>.layout {
+    display: flex;
+
+    .muj-button {
+        padding: 3px;
+    }
+    .green {
+        background-color: lightgreen;
+    }
+    .blue {
+        background-color: lightblue;
+    }
+}</text>
+      </register>
+      <register name="4" type="4">
         <text>:border-color &quot;black&quot;
                                         :border-width 3</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>border: 3px;
   border-color: black;</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDBweDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICNiYmI7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogMXB4IHNvbGlkICNiYmI7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1sZWZ0OiAxcHggc29saWQgI2JiYjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICNiYmI7CiAgICBib3JkZXItdG9wOiAwcHg7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAudGl0bGUtd3JhcHBlciB7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjYmJiOwogICAgYm9yZGVyLWJvdHRvbTogMHB4OwogIH0KICAuY29udGVudCB7CiAgICBvdmVyZmxvdy15OiBhdXRvOwogICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjYmJiOwogICAgYm9yZGVyLXRvcDogMHB4OwogIH0KICAuaGlkZGVuLWNvbnRlbnQgewogICAgYmFja2dyb3VuZC1pbWFnZTogbGluZWFyLWdyYWRpZW50KHdoaXRlLCB3aGl0ZSwgdHJhbnNwYXJlbnQpOwogICAgYm9yZGVyLWxlZnQ6IDFweCBzb2xpZCAjYmJiOwogICAgYm9yZGVyLXJpZ2h0OiAxcHggc29saWQgI2JiYjsKICB9Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogMXB4IHNvbGlkICNiYmI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
