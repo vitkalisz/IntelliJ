@@ -195,11 +195,11 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/panel.cljs" timestamp="1559480515755">
         <mark key="[" line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562503435127">
-        <mark key="[" line="23" column="73" />
-        <mark key="]" line="23" column="76" />
-        <mark key="^" line="23" column="76" />
-        <mark key="." line="23" column="76" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562507694064">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="10" column="44" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="10" column="44" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" timestamp="1560092124696">
         <mark key="[" line="24" column="14" />
@@ -261,11 +261,11 @@
         <mark key="^" line="166" column="29" />
         <mark key="." line="166" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/subs.cljs" timestamp="1562505868989">
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="37" column="5" />
-        <mark key="^" line="37" column="5" />
-        <mark key="." line="37" column="5" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/subs.cljs" timestamp="1562507811730">
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/selection.cljs" timestamp="1560103165057">
         <mark key="[" line="37" column="22" />
@@ -364,7 +364,7 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" timestamp="1562503463746">
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" timestamp="1562507252039">
         <mark key="[" line="27" column="29" />
         <mark key="]" line="27" column="29" />
         <mark key="." line="27" column="29" />
@@ -551,7 +551,7 @@
         <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICNiYmI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -579,8 +579,8 @@
         <entry>mw</entry>
         <entry>wva</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
