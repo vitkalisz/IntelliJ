@@ -162,11 +162,11 @@
         <mark key="." line="142" column="95" />
         <mark key="^" line="142" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/db.cljs" timestamp="1562495796029">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/db.cljs" timestamp="1562498978083">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/sets.cljc" timestamp="1560102391088">
         <mark key="[" line="19" column="9" />
@@ -195,11 +195,11 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/panel.cljs" timestamp="1559480515755">
         <mark key="[" line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562442718590">
-        <mark key="[" line="16" column="78" />
-        <mark key="]" line="11" column="52" />
-        <mark key="^" line="11" column="52" />
-        <mark key="." line="11" column="52" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562499346761">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="24" column="23" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" timestamp="1560092124696">
         <mark key="[" line="24" column="14" />
@@ -261,6 +261,12 @@
         <mark key="^" line="166" column="29" />
         <mark key="." line="166" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/subs.cljs" timestamp="1562497015767">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="32" column="6" />
+        <mark key="^" line="32" column="6" />
+        <mark key="." line="32" column="6" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/selection.cljs" timestamp="1560103165057">
         <mark key="[" line="37" column="22" />
         <mark key="]" line="37" column="44" />
@@ -293,9 +299,6 @@
         <mark key="]" line="37" column="72" />
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="72" />
-      </file>
-      <file name="/REPL.clj" timestamp="1562436661341">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/highlighting.cljs" timestamp="1560103713143">
         <mark key="[" line="77" column="2" />
@@ -493,10 +496,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CihyZi9yZWctZXZlbnQtZGIKICA6dXBkYXRlLXR1cm4KICAoZm4gW2RiIF9dCiAgICAoYXNzb2MgZGIgOnR1cm4gKGluYyAoZ2V0IGRiIDp0dXJuKSkpKSk=</text>
+        <text>curren</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>curren</text>
       </register>
       <register name="/" type="4">
         <text>html2hiccup</text>
