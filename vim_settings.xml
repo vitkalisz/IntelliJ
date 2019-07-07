@@ -195,11 +195,11 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/panel.cljs" timestamp="1559480515755">
         <mark key="[" line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562499346761">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="23" />
-        <mark key="^" line="24" column="23" />
-        <mark key="." line="24" column="23" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562503435127">
+        <mark key="[" line="23" column="73" />
+        <mark key="]" line="23" column="76" />
+        <mark key="^" line="23" column="76" />
+        <mark key="." line="23" column="76" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" timestamp="1560092124696">
         <mark key="[" line="24" column="14" />
@@ -300,6 +300,7 @@
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="72" />
       </file>
+      <file name="/REPL.clj" timestamp="1562502063991" />
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/highlighting.cljs" timestamp="1560103713143">
         <mark key="[" line="77" column="2" />
         <mark key="]" line="77" column="3" />
@@ -363,11 +364,11 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" timestamp="1562500584375">
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="24" column="10" />
-        <mark key="." line="24" column="10" />
-        <mark key="^" line="24" column="10" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" timestamp="1562503463746">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/link_editor.cljs" timestamp="1560025558738">
         <mark key="[" line="10" column="27" />
@@ -497,10 +498,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>curren</text>
+        <text>some</text>
       </register>
       <register name="-" type="4">
-        <text>curren</text>
+        <text>some</text>
       </register>
       <register name="/" type="4">
         <text>html2hiccup</text>
@@ -577,6 +578,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>mw</entry>
         <entry>wva</entry>
+        <entry>wq</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
