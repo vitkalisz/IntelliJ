@@ -365,12 +365,12 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" timestamp="1562530103786">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="27" column="49" />
-        <mark key="]" line="29" column="15" />
-        <mark key="." line="29" column="15" />
-        <mark key="^" line="29" column="15" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" timestamp="1562531437231">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="28" column="2" />
+        <mark key="]" line="35" column="15" />
+        <mark key="." line="35" column="15" />
+        <mark key="^" line="35" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/link_editor.cljs" timestamp="1560025558738">
         <mark key="[" line="10" column="27" />
