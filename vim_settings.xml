@@ -162,8 +162,8 @@
         <mark key="." line="142" column="95" />
         <mark key="^" line="142" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/db.cljs" timestamp="1562438891013">
-        <mark key="[" line="5" column="11" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/db.cljs" timestamp="1562495796029">
+        <mark key="[" line="10" column="27" />
         <mark key="]" line="5" column="11" />
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
@@ -260,13 +260,6 @@
         <mark key="]" line="169" column="46" />
         <mark key="^" line="166" column="29" />
         <mark key="." line="166" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/subs.cljs" timestamp="1562441906056">
-        <mark key="'" line="31" column="2" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="31" column="2" />
-        <mark key="^" line="31" column="2" />
-        <mark key="." line="31" column="2" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/selection.cljs" timestamp="1560103165057">
         <mark key="[" line="37" column="22" />
@@ -367,8 +360,10 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" timestamp="1562438302906">
-        <mark key="[" line="19" column="32" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" timestamp="1562495861503">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/link_editor.cljs" timestamp="1560025558738">
         <mark key="[" line="10" column="27" />
@@ -497,8 +492,8 @@
       <jump line="31" column="2" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/subs.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CihyZi9yZWctZXZlbnQtZGIKICA6dXBkYXRlLXR1cm4KICAoZm4gW2RiIF9dCiAgICAoYXNzb2MgZGIgOnR1cm4gKGluYyAoZ2V0IGRiIDp0dXJuKSkpKSk=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -509,13 +504,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1sZWZ0OiAxcHggc29saWQgI2JiYjsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CihyZi9yZWctZXZlbnQtZGIKICA6dXBkYXRlLXR1cm4KICAoZm4gW2RiIF9dCiAgICAoYXNzb2MgZGIgOnR1cm4gKGluYyAoZ2V0IGRiIDp0dXJuKSkpKSk=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>.layout {
     display: flex;
 
@@ -530,25 +528,22 @@
     }
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>:border-color &quot;black&quot;
                                         :border-width 3</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>border: 3px;
   border-color: black;</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDBweDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICNiYmI7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogMXB4IHNvbGlkICNiYmI7Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkICNiYmI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
