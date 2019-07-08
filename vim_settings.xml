@@ -162,8 +162,8 @@
         <mark key="." line="142" column="95" />
         <mark key="^" line="142" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/db.cljs" timestamp="1562498978083">
-        <mark key="[" line="6" column="28" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/db.cljs" timestamp="1562621165238">
+        <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="31" />
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
@@ -364,12 +364,12 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" timestamp="1562539114100">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="36" column="2" />
-        <mark key="]" line="43" column="15" />
-        <mark key="." line="43" column="15" />
-        <mark key="^" line="43" column="15" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" timestamp="1562621499615">
+        <mark key="'" line="32" column="30" />
+        <mark key="[" line="43" column="2" />
+        <mark key="]" line="50" column="15" />
+        <mark key="." line="50" column="15" />
+        <mark key="^" line="50" column="15" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/link_editor.cljs" timestamp="1560025558738">
         <mark key="[" line="10" column="27" />
@@ -497,8 +497,9 @@
       <jump line="67" column="39" filename="C:/Shared/orgpad/src/orgpad/server/convert/tombypad_old.clj" />
       <jump line="31" column="2" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/subs.cljs" />
       <jump line="9" column="54" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" />
-      <jump line="32" column="23" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" />
+      <jump line="34" column="33" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" />
+      <jump line="32" column="30" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
