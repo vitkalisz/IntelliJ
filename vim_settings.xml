@@ -99,10 +99,11 @@
         <mark key="." line="17" column="45" />
         <mark key="^" line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/less/site.less" timestamp="1562670260298">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/less/site.less" timestamp="1562672993282">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="43" />
       </file>
       <file name="C:/Shared/orgpad/less/_links.less" timestamp="1559485749165">
         <mark key="[" line="10" column="0" />
@@ -194,12 +195,12 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/panel.cljs" timestamp="1559480515755">
         <mark key="[" line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562671391563">
+      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562673020267">
         <mark key="'" line="9" column="54" />
-        <mark key="[" line="19" column="49" />
-        <mark key="]" line="19" column="77" />
-        <mark key="^" line="19" column="77" />
-        <mark key="." line="19" column="77" />
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" timestamp="1560092124696">
         <mark key="[" line="24" column="14" />
@@ -585,6 +586,7 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>q!</entry>
+        <entry>swa</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
