@@ -12,6 +12,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/orgpad" />
+    <option name="cloneParentDir" value="$USER_HOME$" />
   </component>
 </application>
