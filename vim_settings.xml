@@ -132,11 +132,18 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="16" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/clojure/rf-testing/src/cljs/rf_testing/events.cljs" timestamp="1562686535337" />
       <file name="C:/Shared/orgpad/src/orgpad/common/html2hiccup.cljc" timestamp="1561143462397">
         <mark key="[" line="58" column="34" />
         <mark key="]" line="58" column="35" />
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/clojure/rf-testing/src/cljs/rf_testing/db.cljs" timestamp="1562686551369">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/upload.clj" timestamp="1560967595312">
         <mark key="[" line="9" column="6" />
@@ -300,6 +307,9 @@
         <mark key="]" line="37" column="72" />
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="72" />
+      </file>
+      <file name="/REPL.clj" timestamp="1562686406378">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/highlighting.cljs" timestamp="1560103713143">
         <mark key="[" line="77" column="2" />
@@ -484,6 +494,12 @@
         <mark key="]" line="57" column="23" />
         <mark key="^" line="57" column="23" />
         <mark key="." line="57" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/clojure/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562686417402">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="88" />
+        <mark key="^" line="19" column="88" />
+        <mark key="." line="19" column="88" />
       </file>
     </filemarks>
     <jumps>
