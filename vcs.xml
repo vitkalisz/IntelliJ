@@ -4,9 +4,14 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="pavel.klavik@gmail.com" />
+          <option name="userName" value="vitek.kalisz@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ReOrgpad/orgpad.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/orgpad" />
   </component>
 </application>
