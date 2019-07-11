@@ -110,13 +110,6 @@
         <mark key="^" line="107" column="4" />
         <mark key="." line="107" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/views.cljs" timestamp="1562673020267">
-        <mark key="'" line="9" column="54" />
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="23" />
-        <mark key="^" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/move.cljs" timestamp="1560092124696">
         <mark key="[" line="24" column="14" />
         <mark key="]" line="24" column="60" />
@@ -200,13 +193,6 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" timestamp="1562669541907">
-        <mark key="'" line="32" column="30" />
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="41" column="13" />
-        <mark key="." line="41" column="13" />
-        <mark key="^" line="41" column="13" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/link_editor.cljs" timestamp="1560025558738">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="11" column="28" />
@@ -223,6 +209,11 @@
         <mark key="[" line="36" column="56" />
       </file>
       <file name="$USER_HOME$/orgpad/src/orgpad/client/db/get.cljs" timestamp="1562689819913" />
+      <file name="$USER_HOME$/orgpad/less/_editor.less" timestamp="1562871977653">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/widgets/button.cljs" timestamp="1560027658372">
         <mark key="[" line="12" column="80" />
         <mark key="]" line="13" column="56" />
@@ -297,6 +288,9 @@
         <mark key="]" line="53" column="19" />
         <mark key="." line="53" column="19" />
         <mark key="^" line="53" column="19" />
+      </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/root.cljs" timestamp="1562871398056">
+        <mark key="[" line="47" column="54" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/interceptor.cljs" timestamp="1559868100701">
         <mark key="[" line="45" column="2" />
@@ -401,8 +395,8 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1562865236357">
-        <mark key="[" line="80" column="16" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1562871695628">
+        <mark key="[" line="105" column="8" />
         <mark key="]" line="103" column="52" />
         <mark key="^" line="103" column="52" />
         <mark key="." line="103" column="52" />
@@ -470,7 +464,10 @@
         <mark key="^" line="28" column="26" />
         <mark key="." line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1562869392770">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1562872465409">
+        <mark key="[" line="32" column="53" />
+      </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1562872736968">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
@@ -506,7 +503,7 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1562869120307">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1562872547281">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="13" column="39" />
         <mark key="^" line="13" column="39" />
@@ -547,8 +544,8 @@
       <jump line="32" column="30" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBub25lOyAvKiBIaWRkZW4gYnkgZGVmYXVsdCAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -559,13 +556,16 @@
       <register name="0" type="4">
         <text>LightYelow</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBub25lOyAvKiBIaWRkZW4gYnkgZGVmYXVsdCAqLwo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>.edit-style {
           font-family: Verdana, Geneva, sans-serif;
           background-color: #ffffff00;
@@ -577,38 +577,23 @@
           flex-grow: 1;
           width: 100px;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGUtY29sdW1uczogcmVwZWF0KDExLCA1MHB4KTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBib3JkZXItY29sb3I6IHNhbG1vbjsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CihyZi9yZWctZXZlbnQtZGIKICA6dXBkYXRlLXR1cm4KICAoZm4gW2RiIF9dCiAgICAoYXNzb2MgZGIgOnR1cm4gKGluYyAoZ2V0IGRiIDp0dXJuKSkpKSk=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.layout {
-    display: flex;
-
-    .muj-button {
-        padding: 3px;
-    }
-    .green {
-        background-color: lightgreen;
-    }
-    .blue {
-        background-color: lightblue;
-    }
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -638,8 +623,8 @@
         <entry>wq</entry>
         <entry>q!</entry>
         <entry>swa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
