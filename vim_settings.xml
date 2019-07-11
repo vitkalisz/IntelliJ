@@ -304,6 +304,7 @@
         <mark key="^" line="45" column="92" />
         <mark key="." line="45" column="92" />
       </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/modes.cljs" timestamp="1562868252632" />
       <file name="C:/Shared/orgpad/src/orgpad/client/views/units/map.cljs" timestamp="1560123872425">
         <mark key="[" line="17" column="71" />
         <mark key="]" line="17" column="76" />
@@ -502,6 +503,12 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1562869120307">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1560554522700">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="33" column="30" />
@@ -598,7 +605,7 @@
 }</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -628,8 +635,8 @@
         <entry>wq</entry>
         <entry>q!</entry>
         <entry>swa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
