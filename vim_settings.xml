@@ -291,6 +291,9 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1562853262722">
+        <mark key="[" line="79" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/dashboard.cljs" timestamp="1559480462603">
         <mark key="[" line="6" column="63" />
       </file>
