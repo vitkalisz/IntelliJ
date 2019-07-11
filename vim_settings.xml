@@ -400,11 +400,11 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1562857121641">
-        <mark key="[" line="83" column="2" />
-        <mark key="]" line="84" column="2" />
-        <mark key="^" line="84" column="2" />
-        <mark key="." line="84" column="2" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1562865236357">
+        <mark key="[" line="80" column="16" />
+        <mark key="]" line="103" column="52" />
+        <mark key="^" line="103" column="52" />
+        <mark key="." line="103" column="52" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/convert/zip.clj" timestamp="1560176602861">
         <mark key="[" line="8" column="12" />
