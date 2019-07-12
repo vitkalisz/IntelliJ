@@ -144,12 +144,12 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/events.cljs" timestamp="1562875034686">
         <mark key="[" line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1562935701670">
+      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1562937109455">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="15" column="26" />
-        <mark key="^" line="15" column="26" />
-        <mark key="." line="15" column="26" />
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1560091356856">
         <mark key="[" line="69" column="38" />
@@ -494,11 +494,12 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1562872465409">
         <mark key="[" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1562935455873">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1562937053792">
+        <mark key="'" line="3" column="14" />
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
+        <mark key="^" line="29" column="24" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -574,10 +575,11 @@
       <jump line="32" column="30" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" />
       <jump line="36" column="3" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
       <jump line="17" column="0" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
+      <jump line="3" column="14" filename="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMTBweDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiVHlwZSIKICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSAjKGpzL2FsZXJ0ICJjb2xvciBjaGFuZ2VkIil9XQogICBbOmlucHV0LmZpZWxkIHs6dmFsdWUgIlBvc2l0aW9uIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiQ29sb3IiCiAgICAgICAgICAgICAgICAgIDpvbi1jaGFuZ2UgIyhqcy9hbGVydCAiY29sb3IgY2hhbmdlZCIpfV0KICAgWzppbnB1dC5maWVsZCB7OnZhbHVlICJGaWxsIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiTGVuZ3RoIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dXQ==</text>
       </register>
       <register name="-" type="4">
         <text>center</text>
@@ -588,41 +590,61 @@
       <register name="0" type="4">
         <text>LightYelow</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMTBweDsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiVHlwZSIKICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSAjKGpzL2FsZXJ0ICJjb2xvciBjaGFuZ2VkIil9XQogICBbOmlucHV0LmZpZWxkIHs6dmFsdWUgIlBvc2l0aW9uIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiQ29sb3IiCiAgICAgICAgICAgICAgICAgIDpvbi1jaGFuZ2UgIyhqcy9hbGVydCAiY29sb3IgY2hhbmdlZCIpfV0KICAgWzppbnB1dC5maWVsZCB7OnZhbHVlICJGaWxsIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiTGVuZ3RoIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dXQ==</text>
       </register>
       <register name="2" type="4">
+        <text>[:input.field {:value     &quot;Line type&quot;
+                  :on-change #(js/alert &quot;color changed&quot;)}]
+   [:input.field {:value     &quot;Style name&quot;
+                  :on-change #(js/alert &quot;color changed&quot;)}]
+   [:input.field {:value &quot;Color&quot;
+                  :on-change #(js/alert &quot;color changed&quot;)}]
+   [:input.field {:value &quot;Width&quot;
+                  :on-change #(js/alert &quot;color changed&quot;)}]</text>
+      </register>
+      <register name="3" type="4">
+        <text>[:input.field {:value &quot;Background color&quot;
+                  :on-change #(js/alert &quot;color changed&quot;)}]
+   [:input.field {:value &quot;Title color&quot;
+                  :on-change #(js/alert &quot;color changed&quot;)}]
+   [:input.field {:value &quot;Angulation&quot;
+                  :on-change #(js/alert &quot;color changed&quot;)}]
+   [:input.field {:value &quot;Padding&quot;
+                  :on-change #(js/alert &quot;color changed&quot;)}]</text>
+      </register>
+      <register name="4" type="4">
+        <text>[:div.line
+    [:div.text &quot;Background color:&quot;]
+    [:input.field {:value     &quot;Background color:&quot;
+                   :on-change #(js/alert &quot;color changed&quot;)}]]
+   [:div.line
+    [:div.text &quot;Title color:&quot;]
+    [:input.field {:value     &quot;Title color:&quot;
+                   :on-change #(js/alert &quot;color changed&quot;)}]]
+   [:div.line
+    [:div.text &quot;Angulation:&quot;]
+    [:input.field {:value     &quot;Angulation:&quot;
+                   :on-change #(js/alert &quot;color changed&quot;)}]]
+   [:div.line
+    [:div.text &quot;Padding:&quot;]
+    [:input.field {:value     &quot;Style name&quot;
+                   :on-change #(js/alert &quot;color changed&quot;)}]]</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbjogMTBweDsK</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CiAgLmZpeGVkLXRpdGxlIHsKICAgIGZvbnQtZmFtaWx5OiBWZXJkYW5hLCBHZW5ldmEsIHNhbnMtc2VyaWY7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZmZmMDA7CiAgICBmb250LXNpemU6IDJlbTsKICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgYm9yZGVyLXdpZHRoOiAwcHg7CiAgICB3aWR0aDogMzUwcHg7CiAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QGltcG9ydCAiX2VkaXRvci5sZXNzIjsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ci5zdHlsZS1lZGl0b3IgewogIHBvc2l0aW9uOiBmaXhlZDsgLyogU2l0IG9uIHRvcCBvZiB0aGUgcGFnZSBjb250ZW50ICovCiAgd2lkdGg6IDEwMCU7IC8qIEZ1bGwgd2lkdGggKGNvdmVyIHRoZSB3aG9sZSBwYWdlKSAqLwogIGhlaWdodDogMTAwJTsgLyogRnVsbCBoZWlnaHQgKGNvdmVyIHRoZSB3aG9sZSBwYWdlKSAqLwogIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwp9</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBub25lOyAvKiBIaWRkZW4gYnkgZGVmYXVsdCAqLwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>.edit-style {
-          font-family: Verdana, Geneva, sans-serif;
-          background-color: #ffffff00;
-          font-size: 1em;
-          border-width: 0px;
-          padding: 2px;
-          border: 1px solid #333;
-       
-          flex-grow: 1;
-          width: 100px;</text>
+        <text encoding="base64">Ci5zdHlsZS1lZGl0b3IgewogIHBvc2l0aW9uOiBmaXhlZDsgLyogU2l0IG9uIHRvcCBvZiB0aGUgcGFnZSBjb250ZW50ICovCiAgd2lkdGg6IDEwMCU7IC8qIEZ1bGwgd2lkdGggKGNvdmVyIHRoZSB3aG9sZSBwYWdlKSAqLwogIGhlaWdodDogMTAwJTsgLyogRnVsbCBoZWlnaHQgKGNvdmVyIHRoZSB3aG9sZSBwYWdlKSAqLwogIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwp9</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
