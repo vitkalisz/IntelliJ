@@ -487,8 +487,8 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1562872465409">
         <mark key="[" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1562879090222">
-        <mark key="[" line="4" column="1" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1562928841051">
+        <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="19" />
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
