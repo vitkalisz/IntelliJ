@@ -375,11 +375,11 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/panel.cljs" timestamp="1559480515755">
         <mark key="[" line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/up/style_editor.cljs" timestamp="1562942290764">
-        <mark key="[" line="8" column="49" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="33" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/up/style_editor.cljs" timestamp="1562948993133">
+        <mark key="[" line="4" column="81" />
+        <mark key="]" line="4" column="48" />
+        <mark key="^" line="4" column="48" />
+        <mark key="." line="4" column="48" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/unit_editor.cljs" timestamp="1559080921138">
         <mark key="[" line="39" column="12" />
@@ -529,11 +529,11 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1562942716109">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="39" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1562948346205">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="13" column="45" />
+        <mark key="^" line="13" column="45" />
+        <mark key="." line="13" column="45" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1560554522700">
         <mark key="[" line="5" column="11" />
@@ -574,10 +574,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiVHlwZSIKICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSAjKGpzL2FsZXJ0ICJjb2xvciBjaGFuZ2VkIil9XQogICBbOmlucHV0LmZpZWxkIHs6dmFsdWUgIlBvc2l0aW9uIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiQ29sb3IiCiAgICAgICAgICAgICAgICAgIDpvbi1jaGFuZ2UgIyhqcy9hbGVydCAiY29sb3IgY2hhbmdlZCIpfV0KICAgWzppbnB1dC5maWVsZCB7OnZhbHVlICJGaWxsIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiTGVuZ3RoIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dXQ==</text>
+        <text>switch</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>switch</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XiAg</text>
