@@ -139,7 +139,7 @@
         <mark key="^" line="30" column="23" />
       </file>
       <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/events.cljs" timestamp="1562875034686">
-        <mark key="[" line="31" column="56" />
+        <mark key="[" line="28" column="56" />
       </file>
       <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1562939584262">
         <mark key="'" line="17" column="0" />
@@ -173,6 +173,12 @@
         <mark key="]" line="26" column="83" />
         <mark key="^" line="26" column="83" />
         <mark key="." line="26" column="83" />
+      </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/unit_style_editor.cljs" timestamp="1562951641419">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="40" column="28" />
+        <mark key="^" line="40" column="28" />
+        <mark key="." line="40" column="28" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/unit_util.cljs" timestamp="1560040184565">
         <mark key="[" line="3" column="0" />
@@ -270,12 +276,6 @@
         <mark key="^" line="57" column="23" />
         <mark key="." line="57" column="23" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_panel.less" timestamp="1562930021751">
-        <mark key="[" line="157" column="24" />
-        <mark key="]" line="157" column="22" />
-        <mark key="^" line="157" column="22" />
-        <mark key="." line="157" column="22" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/common.cljs" timestamp="1559867118150">
         <mark key="[" line="43" column="35" />
         <mark key="]" line="37" column="18" />
@@ -306,11 +306,10 @@
         <mark key="." line="53" column="19" />
         <mark key="^" line="53" column="19" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/root.cljs" timestamp="1562942759571">
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="48" column="33" />
-        <mark key="^" line="48" column="33" />
-        <mark key="." line="48" column="33" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/root.cljs" timestamp="1562951559986">
+        <mark key="]" line="54" column="83" />
+        <mark key="^" line="54" column="83" />
+        <mark key="." line="54" column="83" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/interceptor.cljs" timestamp="1559868100701">
         <mark key="[" line="45" column="2" />
@@ -417,14 +416,22 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1562941940395">
-        <mark key="[" line="153" column="31" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1562951780503">
+        <mark key="[" line="176" column="67" />
+        <mark key="]" line="178" column="70" />
+        <mark key="^" line="178" column="70" />
+        <mark key="." line="178" column="70" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/convert/zip.clj" timestamp="1560176602861">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="9" column="34" />
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
+      </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/link_style_editor.cljs" timestamp="1562949213023">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="0" column="50" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1560027194685">
         <mark key="[" line="31" column="82" />
@@ -465,7 +472,7 @@
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562942800303">
+      <file name="/Dummy.txt" timestamp="1562951021235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1561936264186">
@@ -574,10 +581,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>switch</text>
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>switch</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XiAg</text>
@@ -585,10 +592,13 @@
       <register name="0" type="4">
         <text>LightYelow</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiVHlwZSIKICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSAjKGpzL2FsZXJ0ICJjb2xvciBjaGFuZ2VkIil9XQogICBbOmlucHV0LmZpZWxkIHs6dmFsdWUgIlBvc2l0aW9uIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiQ29sb3IiCiAgICAgICAgICAgICAgICAgIDpvbi1jaGFuZ2UgIyhqcy9hbGVydCAiY29sb3IgY2hhbmdlZCIpfV0KICAgWzppbnB1dC5maWVsZCB7OnZhbHVlICJGaWxsIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiTGVuZ3RoIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dXQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">KGRlZm4tIGlucHV0IFt7OmtleXMgW3RleHQgdmFsdWVdfV0KICBbOmRpdi5saW5lCiAgIFs6ZGl2LnRleHQgdGV4dF0KICAgWzppbnB1dC5maWVsZCB7OnZhbHVlICAgICB2YWx1ZQogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvY29uc29sZS5sb2cgKHN0ciB2YWx1ZSAiIGNoYW5nZWQiKSl9XV0pCgooZGVmbiBzdHlsZS1lZGl0b3IgW10KICBbOmRpdi5maWVsZC13cmFwcGVyCiAgIFs6aDIgIjEuIFVuaXQgc3R5bGU6Il0KICAgKGlucHV0IHs6dGV4dCAiU3R5bGUgbmFtZToiCiAgICAgICAgICAgOnZhbHVlICJTdHlsZSBuYW1lIn0pCiAgIChpbnB1dCB7OnRleHQgIkJhY2tncm91bmQgY29sb3I6IgogICAgICAgICAgIDp2YWx1ZSAiQmFja2dyb3VuZCBjb2xvciJ9KQogICAoaW5wdXQgezp0ZXh0ICJUaXRsZSBjb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJUaXRsZSBjb2xvciJ9KQogICAoaW5wdXQgezp0ZXh0ICJBbmd1bGF0aW9uOiIKICAgICAgICAgICA6dmFsdWUgIlBhZGRpbmcifSkKICAgKGlucHV0IHs6dGV4dCAiVGl0bGUgY29sb3I6IgogICAgICAgICAgIDp2YWx1ZSAiVGl0bGUgY29sb3IifSkKICAgWzpoMiAiMi4gTGluayBzdHlsZToiXQogICAoaW5wdXQgezp0ZXh0ICJTdHlsZSBuYW1lOiIKICAgICAgICAgICA6dmFsdWUgIlN0eWxlIG5hbWUifSkKICAgKGlucHV0IHs6dGV4dCAiTGluZSB0eXBlOiIKICAgICAgICAgICA6dmFsdWUgImxpbmUgdHlwZSJ9KQogICAoaW5wdXQgezp0ZXh0ICJDb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJDb2xvciJ9KQogICAoaW5wdXQgezp0ZXh0ICJXaWR0aDoiCiAgICAgICAgICAgOnZhbHVlICJXaWR0aCJ9KQogICBbOmgzICIyLjEgQXJyb3doZWFkOiJdCiAgIChpbnB1dCB7OnRleHQgIlR5cGU6IgogICAgICAgICAgIDp2YWx1ZSAiVHlwZSJ9KQogICAoaW5wdXQgezp0ZXh0ICJQb3NpdGlvbjoiCiAgICAgICAgICAgOnZhbHVlICJQb3NpdGlvbiJ9KQogICAoaW5wdXQgezp0ZXh0ICJDb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJDb2xvciJ9KQogICAoaW5wdXQgezp0ZXh0ICJGaWxsOiIKICAgICAgICAgICA6dmFsdWUgIkZpbGwifSkKICAgKGlucHV0IHs6dGV4dCAiTGVuZ3RoOiIKICAgICAgICAgICA6dmFsdWUiTGVuZ3RoIn0pXSkK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiVHlwZSIKICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSAjKGpzL2FsZXJ0ICJjb2xvciBjaGFuZ2VkIil9XQogICBbOmlucHV0LmZpZWxkIHs6dmFsdWUgIlBvc2l0aW9uIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiQ29sb3IiCiAgICAgICAgICAgICAgICAgIDpvbi1jaGFuZ2UgIyhqcy9hbGVydCAiY29sb3IgY2hhbmdlZCIpfV0KICAgWzppbnB1dC5maWVsZCB7OnZhbHVlICJGaWxsIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiTGVuZ3RoIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dXQ==</text>
+      </register>
+      <register name="3" type="4">
         <text>[:input.field {:value     &quot;Line type&quot;
                   :on-change #(js/alert &quot;color changed&quot;)}]
    [:input.field {:value     &quot;Style name&quot;
@@ -598,7 +608,7 @@
    [:input.field {:value &quot;Width&quot;
                   :on-change #(js/alert &quot;color changed&quot;)}]</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>[:input.field {:value &quot;Background color&quot;
                   :on-change #(js/alert &quot;color changed&quot;)}]
    [:input.field {:value &quot;Title color&quot;
@@ -608,7 +618,7 @@
    [:input.field {:value &quot;Padding&quot;
                   :on-change #(js/alert &quot;color changed&quot;)}]</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>[:div.line
     [:div.text &quot;Background color:&quot;]
     [:input.field {:value     &quot;Background color:&quot;
@@ -626,20 +636,17 @@
     [:input.field {:value     &quot;Style name&quot;
                    :on-change #(js/alert &quot;color changed&quot;)}]]</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIG1hcmdpbjogMTBweDsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgLmZpeGVkLXRpdGxlIHsKICAgIGZvbnQtZmFtaWx5OiBWZXJkYW5hLCBHZW5ldmEsIHNhbnMtc2VyaWY7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZmZmMDA7CiAgICBmb250LXNpemU6IDJlbTsKICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgYm9yZGVyLXdpZHRoOiAwcHg7CiAgICB3aWR0aDogMzUwcHg7CiAgfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">QGltcG9ydCAiX2VkaXRvci5sZXNzIjsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci5zdHlsZS1lZGl0b3IgewogIHBvc2l0aW9uOiBmaXhlZDsgLyogU2l0IG9uIHRvcCBvZiB0aGUgcGFnZSBjb250ZW50ICovCiAgd2lkdGg6IDEwMCU7IC8qIEZ1bGwgd2lkdGggKGNvdmVyIHRoZSB3aG9sZSBwYWdlKSAqLwogIGhlaWdodDogMTAwJTsgLyogRnVsbCBoZWlnaHQgKGNvdmVyIHRoZSB3aG9sZSBwYWdlKSAqLwogIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwp9</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
