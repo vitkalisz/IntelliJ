@@ -144,6 +144,13 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/events.cljs" timestamp="1562875034686">
         <mark key="[" line="31" column="56" />
       </file>
+      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1562931256991">
+        <mark key="'" line="36" column="3" />
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1560091356856">
         <mark key="[" line="69" column="38" />
         <mark key="]" line="72" column="28" />
@@ -270,7 +277,7 @@
         <mark key="^" line="57" column="23" />
         <mark key="." line="57" column="23" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_panel.less" timestamp="1562880427562">
+      <file name="$USER_HOME$/orgpad/less/_panel.less" timestamp="1562930021751">
         <mark key="[" line="157" column="24" />
         <mark key="]" line="157" column="22" />
         <mark key="^" line="157" column="22" />
@@ -487,11 +494,11 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1562872465409">
         <mark key="[" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1562928841051">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1562931312524">
+        <mark key="[" line="9" column="58" />
+        <mark key="]" line="9" column="55" />
+        <mark key="^" line="9" column="55" />
+        <mark key="." line="9" column="55" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -565,39 +572,46 @@
       <jump line="28" column="0" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" />
       <jump line="34" column="33" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" />
       <jump line="32" column="30" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" />
+      <jump line="36" column="3" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGltcG9ydCAiX2VkaXRvci5sZXNzIjsK</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogMTBweDsK</text>
       </register>
       <register name="-" type="4">
         <text>center</text>
       </register>
       <register name="/" type="4">
-        <text>html2hiccup</text>
+        <text encoding="base64">XiAg</text>
       </register>
       <register name="0" type="4">
         <text>LightYelow</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbjogMTBweDsK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgLmZpeGVkLXRpdGxlIHsKICAgIGZvbnQtZmFtaWx5OiBWZXJkYW5hLCBHZW5ldmEsIHNhbnMtc2VyaWY7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZmZmMDA7CiAgICBmb250LXNpemU6IDJlbTsKICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgYm9yZGVyLXdpZHRoOiAwcHg7CiAgICB3aWR0aDogMzUwcHg7CiAgfQ==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">QGltcG9ydCAiX2VkaXRvci5sZXNzIjsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci5zdHlsZS1lZGl0b3IgewogIHBvc2l0aW9uOiBmaXhlZDsgLyogU2l0IG9uIHRvcCBvZiB0aGUgcGFnZSBjb250ZW50ICovCiAgd2lkdGg6IDEwMCU7IC8qIEZ1bGwgd2lkdGggKGNvdmVyIHRoZSB3aG9sZSBwYWdlKSAqLwogIGhlaWdodDogMTAwJTsgLyogRnVsbCBoZWlnaHQgKGNvdmVyIHRoZSB3aG9sZSBwYWdlKSAqLwogIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwp9</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBub25lOyAvKiBIaWRkZW4gYnkgZGVmYXVsdCAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci5zdHlsZS1lZGl0b3IgewogIHBvc2l0aW9uOiBmaXhlZDsgLyogU2l0IG9uIHRvcCBvZiB0aGUgcGFnZSBjb250ZW50ICovCiAgd2lkdGg6IDEwMCU7IC8qIEZ1bGwgd2lkdGggKGNvdmVyIHRoZSB3aG9sZSBwYWdlKSAqLwogIGhlaWdodDogMTAwJTsgLyogRnVsbCBoZWlnaHQgKGNvdmVyIHRoZSB3aG9sZSBwYWdlKSAqLwogIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwp9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBub25lOyAvKiBIaWRkZW4gYnkgZGVmYXVsdCAqLwo=</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="4">
         <text>.edit-style {
           font-family: Verdana, Geneva, sans-serif;
           background-color: #ffffff00;
@@ -609,20 +623,16 @@
           flex-grow: 1;
           width: 100px;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGUtY29sdW1uczogcmVwZWF0KDExLCA1MHB4KTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItY29sb3I6IHNhbG1vbjsK</text>
-      </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>html2hiccup</last-search>
+      <last-search encoding="base64">XiAg</last-search>
       <last-offset />
-      <last-pattern>html2hiccup</last-pattern>
+      <last-pattern encoding="base64">XiAg</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">XiAg</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -632,6 +642,7 @@
         <entry>root</entry>
         <entry>println</entry>
         <entry>html2hiccup</entry>
+        <entry encoding="base64">XiAg</entry>
       </history-search>
       <history-cmd>
         <entry>wma</entry>
@@ -647,6 +658,7 @@
         <entry>swa</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
