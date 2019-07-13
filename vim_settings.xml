@@ -27,7 +27,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/input.cljs" timestamp="1562952524391" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/input.cljs" timestamp="1563029371308" />
       <file name="C:/Shared/orgpad/src/orgpad/common/colls.cljc" timestamp="1561846343173">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="22" />
@@ -361,6 +361,9 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/css.cljs" timestamp="1563032969029">
+        <mark key="[" line="88" column="17" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" timestamp="1560096421068">
         <mark key="[" line="142" column="6" />
         <mark key="]" line="142" column="95" />
@@ -439,7 +442,7 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1562954538231">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1563029205413">
         <mark key="[" line="177" column="64" />
         <mark key="]" line="178" column="51" />
         <mark key="^" line="178" column="51" />
@@ -516,12 +519,12 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1562872465409">
         <mark key="[" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1563028403007">
-        <mark key="'" line="14" column="2" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-        <mark key="^" line="14" column="5" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1563033092570">
+        <mark key="'" line="50" column="2" />
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="73" column="24" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -604,11 +607,11 @@
       <jump line="8" column="2" filename="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>login</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAocmVtb3ZlICMoPSAoOnN0eWxlL2lkICUpIGN1cnJlbnQtaWQpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text>Style nam</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XiAg</text>
@@ -617,60 +620,31 @@
         <text>LightYelow</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAoPSBjdXJyZW50IDpjdXJyZW50L3VuaXQtc3R5bGUtZWRpdG9yKSBbc3R5bGUtZWRpdG9yLXBhbmVsXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAocmVtb3ZlICMoPSAoOnN0eWxlL2lkICUpIGN1cnJlbnQtaWQpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQudmlld3MuZWRpdG9ycy5saW5rLXN0eWxlLWVkaXRvciA6YXMgbGluay1zdHlsZS1lZGl0b3JdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAocmVtb3ZlICMoPSAoOnN0eWxlL2lkICUpIGN1cnJlbnQtaWQpKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoPSBjdXJyZW50IDpjdXJyZW50L2xpbmstc3R5bGUtZWRpdG9yKSBbbGluay1zdHlsZS1lZGl0b3IvbGluay1zdHlsZS1lZGl0b3JdCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAoaW5wdXQgezp0ZXh0ICJTdHlsZSBuYW1lOiIKICAgICAgICAgICA6dmFsdWUgIlN0eWxlIG5hbWUifSkKICAgKGlucHV0IHs6dGV4dCAiQmFja2dyb3VuZCBjb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJCYWNrZ3JvdW5kIGNvbG9yIn0pCiAgIChpbnB1dCB7OnRleHQgIlRpdGxlIGNvbG9yOiIKICAgICAgICAgICA6dmFsdWUgIlRpdGxlIGNvbG9yIn0pCiAgIChpbnB1dCB7OnRleHQgIkFuZ3VsYXRpb246IgogICAgICAgICAgIDp2YWx1ZSAiUGFkZGluZyJ9KQogICAoaW5wdXQgezp0ZXh0ICJUaXRsZSBjb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJUaXRsZSBjb2xvciJ9KQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoPSBjdXJyZW50IDpjdXJyZW50L29yZ3BhZ2UpIFtvcmdwYWdlL29yZ3BhZ2VdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAoPSBjdXJyZW50IDpjdXJyZW50L3VuaXQtc3R5bGUtZWRpdG9yKSBbc3R5bGUtZWRpdG9yLXBhbmVsXQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQudmlld3MuZWRpdG9ycy5saW5rLXN0eWxlLWVkaXRvciA6YXMgbGluay1zdHlsZS1lZGl0b3JdCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAoPSBjdXJyZW50IDpjdXJyZW50L2xpbmstc3R5bGUtZWRpdG9yKSBbbGluay1zdHlsZS1lZGl0b3IvbGluay1zdHlsZS1lZGl0b3JdCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAoPSBjdXJyZW50IDpjdXJyZW50L29yZ3BhZ2UpIFtvcmdwYWdlL29yZ3BhZ2VdKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">KGRlZm4tIGlucHV0IFt7OmtleXMgW3RleHQgdmFsdWVdfV0KICBbOmRpdi5saW5lCiAgIFs6ZGl2LnRleHQgdGV4dF0KICAgWzppbnB1dC5maWVsZCB7OnZhbHVlICAgICB2YWx1ZQogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvY29uc29sZS5sb2cgKHN0ciB2YWx1ZSAiIGNoYW5nZWQiKSl9XV0pCgooZGVmbiBzdHlsZS1lZGl0b3IgW10KICBbOmRpdi5maWVsZC13cmFwcGVyCiAgIFs6aDIgIjEuIFVuaXQgc3R5bGU6Il0KICAgKGlucHV0IHs6dGV4dCAiU3R5bGUgbmFtZToiCiAgICAgICAgICAgOnZhbHVlICJTdHlsZSBuYW1lIn0pCiAgIChpbnB1dCB7OnRleHQgIkJhY2tncm91bmQgY29sb3I6IgogICAgICAgICAgIDp2YWx1ZSAiQmFja2dyb3VuZCBjb2xvciJ9KQogICAoaW5wdXQgezp0ZXh0ICJUaXRsZSBjb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJUaXRsZSBjb2xvciJ9KQogICAoaW5wdXQgezp0ZXh0ICJBbmd1bGF0aW9uOiIKICAgICAgICAgICA6dmFsdWUgIlBhZGRpbmcifSkKICAgKGlucHV0IHs6dGV4dCAiVGl0bGUgY29sb3I6IgogICAgICAgICAgIDp2YWx1ZSAiVGl0bGUgY29sb3IifSkKICAgWzpoMiAiMi4gTGluayBzdHlsZToiXQogICAoaW5wdXQgezp0ZXh0ICJTdHlsZSBuYW1lOiIKICAgICAgICAgICA6dmFsdWUgIlN0eWxlIG5hbWUifSkKICAgKGlucHV0IHs6dGV4dCAiTGluZSB0eXBlOiIKICAgICAgICAgICA6dmFsdWUgImxpbmUgdHlwZSJ9KQogICAoaW5wdXQgezp0ZXh0ICJDb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJDb2xvciJ9KQogICAoaW5wdXQgezp0ZXh0ICJXaWR0aDoiCiAgICAgICAgICAgOnZhbHVlICJXaWR0aCJ9KQogICBbOmgzICIyLjEgQXJyb3doZWFkOiJdCiAgIChpbnB1dCB7OnRleHQgIlR5cGU6IgogICAgICAgICAgIDp2YWx1ZSAiVHlwZSJ9KQogICAoaW5wdXQgezp0ZXh0ICJQb3NpdGlvbjoiCiAgICAgICAgICAgOnZhbHVlICJQb3NpdGlvbiJ9KQogICAoaW5wdXQgezp0ZXh0ICJDb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJDb2xvciJ9KQogICAoaW5wdXQgezp0ZXh0ICJGaWxsOiIKICAgICAgICAgICA6dmFsdWUgIkZpbGwifSkKICAgKGlucHV0IHs6dGV4dCAiTGVuZ3RoOiIKICAgICAgICAgICA6dmFsdWUiTGVuZ3RoIn0pXSkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiVHlwZSIKICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSAjKGpzL2FsZXJ0ICJjb2xvciBjaGFuZ2VkIil9XQogICBbOmlucHV0LmZpZWxkIHs6dmFsdWUgIlBvc2l0aW9uIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiQ29sb3IiCiAgICAgICAgICAgICAgICAgIDpvbi1jaGFuZ2UgIyhqcy9hbGVydCAiY29sb3IgY2hhbmdlZCIpfV0KICAgWzppbnB1dC5maWVsZCB7OnZhbHVlICJGaWxsIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiTGVuZ3RoIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dXQ==</text>
-      </register>
-      <register name="7" type="4">
-        <text>[:input.field {:value     &quot;Line type&quot;
-                  :on-change #(js/alert &quot;color changed&quot;)}]
-   [:input.field {:value     &quot;Style name&quot;
-                  :on-change #(js/alert &quot;color changed&quot;)}]
-   [:input.field {:value &quot;Color&quot;
-                  :on-change #(js/alert &quot;color changed&quot;)}]
-   [:input.field {:value &quot;Width&quot;
-                  :on-change #(js/alert &quot;color changed&quot;)}]</text>
-      </register>
-      <register name="8" type="4">
-        <text>[:input.field {:value &quot;Background color&quot;
-                  :on-change #(js/alert &quot;color changed&quot;)}]
-   [:input.field {:value &quot;Title color&quot;
-                  :on-change #(js/alert &quot;color changed&quot;)}]
-   [:input.field {:value &quot;Angulation&quot;
-                  :on-change #(js/alert &quot;color changed&quot;)}]
-   [:input.field {:value &quot;Padding&quot;
-                  :on-change #(js/alert &quot;color changed&quot;)}]</text>
-      </register>
       <register name="9" type="4">
-        <text>[:div.line
-    [:div.text &quot;Background color:&quot;]
-    [:input.field {:value     &quot;Background color:&quot;
-                   :on-change #(js/alert &quot;color changed&quot;)}]]
-   [:div.line
-    [:div.text &quot;Title color:&quot;]
-    [:input.field {:value     &quot;Title color:&quot;
-                   :on-change #(js/alert &quot;color changed&quot;)}]]
-   [:div.line
-    [:div.text &quot;Angulation:&quot;]
-    [:input.field {:value     &quot;Angulation:&quot;
-                   :on-change #(js/alert &quot;color changed&quot;)}]]
-   [:div.line
-    [:div.text &quot;Padding:&quot;]
-    [:input.field {:value     &quot;Style name&quot;
-                   :on-change #(js/alert &quot;color changed&quot;)}]]</text>
+        <text encoding="base64">IFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiVHlwZSIKICAgICAgICAgICAgICAgICAgOm9uLWNoYW5nZSAjKGpzL2FsZXJ0ICJjb2xvciBjaGFuZ2VkIil9XQogICBbOmlucHV0LmZpZWxkIHs6dmFsdWUgIlBvc2l0aW9uIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiQ29sb3IiCiAgICAgICAgICAgICAgICAgIDpvbi1jaGFuZ2UgIyhqcy9hbGVydCAiY29sb3IgY2hhbmdlZCIpfV0KICAgWzppbnB1dC5maWVsZCB7OnZhbHVlICJGaWxsIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dCiAgIFs6aW5wdXQuZmllbGQgezp2YWx1ZSAiTGVuZ3RoIgogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvYWxlcnQgImNvbG9yIGNoYW5nZWQiKX1dXQ==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
