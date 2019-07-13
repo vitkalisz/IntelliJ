@@ -52,6 +52,9 @@
         <mark key="^" line="49" column="91" />
         <mark key="." line="49" column="91" />
       </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1562956063407">
+        <mark key="[" line="77" column="47" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/image.clj" timestamp="1560698264575">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="1" column="44" />
@@ -199,6 +202,11 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="32" column="37" />
       </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/update.cljs" timestamp="1562956345728">
+        <mark key="[" line="79" column="38" />
+        <mark key="]" line="79" column="38" />
+        <mark key="." line="79" column="38" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/download.clj" timestamp="1561139804610">
         <mark key="[" line="29" column="30" />
         <mark key="]" line="16" column="60" />
@@ -225,6 +233,12 @@
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/create/link.cljs" timestamp="1559809879148">
         <mark key="[" line="36" column="56" />
+      </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/get.cljs" timestamp="1562955944976">
+        <mark key="[" line="103" column="33" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="^" line="101" column="0" />
       </file>
       <file name="$USER_HOME$/orgpad/less/_editor.less" timestamp="1562928361538">
         <mark key="[" line="64" column="0" />
@@ -393,6 +407,9 @@
         <mark key="]" line="34" column="52" />
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
+      </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1562955539626">
+        <mark key="[" line="112" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1560123109033">
         <mark key="[" line="166" column="0" />
@@ -582,11 +599,11 @@
       <jump line="3" column="14" filename="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAoPSBjdXJyZW50IDpjdXJyZW50L3VuaXQtc3R5bGUtZWRpdG9yKSBbc3R5bGUtZWRpdG9yLXBhbmVsXQo=</text>
+      <register name="&quot;" type="4">
+        <text>login</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>login</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XiAg</text>
