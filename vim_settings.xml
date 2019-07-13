@@ -516,12 +516,12 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1562872465409">
         <mark key="[" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1562954305560">
-        <mark key="'" line="2" column="14" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1563028403007">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="5" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -559,8 +559,8 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1562948346205">
-        <mark key="[" line="5" column="50" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1563028195772">
+        <mark key="[" line="12" column="2" />
         <mark key="]" line="13" column="45" />
         <mark key="^" line="13" column="45" />
         <mark key="." line="13" column="45" />
@@ -601,6 +601,7 @@
       <jump line="36" column="3" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
       <jump line="17" column="0" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
       <jump line="3" column="14" filename="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
+      <jump line="8" column="2" filename="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
