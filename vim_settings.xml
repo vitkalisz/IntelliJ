@@ -519,12 +519,13 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1562872465409">
         <mark key="[" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1563037238896">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1563039136397">
+        <mark key="a" line="45" column="37" />
         <mark key="'" line="52" column="2" />
-        <mark key="[" line="44" column="21" />
-        <mark key="]" line="45" column="63" />
-        <mark key="^" line="45" column="63" />
-        <mark key="." line="45" column="63" />
+        <mark key="[" line="45" column="36" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
