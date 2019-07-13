@@ -127,7 +127,7 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="41" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_dashboard.less" timestamp="1563039646230" />
+      <file name="$USER_HOME$/orgpad/less/_dashboard.less" timestamp="1563040841159" />
       <file name="C:/Shared/orgpad/less/_dashboard.less" timestamp="1561846796841">
         <mark key="[" line="21" column="27" />
         <mark key="]" line="22" column="27" />
@@ -149,10 +149,12 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/events.cljs" timestamp="1562875034686">
         <mark key="[" line="28" column="56" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1563039701147">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1563041584574">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1560091356856">
         <mark key="[" line="69" column="38" />
@@ -597,19 +599,21 @@
       <jump line="34" column="33" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" />
       <jump line="32" column="30" filename="$USER_HOME$/Documents/orgpad/rf-testing/src/cljs/rf_testing/events.cljs" />
       <jump line="36" column="3" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
-      <jump line="17" column="0" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
       <jump line="3" column="14" filename="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
       <jump line="8" column="2" filename="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
+      <jump line="17" column="0" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
+      <jump line="38" column="3" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
+      <jump line="18" column="0" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4OwoubGluZSB7CiAgLmxhYmVsIHsKICAgIHdpZHRoOiAxNTBweDsKICB9CiAgLnRleHQgewogICAgZGlzcGxheTogZmxleDsKICAgIHdpZHRoOiAxMzBweDsKICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICB9Cn0KCi5maWVsZC13cmFwcGVyIHsKICBkaXNwbGF5OiBmbGV4OwogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgbWFyZ2luLWxlZnQ6IDIwcHg7CiAgbWFyZ2luLXRvcDogMjBweDsKCiAgLmZpZWxkIHsKICAgIGZvbnQtZmFtaWx5OiBWZXJkYW5hLCBHZW5ldmEsIHNhbnMtc2VyaWY7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZmZmMDA7CiAgICBmb250LXNpemU6IDFlbTsKICAgIGJvcmRlci13aWR0aDogMXB4OwogICAgbWFyZ2luOiAxMHB4OwogICAgd2lkdGg6IDE1MHB4OwogICAgJjpob3ZlciB7CiAgICAgIG91dGxpbmU6IDFweCBkb3R0ZWQgIzMzMzsKICAgIH0KICAgICY6Zm9jdXMgewogICAgICBvdXRsaW5lOiAxcHggc29saWQgIzMzMzsKICAgIH0KICB9Cn0=</text>
+        <text>left</text>
       </register>
       <register name="-" type="4">
-        <text>Style nam</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XiAg</text>
+        <text>^</text>
       </register>
       <register name="0" type="4">
         <text>LightYelow</text>
@@ -642,15 +646,15 @@
         <text encoding="base64">KGRlZm4tIGlucHV0IFt7OmtleXMgW3RleHQgdmFsdWVdfV0KICBbOmRpdi5saW5lCiAgIFs6ZGl2LnRleHQgdGV4dF0KICAgWzppbnB1dC5maWVsZCB7OnZhbHVlICAgICB2YWx1ZQogICAgICAgICAgICAgICAgICA6b24tY2hhbmdlICMoanMvY29uc29sZS5sb2cgKHN0ciB2YWx1ZSAiIGNoYW5nZWQiKSl9XV0pCgooZGVmbiBzdHlsZS1lZGl0b3IgW10KICBbOmRpdi5maWVsZC13cmFwcGVyCiAgIFs6aDIgIjEuIFVuaXQgc3R5bGU6Il0KICAgKGlucHV0IHs6dGV4dCAiU3R5bGUgbmFtZToiCiAgICAgICAgICAgOnZhbHVlICJTdHlsZSBuYW1lIn0pCiAgIChpbnB1dCB7OnRleHQgIkJhY2tncm91bmQgY29sb3I6IgogICAgICAgICAgIDp2YWx1ZSAiQmFja2dyb3VuZCBjb2xvciJ9KQogICAoaW5wdXQgezp0ZXh0ICJUaXRsZSBjb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJUaXRsZSBjb2xvciJ9KQogICAoaW5wdXQgezp0ZXh0ICJBbmd1bGF0aW9uOiIKICAgICAgICAgICA6dmFsdWUgIlBhZGRpbmcifSkKICAgKGlucHV0IHs6dGV4dCAiVGl0bGUgY29sb3I6IgogICAgICAgICAgIDp2YWx1ZSAiVGl0bGUgY29sb3IifSkKICAgWzpoMiAiMi4gTGluayBzdHlsZToiXQogICAoaW5wdXQgezp0ZXh0ICJTdHlsZSBuYW1lOiIKICAgICAgICAgICA6dmFsdWUgIlN0eWxlIG5hbWUifSkKICAgKGlucHV0IHs6dGV4dCAiTGluZSB0eXBlOiIKICAgICAgICAgICA6dmFsdWUgImxpbmUgdHlwZSJ9KQogICAoaW5wdXQgezp0ZXh0ICJDb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJDb2xvciJ9KQogICAoaW5wdXQgezp0ZXh0ICJXaWR0aDoiCiAgICAgICAgICAgOnZhbHVlICJXaWR0aCJ9KQogICBbOmgzICIyLjEgQXJyb3doZWFkOiJdCiAgIChpbnB1dCB7OnRleHQgIlR5cGU6IgogICAgICAgICAgIDp2YWx1ZSAiVHlwZSJ9KQogICAoaW5wdXQgezp0ZXh0ICJQb3NpdGlvbjoiCiAgICAgICAgICAgOnZhbHVlICJQb3NpdGlvbiJ9KQogICAoaW5wdXQgezp0ZXh0ICJDb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJDb2xvciJ9KQogICAoaW5wdXQgezp0ZXh0ICJGaWxsOiIKICAgICAgICAgICA6dmFsdWUgIkZpbGwifSkKICAgKGlucHV0IHs6dGV4dCAiTGVuZ3RoOiIKICAgICAgICAgICA6dmFsdWUiTGVuZ3RoIn0pXSkK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text encoding="base64">JzwsJz5zL14vICAv</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XiAg</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XiAg</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">XiAg</last-substitute>
+      <last-pattern>^</last-pattern>
+      <last-replace encoding="base64">ICA=</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -661,6 +665,7 @@
         <entry>println</entry>
         <entry>html2hiccup</entry>
         <entry encoding="base64">XiAg</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
         <entry>wma</entry>
@@ -678,6 +683,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz5zL14vICAv</entry>
       </history-cmd>
       <history-expr />
       <history-input />
