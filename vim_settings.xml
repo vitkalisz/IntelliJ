@@ -52,11 +52,11 @@
         <mark key="^" line="49" column="91" />
         <mark key="." line="49" column="91" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1563022412836">
-        <mark key="[" line="77" column="47" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1563124900094">
+        <mark key="[" line="85" column="19" />
+        <mark key="]" line="85" column="17" />
+        <mark key="^" line="85" column="17" />
+        <mark key="." line="85" column="17" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/image.clj" timestamp="1560698264575">
         <mark key="[" line="2" column="12" />
@@ -201,11 +201,11 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="32" column="37" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/update.cljs" timestamp="1563025880707">
-        <mark key="[" line="79" column="38" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="7" column="6" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/update.cljs" timestamp="1563125483816">
+        <mark key="[" line="84" column="6" />
+        <mark key="]" line="82" column="50" />
+        <mark key="." line="82" column="50" />
+        <mark key="^" line="82" column="50" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/handler/download.clj" timestamp="1561139804610">
         <mark key="[" line="29" column="30" />
@@ -234,11 +234,11 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/op/create/link.cljs" timestamp="1559809879148">
         <mark key="[" line="36" column="56" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/get.cljs" timestamp="1562955944976">
-        <mark key="[" line="103" column="33" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="101" column="0" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/get.cljs" timestamp="1563125385213">
+        <mark key="[" line="108" column="18" />
+        <mark key="]" line="106" column="45" />
+        <mark key="." line="106" column="45" />
+        <mark key="^" line="106" column="45" />
       </file>
       <file name="$USER_HOME$/orgpad/less/_editor.less" timestamp="1562928361538">
         <mark key="[" line="64" column="0" />
@@ -393,8 +393,8 @@
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/panel.cljs" timestamp="1559480515755">
         <mark key="[" line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/up/style_editor.cljs" timestamp="1562948993133">
-        <mark key="[" line="4" column="81" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/up/style_editor.cljs" timestamp="1563125868438">
+        <mark key="[" line="14" column="49" />
         <mark key="]" line="4" column="48" />
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
@@ -411,8 +411,11 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1563124031759">
-        <mark key="[" line="114" column="42" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1563124512733">
+        <mark key="[" line="119" column="6" />
+        <mark key="]" line="119" column="17" />
+        <mark key="." line="119" column="17" />
+        <mark key="^" line="119" column="17" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1560123109033">
         <mark key="[" line="166" column="0" />
@@ -517,13 +520,13 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1562872465409">
         <mark key="[" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1563124217144">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1563128486940">
         <mark key="a" line="48" column="37" />
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="81" column="52" />
-        <mark key="]" line="86" column="39" />
-        <mark key="^" line="86" column="39" />
-        <mark key="." line="86" column="39" />
+        <mark key="[" line="68" column="65" />
+        <mark key="]" line="93" column="69" />
+        <mark key="^" line="93" column="69" />
+        <mark key="." line="93" column="69" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -561,11 +564,10 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1563120763491">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="21" />
-        <mark key="^" line="20" column="21" />
-        <mark key="." line="20" column="21" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1563128513014">
+        <mark key="]" line="40" column="74" />
+        <mark key="^" line="40" column="74" />
+        <mark key="." line="40" column="74" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1560554522700">
         <mark key="[" line="5" column="11" />
@@ -612,16 +614,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Merge branch 'users' of https://github.com/ReOrgpad/orgpad into style-editor
-
-# Conflicts:
-#	less/_panel.less
-#	src/orgpad/client/events/mouse/events.cljs
-#	src/orgpad/client/views/panel.cljs
-#	src/orgpad/client/views/root.cljs</text>
+        <text>key</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG92ZXJmbG93LXg6IGF1dG87</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGFja1w+</text>
@@ -630,6 +626,9 @@
         <text>LightYelow</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CihyZi9yZWctZXZlbnQtZGIKICA6c3R5bGUtZWRpdG9yL3VwZGF0ZS1iZy1jb2xvcgogIChmbiBbZGIgW18gbmV3LWJnLWNvbG9yXV0KICAgIChkYi11cGRhdGUvKSkpCgoocmYvcmVnLWV2ZW50LWRiCiAgOnN0eWxlLWVkaXRvci91cGRhdGUtdGl0bGUtY29sb3IKICAoZm4gW2RiIFtfIG5ldy10aXRsZS1jb2xvcl1dKSkKCihyZi9yZWctZXZlbnQtZGIKICA6c3R5bGUtZWRpdG9yL3VwZGF0ZS1jb3JuZXItcmFkaXVzCiAgKGZuIFtkYiBbXyBuZXctY29ybmVyLXJhZGl1c11dKSkKCigoZm4gW2RiIFtfIG5ldy1wYWRkaW5nXV0pCiAgcmYvcmVnLWV2ZW50LWRiCiAgOnN0eWxlLWVkaXRvci91cGRhdGUtcGFkZGluZyk=</text>
+      </register>
+      <register name="2" type="4">
         <text>Merge branch 'users' of https://github.com/ReOrgpad/orgpad into style-editor
 
 # Conflicts:
@@ -638,29 +637,26 @@
 #	src/orgpad/client/views/panel.cljs
 #	src/orgpad/client/views/root.cljs</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgb3ZlcmZsb3cteTogYXV0bzsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBkaXNwbGF5OiBmbGV4OwoubGluZSB7CiAgLmxhYmVsIHsKICAgIHdpZHRoOiAxNTBweDsKICB9CiAgLnRleHQgewogICAgZGlzcGxheTogZmxleDsKICAgIHdpZHRoOiAxMzBweDsKICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICB9Cn0KCi5maWVsZC13cmFwcGVyIHsKICBkaXNwbGF5OiBmbGV4OwogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgbWFyZ2luLWxlZnQ6IDIwcHg7CiAgbWFyZ2luLXRvcDogMjBweDsKCiAgLmZpZWxkIHsKICAgIGZvbnQtZmFtaWx5OiBWZXJkYW5hLCBHZW5ldmEsIHNhbnMtc2VyaWY7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZmZmMDA7CiAgICBmb250LXNpemU6IDFlbTsKICAgIGJvcmRlci13aWR0aDogMXB4OwogICAgbWFyZ2luOiAxMHB4OwogICAgd2lkdGg6IDE1MHB4OwogICAgJjpob3ZlciB7CiAgICAgIG91dGxpbmU6IDFweCBkb3R0ZWQgIzMzMzsKICAgIH0KICAgICY6Zm9jdXMgewogICAgICBvdXRsaW5lOiAxcHggc29saWQgIzMzMzsKICAgIH0KICB9Cn0=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAocmVtb3ZlICMoPSAoOnN0eWxlL2lkICUpIGN1cnJlbnQtaWQpKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAocmVtb3ZlICMoPSAoOnN0eWxlL2lkICUpIGN1cnJlbnQtaWQpKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAocmVtb3ZlICMoPSAoOnN0eWxlL2lkICUpIGN1cnJlbnQtaWQpKQo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAoaW5wdXQgezp0ZXh0ICJTdHlsZSBuYW1lOiIKICAgICAgICAgICA6dmFsdWUgIlN0eWxlIG5hbWUifSkKICAgKGlucHV0IHs6dGV4dCAiQmFja2dyb3VuZCBjb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJCYWNrZ3JvdW5kIGNvbG9yIn0pCiAgIChpbnB1dCB7OnRleHQgIlRpdGxlIGNvbG9yOiIKICAgICAgICAgICA6dmFsdWUgIlRpdGxlIGNvbG9yIn0pCiAgIChpbnB1dCB7OnRleHQgIkFuZ3VsYXRpb246IgogICAgICAgICAgIDp2YWx1ZSAiUGFkZGluZyJ9KQogICAoaW5wdXQgezp0ZXh0ICJUaXRsZSBjb2xvcjoiCiAgICAgICAgICAgOnZhbHVlICJUaXRsZSBjb2xvciJ9KQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAoPSBjdXJyZW50IDpjdXJyZW50L3VuaXQtc3R5bGUtZWRpdG9yKSBbc3R5bGUtZWRpdG9yLXBhbmVsXQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW29yZ3BhZC5jbGllbnQudmlld3MuZWRpdG9ycy5saW5rLXN0eWxlLWVkaXRvciA6YXMgbGluay1zdHlsZS1lZGl0b3JdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAoPSBjdXJyZW50IDpjdXJyZW50L3VuaXQtc3R5bGUtZWRpdG9yKSBbc3R5bGUtZWRpdG9yLXBhbmVsXQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
