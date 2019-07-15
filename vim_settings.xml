@@ -168,6 +168,11 @@
         <mark key="." line="36" column="100" />
         <mark key="^" line="36" column="100" />
       </file>
+      <file name="$USER_HOME$/orgpad/less/orgpad.less" timestamp="1562927752611">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/dashboard.cljs" timestamp="1559480462603">
         <mark key="[" line="6" column="63" />
       </file>
@@ -572,11 +577,10 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1563136687438">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="54" />
-        <mark key="^" line="22" column="54" />
-        <mark key="." line="22" column="54" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1563140386654">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1560554522700">
         <mark key="[" line="5" column="11" />
@@ -624,7 +628,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOnN0eWxlLWVkaXRvci9jaGFuZ2UtY3VycmVudC1zdHlsZSIgaWQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>key</text>
@@ -636,18 +640,21 @@
         <text>LightYelow</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOnN0eWxlLWVkaXRvci9jaGFuZ2UtY3VycmVudC1zdHlsZSIgaWQpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">OzstW05vdCB1c2VkXS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCihkZWZuLSB1bml0LWNzcwogICJDb21wdXRlcyB1bml0IENTUyBzdHlsZSB3aXRob3V0IDpwYWRkaW5nLWJvdHRvbS4iCiAgW3Byb3BzXQogIChkaXNzb2MgKGNzcy91bml0LWNzcy1zdHlsZSB7OnVuaXQvcHJvcHMgcHJvcHN9IGZhbHNlKSA6cGFkZGluZy1ib3R0b20pKQoKKGRlZm4tIHVuaXQtc3R5bGUtY29udGVudAogICJSZW5kZXJzIGEgc2luZ2xlIHVuaXQgc3R5bGUuIgogIFtwcm9wcyB0aXRsZV0KICAoaWYgcHJvcHMKICAgIFs6ZGl2IHs6c3R5bGUgKHVuaXQtY3NzIHByb3BzKX0KICAgICBbOmRpdiB7OnN0eWxlIChjc3MvdGl0bGUtY3NzLXN0eWxlICg6cHJvcHMvdGl0bGUgcHJvcHMpIGZhbHNlKX0gdGl0bGVdXQogICAgWzpkaXYgezpzdHlsZSB7OndpZHRoICAxMDAKICAgICAgICAgICAgICAgICAgIDpoZWlnaHQgNTB9fV0pKQoKKGRlZm4tIHVuaXQtc3R5bGVzCiAgIlJlbmRlcnMgbGlzdCBvZiBhbGwgdW5pdCBzdHlsZXMuIgogIFtdCiAgKGxldCBbc3R5bGVzICgtPj4gQChyZi9zdWJzY3JpYmUgWzpvcmdwYWdlL3VuaXQtc3R5bGVzXSkgdmFscwogICAgICAgICAgICAgICAgICAgIChzb3J0LWJ5IDpzdHlsZS90aXRsZSkpXQogICAgWzpkaXYuc3R5bGUtbGlzdAogICAgIChmb3IgW3s6c3R5bGUva2V5cyBbaWQgdGl0bGUgcHJvcHNdfSBzdHlsZXNdCiAgICAgICBbOmRpdi51bml0LXN0eWxlIHs6a2V5ICAgICAgaWQKICAgICAgICAgICAgICAgICAgICAgICAgIDpvbi1jbGljayAjKGRvICguc3RvcFByb3BhZ2F0aW9uICUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAocmYvZGlzcGF0Y2ggWzpwYW5lbC9jaGFuZ2UtY3VycmVudC11bml0LXN0eWxlLWlkIGlkXSkpfQogICAgICAgICh1bml0LXN0eWxlLWNvbnRlbnQgcHJvcHMgdGl0bGUpXSldKSkKOzstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CihyZi9yZWctZXZlbnQtZGIKICA6c3R5bGUtZWRpdG9yL3VwZGF0ZS1iZy1jb2xvcgogIChmbiBbZGIgW18gbmV3LWJnLWNvbG9yXV0KICAgIChkYi11cGRhdGUvKSkpCgoocmYvcmVnLWV2ZW50LWRiCiAgOnN0eWxlLWVkaXRvci91cGRhdGUtdGl0bGUtY29sb3IKICAoZm4gW2RiIFtfIG5ldy10aXRsZS1jb2xvcl1dKSkKCihyZi9yZWctZXZlbnQtZGIKICA6c3R5bGUtZWRpdG9yL3VwZGF0ZS1jb3JuZXItcmFkaXVzCiAgKGZuIFtkYiBbXyBuZXctY29ybmVyLXJhZGl1c11dKSkKCigoZm4gW2RiIFtfIG5ldy1wYWRkaW5nXV0pCiAgcmYvcmVnLWV2ZW50LWRiCiAgOnN0eWxlLWVkaXRvci91cGRhdGUtcGFkZGluZyk=</text>
+        <text encoding="base64">OzstW05vdCB1c2VkXS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCihkZWZuLSB1bml0LWNzcwogICJDb21wdXRlcyB1bml0IENTUyBzdHlsZSB3aXRob3V0IDpwYWRkaW5nLWJvdHRvbS4iCiAgW3Byb3BzXQogIChkaXNzb2MgKGNzcy91bml0LWNzcy1zdHlsZSB7OnVuaXQvcHJvcHMgcHJvcHN9IGZhbHNlKSA6cGFkZGluZy1ib3R0b20pKQoKKGRlZm4tIHVuaXQtc3R5bGUtY29udGVudAogICJSZW5kZXJzIGEgc2luZ2xlIHVuaXQgc3R5bGUuIgogIFtwcm9wcyB0aXRsZV0KICAoaWYgcHJvcHMKICAgIFs6ZGl2IHs6c3R5bGUgKHVuaXQtY3NzIHByb3BzKX0KICAgICBbOmRpdiB7OnN0eWxlIChjc3MvdGl0bGUtY3NzLXN0eWxlICg6cHJvcHMvdGl0bGUgcHJvcHMpIGZhbHNlKX0gdGl0bGVdXQogICAgWzpkaXYgezpzdHlsZSB7OndpZHRoICAxMDAKICAgICAgICAgICAgICAgICAgIDpoZWlnaHQgNTB9fV0pKQoKKGRlZm4tIHVuaXQtc3R5bGVzCiAgIlJlbmRlcnMgbGlzdCBvZiBhbGwgdW5pdCBzdHlsZXMuIgogIFtdCiAgKGxldCBbc3R5bGVzICgtPj4gQChyZi9zdWJzY3JpYmUgWzpvcmdwYWdlL3VuaXQtc3R5bGVzXSkgdmFscwogICAgICAgICAgICAgICAgICAgIChzb3J0LWJ5IDpzdHlsZS90aXRsZSkpXQogICAgWzpkaXYuc3R5bGUtbGlzdAogICAgIChmb3IgW3s6c3R5bGUva2V5cyBbaWQgdGl0bGUgcHJvcHNdfSBzdHlsZXNdCiAgICAgICBbOmRpdi51bml0LXN0eWxlIHs6a2V5ICAgICAgaWQKICAgICAgICAgICAgICAgICAgICAgICAgIDpvbi1jbGljayAjKGRvICguc3RvcFByb3BhZ2F0aW9uICUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAocmYvZGlzcGF0Y2ggWzpwYW5lbC9jaGFuZ2UtY3VycmVudC11bml0LXN0eWxlLWlkIGlkXSkpfQogICAgICAgICh1bml0LXN0eWxlLWNvbnRlbnQgcHJvcHMgdGl0bGUpXSldKSkKOzstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CihyZi9yZWctZXZlbnQtZGIKICA6c3R5bGUtZWRpdG9yL3VwZGF0ZS1iZy1jb2xvcgogIChmbiBbZGIgW18gbmV3LWJnLWNvbG9yXV0KICAgIChkYi11cGRhdGUvKSkpCgoocmYvcmVnLWV2ZW50LWRiCiAgOnN0eWxlLWVkaXRvci91cGRhdGUtdGl0bGUtY29sb3IKICAoZm4gW2RiIFtfIG5ldy10aXRsZS1jb2xvcl1dKSkKCihyZi9yZWctZXZlbnQtZGIKICA6c3R5bGUtZWRpdG9yL3VwZGF0ZS1jb3JuZXItcmFkaXVzCiAgKGZuIFtkYiBbXyBuZXctY29ybmVyLXJhZGl1c11dKSkKCigoZm4gW2RiIFtfIG5ldy1wYWRkaW5nXV0pCiAgcmYvcmVnLWV2ZW50LWRiCiAgOnN0eWxlLWVkaXRvci91cGRhdGUtcGFkZGluZyk=</text>
+      </register>
+      <register name="6" type="4">
         <text>Merge branch 'users' of https://github.com/ReOrgpad/orgpad into style-editor
 
 # Conflicts:
@@ -656,17 +663,14 @@
 #	src/orgpad/client/views/panel.cljs
 #	src/orgpad/client/views/root.cljs</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgb3ZlcmZsb3cteTogYXV0bzsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICBkaXNwbGF5OiBmbGV4OwoubGluZSB7CiAgLmxhYmVsIHsKICAgIHdpZHRoOiAxNTBweDsKICB9CiAgLnRleHQgewogICAgZGlzcGxheTogZmxleDsKICAgIHdpZHRoOiAxMzBweDsKICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICB9Cn0KCi5maWVsZC13cmFwcGVyIHsKICBkaXNwbGF5OiBmbGV4OwogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgbWFyZ2luLWxlZnQ6IDIwcHg7CiAgbWFyZ2luLXRvcDogMjBweDsKCiAgLmZpZWxkIHsKICAgIGZvbnQtZmFtaWx5OiBWZXJkYW5hLCBHZW5ldmEsIHNhbnMtc2VyaWY7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmZmZmMDA7CiAgICBmb250LXNpemU6IDFlbTsKICAgIGJvcmRlci13aWR0aDogMXB4OwogICAgbWFyZ2luOiAxMHB4OwogICAgd2lkdGg6IDE1MHB4OwogICAgJjpob3ZlciB7CiAgICAgIG91dGxpbmU6IDFweCBkb3R0ZWQgIzMzMzsKICAgIH0KICAgICY6Zm9jdXMgewogICAgICBvdXRsaW5lOiAxcHggc29saWQgIzMzMzsKICAgIH0KICB9Cn0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAocmVtb3ZlICMoPSAoOnN0eWxlL2lkICUpIGN1cnJlbnQtaWQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
