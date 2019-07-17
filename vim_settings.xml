@@ -316,12 +316,12 @@
         <mark key="." line="5" column="54" />
         <mark key="^" line="5" column="54" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/subs/app_state.cljs" timestamp="1563370371959">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/subs/app_state.cljs" timestamp="1563373465233">
         <mark key="'" line="206" column="15" />
         <mark key="[" line="214" column="47" />
-        <mark key="]" line="209" column="10" />
-        <mark key="^" line="209" column="10" />
-        <mark key="." line="209" column="10" />
+        <mark key="]" line="214" column="45" />
+        <mark key="^" line="214" column="45" />
+        <mark key="." line="214" column="45" />
       </file>
       <file name="C:/Shared/orgpad/resources/sql/images.sql" timestamp="1560792408421">
         <mark key="[" line="53" column="9" />
@@ -419,11 +419,11 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1563124512733">
-        <mark key="[" line="119" column="6" />
-        <mark key="]" line="119" column="17" />
-        <mark key="." line="119" column="17" />
-        <mark key="^" line="119" column="17" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1563375501601">
+        <mark key="[" line="120" column="20" />
+        <mark key="]" line="120" column="21" />
+        <mark key="." line="120" column="21" />
+        <mark key="^" line="120" column="21" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1560123109033">
         <mark key="[" line="166" column="0" />
@@ -528,13 +528,13 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1562872465409">
         <mark key="[" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1563372705382">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1563374102881">
         <mark key="a" line="21" column="37" />
         <mark key="'" line="35" column="40" />
-        <mark key="[" line="28" column="3" />
-        <mark key="]" line="35" column="38" />
-        <mark key="^" line="35" column="38" />
-        <mark key="." line="35" column="38" />
+        <mark key="[" line="37" column="41" />
+        <mark key="]" line="37" column="40" />
+        <mark key="^" line="37" column="40" />
+        <mark key="." line="37" column="40" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -572,11 +572,11 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1563363904785">
-        <mark key="[" line="13" column="92" />
-        <mark key="]" line="25" column="50" />
-        <mark key="." line="25" column="50" />
-        <mark key="^" line="25" column="50" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1563376338242">
+        <mark key="[" line="26" column="67" />
+        <mark key="]" line="26" column="76" />
+        <mark key="." line="26" column="76" />
+        <mark key="^" line="26" column="76" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1560554522700">
         <mark key="[" line="5" column="11" />
@@ -627,10 +627,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
