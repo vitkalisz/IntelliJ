@@ -316,9 +316,9 @@
         <mark key="." line="5" column="54" />
         <mark key="^" line="5" column="54" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/subs/app_state.cljs" timestamp="1563370317787">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/subs/app_state.cljs" timestamp="1563370371959">
         <mark key="'" line="206" column="15" />
-        <mark key="[" line="209" column="12" />
+        <mark key="[" line="214" column="47" />
         <mark key="]" line="209" column="10" />
         <mark key="^" line="209" column="10" />
         <mark key="." line="209" column="10" />
@@ -528,13 +528,13 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1562872465409">
         <mark key="[" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1563370076944">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1563372705382">
         <mark key="a" line="21" column="37" />
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="63" column="76" />
-        <mark key="]" line="33" column="66" />
-        <mark key="^" line="33" column="66" />
-        <mark key="." line="33" column="66" />
+        <mark key="'" line="35" column="40" />
+        <mark key="[" line="28" column="3" />
+        <mark key="]" line="35" column="38" />
+        <mark key="^" line="35" column="38" />
+        <mark key="." line="35" column="38" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -623,6 +623,7 @@
       <jump line="205" column="15" filename="$USER_HOME$/orgpad/src/orgpad/client/subs/app_state.cljs" />
       <jump line="28" column="12" filename="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
       <jump line="26" column="0" filename="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
+      <jump line="35" column="40" filename="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -632,7 +633,7 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxibGFja1w+</text>
+        <text encoding="base64">XDxnZXRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>LightYelow</text>
@@ -675,9 +676,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxibGFja1w+</last-search>
+      <last-search encoding="base64">XDxnZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxibGFja1w+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>-1</last-dir>
@@ -692,6 +693,7 @@
         <entry encoding="base64">XiAg</entry>
         <entry>^</entry>
         <entry encoding="base64">XDxibGFja1w+</entry>
+        <entry encoding="base64">XDxnZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wma</entry>
