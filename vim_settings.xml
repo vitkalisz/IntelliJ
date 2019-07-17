@@ -316,12 +316,12 @@
         <mark key="." line="5" column="54" />
         <mark key="^" line="5" column="54" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/subs/app_state.cljs" timestamp="1563377691661">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/subs/app_state.cljs" timestamp="1563389618917">
         <mark key="'" line="206" column="15" />
-        <mark key="[" line="214" column="68" />
-        <mark key="]" line="214" column="25" />
-        <mark key="^" line="214" column="25" />
-        <mark key="." line="214" column="25" />
+        <mark key="[" line="224" column="17" />
+        <mark key="]" line="224" column="17" />
+        <mark key="^" line="224" column="17" />
+        <mark key="." line="224" column="17" />
       </file>
       <file name="C:/Shared/orgpad/resources/sql/images.sql" timestamp="1560792408421">
         <mark key="[" line="53" column="9" />
