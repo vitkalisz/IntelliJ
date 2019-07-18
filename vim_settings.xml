@@ -314,8 +314,8 @@
         <mark key="." line="53" column="19" />
         <mark key="^" line="53" column="19" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/root.cljs" timestamp="1562954482843">
-        <mark key="[" line="54" column="24" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/root.cljs" timestamp="1563467830850">
+        <mark key="[" line="52" column="42" />
         <mark key="]" line="54" column="24" />
         <mark key="^" line="54" column="24" />
         <mark key="." line="54" column="24" />
@@ -431,11 +431,11 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1563465284550">
-        <mark key="[" line="150" column="48" />
-        <mark key="]" line="149" column="43" />
-        <mark key="^" line="149" column="43" />
-        <mark key="." line="149" column="43" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1563467712004">
+        <mark key="[" line="144" column="4" />
+        <mark key="]" line="144" column="44" />
+        <mark key="^" line="144" column="44" />
+        <mark key="." line="144" column="44" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/convert/zip.clj" timestamp="1560176602861">
         <mark key="[" line="8" column="12" />
@@ -539,11 +539,11 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1563466931397">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="17" column="35" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1563468713810">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="20" column="5" />
+        <mark key="^" line="20" column="5" />
+        <mark key="." line="20" column="5" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1560554522700">
         <mark key="[" line="5" column="11" />
@@ -593,11 +593,11 @@
       <jump line="35" column="40" filename="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAoZmlsdGVyICg9ICg6c3R5bGUvdHlwZSAlKSA6c3R5bGUvdW5pdCkgPD4pKV0K</text>
+      <register name="&quot;" type="4">
+        <text>current :</text>
       </register>
       <register name="-" type="4">
-        <text>assoc-in</text>
+        <text>current :</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
