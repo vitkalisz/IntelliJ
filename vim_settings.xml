@@ -455,11 +455,6 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/link_style_editor.cljs" timestamp="1562949213023">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="0" column="50" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1560027194685">
         <mark key="[" line="31" column="82" />
         <mark key="]" line="37" column="72" />
@@ -518,6 +513,12 @@
         <mark key="]" line="28" column="28" />
         <mark key="^" line="28" column="26" />
         <mark key="." line="28" column="26" />
+      </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/dashboard.cljs" timestamp="1564950178655">
+        <mark key="[" line="18" column="66" />
+        <mark key="]" line="18" column="67" />
+        <mark key="^" line="18" column="67" />
+        <mark key="." line="18" column="67" />
       </file>
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1564933164628">
         <mark key="a" line="25" column="37" />
@@ -616,7 +617,7 @@
         <text>current :</text>
       </register>
       <register name="/" type="4">
-        <text>:wa</text>
+        <text>wa</text>
       </register>
       <register name="0" type="4">
         <text>LightYelow</text>
@@ -653,9 +654,9 @@
       </register>
     </registers>
     <search>
-      <last-search>:wa</last-search>
+      <last-search>wa</last-search>
       <last-offset />
-      <last-pattern>:wa</last-pattern>
+      <last-pattern>wa</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>-1</last-dir>
@@ -671,8 +672,8 @@
         <entry>^</entry>
         <entry encoding="base64">XDxibGFja1w+</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
-        <entry>wa</entry>
         <entry>:wa</entry>
+        <entry>wa</entry>
       </history-search>
       <history-cmd>
         <entry>wma</entry>
