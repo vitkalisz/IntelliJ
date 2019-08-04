@@ -229,11 +229,11 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="41" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/up/style_editor.cljs" timestamp="1564055448513">
-        <mark key="[" line="24" column="34" />
-        <mark key="]" line="26" column="48" />
-        <mark key="^" line="26" column="48" />
-        <mark key="." line="26" column="48" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/up/style_editor.cljs" timestamp="1564920096068">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="32" column="21" />
+        <mark key="^" line="32" column="21" />
+        <mark key="." line="32" column="21" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/editors/unit_editor.cljs" timestamp="1559080921138">
         <mark key="[" line="39" column="12" />
@@ -271,12 +271,12 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1563051699226">
+      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1564919934838">
         <mark key="'" line="26" column="24" />
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="29" column="21" />
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="29" column="18" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1560091356856">
         <mark key="[" line="69" column="38" />
@@ -421,7 +421,7 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564058237408">
+      <file name="/Dummy.txt" timestamp="1564920164487">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -559,11 +559,11 @@
         <mark key="^" line="57" column="23" />
         <mark key="." line="57" column="23" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_panel.less" timestamp="1564041849478">
-        <mark key="[" line="150" column="26" />
-        <mark key="]" line="148" column="27" />
-        <mark key="^" line="148" column="27" />
-        <mark key="." line="148" column="27" />
+      <file name="$USER_HOME$/orgpad/less/_panel.less" timestamp="1564919795917">
+        <mark key="[" line="77" column="9" />
+        <mark key="]" line="77" column="9" />
+        <mark key="^" line="77" column="13" />
+        <mark key="." line="77" column="9" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit_button.cljs" timestamp="1560002721918">
         <mark key="[" line="25" column="0" />
@@ -607,20 +607,20 @@
       <jump line="35" column="40" filename="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOmF1dG8tZm9jdXMgdHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG1heC1oZWlnaHQ6IDUwMHB4OwogICAgICAgICAgb3ZlcmZsb3cteTogYXV0bzs=</text>
       </register>
       <register name="-" type="4">
         <text>current :</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRcPg==</text>
+        <text>:wa</text>
       </register>
       <register name="0" type="4">
         <text>LightYelow</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOmF1dG8tZm9jdXMgdHJ1ZQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IG1heC1oZWlnaHQ6IDUwMHB4OwogICAgICAgICAgb3ZlcmZsb3cteTogYXV0bzs=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOmF1dG8tZm9jdXMgdHJ1ZQo=</text>
@@ -651,9 +651,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRcPg==</last-search>
+      <last-search>:wa</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRcPg==</last-pattern>
+      <last-pattern>:wa</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>-1</last-dir>
@@ -669,6 +669,7 @@
         <entry>^</entry>
         <entry encoding="base64">XDxibGFja1w+</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
+        <entry>:wa</entry>
       </history-search>
       <history-cmd>
         <entry>wma</entry>
