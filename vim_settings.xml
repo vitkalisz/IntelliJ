@@ -456,9 +456,9 @@
         <mark key="." line="105" column="17" />
         <mark key="^" line="105" column="17" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1564058108073">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1564928631833">
         <mark key="a" line="24" column="37" />
-        <mark key="[" line="22" column="48" />
+        <mark key="[" line="15" column="90" />
         <mark key="]" line="93" column="31" />
         <mark key="^" line="93" column="31" />
         <mark key="." line="93" column="31" />
