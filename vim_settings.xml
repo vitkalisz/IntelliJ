@@ -149,12 +149,12 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1565030597293">
+      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1565033270588">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="70" column="23" />
-        <mark key="]" line="69" column="30" />
-        <mark key="." line="69" column="30" />
-        <mark key="^" line="69" column="30" />
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="53" column="26" />
+        <mark key="." line="53" column="26" />
+        <mark key="^" line="53" column="26" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1560091356856">
         <mark key="[" line="69" column="38" />
@@ -406,7 +406,7 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1565021340597">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1565032795853">
         <mark key="[" line="28" column="93" />
         <mark key="]" line="15" column="36" />
         <mark key="^" line="15" column="36" />
@@ -537,12 +537,12 @@
         <mark key="^" line="18" column="67" />
         <mark key="." line="18" column="67" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565030495335">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565033719785">
         <mark key="a" line="28" column="37" />
-        <mark key="[" line="122" column="8" />
-        <mark key="]" line="129" column="8" />
-        <mark key="." line="129" column="8" />
-        <mark key="^" line="129" column="8" />
+        <mark key="[" line="96" column="87" />
+        <mark key="]" line="96" column="86" />
+        <mark key="." line="96" column="86" />
+        <mark key="^" line="96" column="86" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -630,56 +630,56 @@
       <jump line="50" column="0" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>solid #333;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsaWduLXNlbGY6IGNlbnRlcjs=</text>
       </register>
       <register name="/" type="4">
-        <text>^</text>
+        <text>:wa</text>
       </register>
       <register name="0" type="4">
         <text>solid #333;</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgYWxpZ24tY29udGVudDogc3RyZXRjaDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtc3RhcnQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtc3RhcnQ7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbGlnbi1pdGVtczogZmxleC1zdGFydDsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>display: flex;
       flex-direction: column;
       justify-content: flex-start;
       padding: 10px 10px 10px 10px;</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>^</last-search>
+      <last-search>:wa</last-search>
       <last-offset />
-      <last-pattern>^</last-pattern>
+      <last-pattern>:wa</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>-1</last-dir>
@@ -695,8 +695,8 @@
         <entry encoding="base64">XDxibGFja1w+</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry>wa</entry>
-        <entry>:wa</entry>
         <entry>^</entry>
+        <entry>:wa</entry>
       </history-search>
       <history-cmd>
         <entry>wma</entry>
