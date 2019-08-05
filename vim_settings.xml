@@ -149,12 +149,12 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1564919934838">
+      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1565020096157">
         <mark key="'" line="26" column="24" />
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="18" />
-        <mark key="." line="29" column="18" />
-        <mark key="^" line="29" column="18" />
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="66" column="3" />
+        <mark key="." line="66" column="3" />
+        <mark key="^" line="66" column="3" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1560091356856">
         <mark key="[" line="69" column="38" />
@@ -406,8 +406,11 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1565013711343">
-        <mark key="[" line="27" column="93" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1565021340597">
+        <mark key="[" line="28" column="93" />
+        <mark key="]" line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="36" />
       </file>
       <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/up/style_editor.cljs" timestamp="1564951022096">
         <mark key="[" line="29" column="0" />
@@ -433,6 +436,7 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="124" column="0" />
       </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/orgpage.cljs" timestamp="1565020552644" />
       <file name="C:/Shared/orgpad/src/orgpad/client/db/get.cljs" timestamp="1560123109033">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="169" column="46" />
@@ -533,12 +537,12 @@
         <mark key="^" line="18" column="67" />
         <mark key="." line="18" column="67" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565013845993">
-        <mark key="a" line="25" column="37" />
-        <mark key="[" line="99" column="42" />
-        <mark key="]" line="6" column="47" />
-        <mark key="^" line="6" column="47" />
-        <mark key="." line="6" column="47" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565019578880">
+        <mark key="a" line="26" column="37" />
+        <mark key="[" line="104" column="42" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="47" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -625,7 +629,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZGlzcGxheTogZmxleDsKICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICAgICAganVzdGlmeS1jb250ZW50OiBmbGV4LXN0YXJ0OwogICAgICBwYWRkaW5nOiAxMHB4IDEwcHggMTBweCAxMHB4Owo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -634,34 +638,37 @@
         <text>:wa</text>
       </register>
       <register name="0" type="4">
-        <text>LightYelow</text>
+        <text encoding="base64">ZGlzcGxheTogZmxleDsKICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICAgICAganVzdGlmeS1jb250ZW50OiBmbGV4LXN0YXJ0OwogICAgICBwYWRkaW5nOiAxMHB4IDEwcHggMTBweCAxMHB4Owo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text>display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      padding: 10px 10px 10px 10px;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IG1heC1oZWlnaHQ6IDUwMHB4OwogICAgICAgICAgb3ZlcmZsb3cteTogYXV0bzs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOmF1dG8tZm9jdXMgdHJ1ZQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IG1heC1oZWlnaHQ6IDUwMHB4OwogICAgICAgICAgb3ZlcmZsb3cteTogYXV0bzs=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
