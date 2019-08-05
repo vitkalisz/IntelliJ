@@ -406,6 +406,9 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1565013711343">
+        <mark key="[" line="27" column="93" />
+      </file>
       <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/up/style_editor.cljs" timestamp="1564951022096">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -530,9 +533,9 @@
         <mark key="^" line="18" column="67" />
         <mark key="." line="18" column="67" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1564933164628">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565013845993">
         <mark key="a" line="25" column="37" />
-        <mark key="[" line="6" column="39" />
+        <mark key="[" line="99" column="42" />
         <mark key="]" line="6" column="47" />
         <mark key="^" line="6" column="47" />
         <mark key="." line="6" column="47" />
