@@ -21,6 +21,12 @@
         <mark key="." line="44" column="49" />
         <mark key="^" line="44" column="49" />
       </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/select.cljs" timestamp="1565170928864">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
       <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1560556604068">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="2" column="20" />
@@ -673,7 +679,7 @@
       padding: 10px 10px 10px 10px;</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -710,11 +716,11 @@
         <entry>wva</entry>
         <entry>q!</entry>
         <entry>swa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry encoding="base64">JzwsJz5zL14vICAv</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
