@@ -21,11 +21,11 @@
         <mark key="." line="44" column="49" />
         <mark key="^" line="44" column="49" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/select.cljs" timestamp="1565170928864">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="9" column="1" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="1" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/select.cljs" timestamp="1565173354088">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="13" column="1" />
       </file>
       <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1560556604068">
         <mark key="[" line="18" column="11" />
@@ -33,6 +33,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="18" column="20" />
       </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/input.cljs" timestamp="1565172163224" />
       <file name="C:/Shared/orgpad/src/orgpad/common/colls.cljc" timestamp="1561846343173">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="22" />
@@ -149,6 +150,12 @@
         <mark key="^" line="59" column="49" />
         <mark key="." line="59" column="49" />
       </file>
+      <file name="$USER_HOME$/orgpad/less/_selects.less" timestamp="1565172954634">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/drag_start.cljs" timestamp="1560091947763">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="30" column="23" />
@@ -173,6 +180,12 @@
         <mark key="]" line="36" column="100" />
         <mark key="." line="36" column="100" />
         <mark key="^" line="36" column="100" />
+      </file>
+      <file name="$USER_HOME$/orgpad/less/orgpad.less" timestamp="1565172889898">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="23" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1561933420288">
         <mark key="[" line="23" column="28" />
@@ -679,7 +692,7 @@
       padding: 10px 10px 10px 10px;</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -719,8 +732,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry encoding="base64">JzwsJz5zL14vICAv</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
