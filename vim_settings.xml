@@ -21,11 +21,11 @@
         <mark key="." line="44" column="49" />
         <mark key="^" line="44" column="49" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/select.cljs" timestamp="1565179140217">
-        <mark key="[" line="22" column="44" />
-        <mark key="]" line="27" column="83" />
-        <mark key="^" line="27" column="83" />
-        <mark key="." line="27" column="83" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/select.cljs" timestamp="1565252475962">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
       <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1560556604068">
         <mark key="[" line="18" column="11" />
@@ -33,7 +33,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/input.cljs" timestamp="1565177270704">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/input.cljs" timestamp="1565250289279">
         <mark key="[" line="8" column="6" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/colls.cljc" timestamp="1561846343173">
@@ -558,12 +558,12 @@
         <mark key="^" line="18" column="67" />
         <mark key="." line="18" column="67" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565178884108">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565252102179">
         <mark key="a" line="27" column="37" />
-        <mark key="[" line="42" column="63" />
-        <mark key="]" line="42" column="76" />
-        <mark key="." line="42" column="76" />
-        <mark key="^" line="42" column="76" />
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="39" column="43" />
+        <mark key="." line="39" column="43" />
+        <mark key="^" line="39" column="43" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -596,11 +596,11 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1565002786961">
-        <mark key="[" line="42" column="41" />
-        <mark key="]" line="42" column="33" />
-        <mark key="." line="42" column="33" />
-        <mark key="^" line="42" column="33" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1565252945013">
+        <mark key="[" line="70" column="25" />
+        <mark key="]" line="65" column="40" />
+        <mark key="." line="65" column="40" />
+        <mark key="^" line="65" column="40" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1560554522700">
         <mark key="[" line="5" column="11" />
@@ -658,7 +658,7 @@
         <text>valu</text>
       </register>
       <register name="/" type="4">
-        <text>:wa</text>
+        <text>wa</text>
       </register>
       <register name="0" type="4">
         <text>solid #333;</text>
@@ -698,9 +698,9 @@
       </register>
     </registers>
     <search>
-      <last-search>:wa</last-search>
+      <last-search>wa</last-search>
       <last-offset />
-      <last-pattern>:wa</last-pattern>
+      <last-pattern>wa</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>-1</last-dir>
@@ -715,9 +715,9 @@
         <entry encoding="base64">XiAg</entry>
         <entry encoding="base64">XDxibGFja1w+</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
-        <entry>wa</entry>
         <entry>^</entry>
         <entry>:wa</entry>
+        <entry>wa</entry>
       </history-search>
       <history-cmd>
         <entry>wma</entry>
