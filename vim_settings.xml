@@ -21,11 +21,11 @@
         <mark key="." line="44" column="49" />
         <mark key="^" line="44" column="49" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/select.cljs" timestamp="1565252475962">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="33" />
-        <mark key="^" line="6" column="33" />
-        <mark key="." line="6" column="33" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/select.cljs" timestamp="1565254761800">
+        <mark key="[" line="29" column="67" />
+        <mark key="]" line="25" column="69" />
+        <mark key="^" line="25" column="69" />
+        <mark key="." line="25" column="69" />
       </file>
       <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1560556604068">
         <mark key="[" line="18" column="11" />
@@ -596,11 +596,10 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1565252945013">
-        <mark key="[" line="70" column="25" />
-        <mark key="]" line="65" column="40" />
-        <mark key="." line="65" column="40" />
-        <mark key="^" line="65" column="40" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1565253051837">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1560554522700">
         <mark key="[" line="5" column="11" />
@@ -651,8 +650,8 @@
       <jump line="50" column="0" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>valu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAibmV3LWNvbG9yIiBuZXctY29sb3IpCg==</text>
       </register>
       <register name="-" type="4">
         <text>valu</text>
@@ -664,34 +663,31 @@
         <text>solid #333;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAibmV3LWNvbG9yIiBuZXctY29sb3IpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWxpZ24tY29udGVudDogc3RyZXRjaDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYWxpZ24tY29udGVudDogc3RyZXRjaDsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtc3RhcnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtc3RhcnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlnbi1pdGVtczogZmxleC1zdGFydDsK</text>
+        <text encoding="base64">ICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtc3RhcnQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtc3RhcnQ7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>display: flex;
-      flex-direction: column;
-      justify-content: flex-start;
-      padding: 10px 10px 10px 10px;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhbGlnbi1pdGVtczogZmxleC1zdGFydDsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
