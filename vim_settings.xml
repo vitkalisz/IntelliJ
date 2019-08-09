@@ -60,11 +60,6 @@
         <mark key="^" line="49" column="91" />
         <mark key="." line="49" column="91" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/unit_util.cljs" timestamp="1565007201786">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/orgpad/src/orgpad/client/db/assoc.cljs" timestamp="1565259743248">
         <mark key="[" line="80" column="52" />
         <mark key="]" line="95" column="48" />
@@ -94,6 +89,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/autoresize/interceptor.cljs" timestamp="1565349798602">
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="37" column="50" />
+        <mark key="^" line="37" column="50" />
+        <mark key="." line="37" column="50" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/core.clj" timestamp="1560555743738">
         <mark key="[" line="13" column="12" />
@@ -246,8 +247,8 @@
         <mark key="^" line="37" column="9" />
         <mark key="." line="37" column="9" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/get.cljs" timestamp="1565001437101">
-        <mark key="[" line="113" column="0" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/db/get.cljs" timestamp="1565348403459">
+        <mark key="[" line="103" column="46" />
         <mark key="]" line="105" column="17" />
         <mark key="." line="105" column="17" />
         <mark key="^" line="105" column="17" />
@@ -276,7 +277,7 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/subs/style_editor.cljs" timestamp="1565346536659">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/subs/style_editor.cljs" timestamp="1565348461557">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -474,22 +475,17 @@
         <mark key="^" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1565340094801">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="179" column="51" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" timestamp="1565349995490">
+        <mark key="[" line="172" column="50" />
+        <mark key="]" line="172" column="60" />
+        <mark key="^" line="172" column="60" />
+        <mark key="." line="172" column="60" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/server/convert/zip.clj" timestamp="1560176602861">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="9" column="34" />
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
-      </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/link_style_editor.cljs" timestamp="1562949213023">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="0" column="50" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1560027194685">
         <mark key="[" line="31" column="82" />
@@ -556,11 +552,11 @@
         <mark key="^" line="18" column="67" />
         <mark key="." line="18" column="67" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565347417778">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565350893234">
         <mark key="a" line="27" column="37" />
-        <mark key="[" line="38" column="65" />
-        <mark key="]" line="38" column="70" />
-        <mark key="." line="38" column="70" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
         <mark key="^" line="38" column="70" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
@@ -594,11 +590,11 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1565348210654">
-        <mark key="[" line="46" column="23" />
-        <mark key="]" line="48" column="40" />
-        <mark key="." line="48" column="40" />
-        <mark key="^" line="48" column="40" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1565350588358">
+        <mark key="[" line="98" column="55" />
+        <mark key="]" line="100" column="17" />
+        <mark key="." line="100" column="17" />
+        <mark key="^" line="100" column="17" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1560554522700">
         <mark key="[" line="5" column="11" />
@@ -650,7 +646,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInVuaXQtc2V0dGluZ3MgY3VycmVudC1zdHlsZS1pZCIgY3VycmVudC1zdHlsZS1pZCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>valu</text>
@@ -662,31 +658,31 @@
         <text>solid #333;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInVuaXQtc2V0dGluZ3MgY3VycmVudC1zdHlsZS1pZCIgY3VycmVudC1zdHlsZS1pZCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImdldC12YWx1ZSBjdXJyZW50LXN0eWxlLWlkIiBjdXJyZW50LXN0eWxlLWlkKQo=</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInVuaXQtc2V0dGluZ3MgY3VycmVudC1zdHlsZS1pZCIgY3VycmVudC1zdHlsZS1pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHcK</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImdldC12YWx1ZSBjdXJyZW50LXN0eWxlLWlkIiBjdXJyZW50LXN0eWxlLWlkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOnN0eWxlLWVkaXRvci9jdXJyZW50LXN0eWxlLWlkIGN1cnJlbnQtc3R5bGUtaWQiIGN1cnJlbnQtc3R5bGUtaWQpCg==</text>
+        <text encoding="base64">ICAgIHcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDsoanMvY29uc29sZS5sb2cgInVwZGF0ZWQtc3R5bGVzIiAoOnN0eWxlLWVkaXRvci9jdXJyZW50LXN0eWxlLWlkIHVwZGF0ZWQtc3R5bGVzKSkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOnN0eWxlLWVkaXRvci9jdXJyZW50LXN0eWxlLWlkIGN1cnJlbnQtc3R5bGUtaWQiIGN1cnJlbnQtc3R5bGUtaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiYXBwLXN0YXRlIiBhcHAtc3RhdGUpCg==</text>
+        <text encoding="base64">ICAgIDsoanMvY29uc29sZS5sb2cgInVwZGF0ZWQtc3R5bGVzIiAoOnN0eWxlLWVkaXRvci9jdXJyZW50LXN0eWxlLWlkIHVwZGF0ZWQtc3R5bGVzKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAicHJvcHMiIHByb3BzKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiYXBwLXN0YXRlIiBhcHAtc3RhdGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAidXBkYXRlZC1zdHlsZXMiIHVwZGF0ZWQtc3R5bGVzKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAicHJvcHMiIHByb3BzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAic3R5bGUtZWRpdG9yIiBAKHJmL3N1YnNjcmliZSBbOnN0eWxlLWVkaXRvci9zdHlsZS1lZGl0b3JdKSkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAidXBkYXRlZC1zdHlsZXMiIHVwZGF0ZWQtc3R5bGVzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
