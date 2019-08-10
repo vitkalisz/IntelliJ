@@ -552,12 +552,12 @@
         <mark key="^" line="18" column="67" />
         <mark key="." line="18" column="67" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565466363119">
-        <mark key="a" line="31" column="37" />
-        <mark key="[" line="29" column="2" />
-        <mark key="]" line="29" column="38" />
-        <mark key="." line="29" column="38" />
-        <mark key="^" line="29" column="38" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565466691517">
+        <mark key="a" line="33" column="37" />
+        <mark key="[" line="149" column="29" />
+        <mark key="]" line="149" column="29" />
+        <mark key="." line="149" column="29" />
+        <mark key="^" line="149" column="29" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
