@@ -21,11 +21,11 @@
         <mark key="." line="44" column="49" />
         <mark key="^" line="44" column="49" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/select.cljs" timestamp="1565522353155">
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="8" column="34" />
-        <mark key="^" line="8" column="34" />
-        <mark key="." line="8" column="34" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/select.cljs" timestamp="1565527190615">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="6" column="58" />
       </file>
       <file name="C:/Shared/orgpad/resources/migrations/20190309193000-add-tables.down.sql" timestamp="1560556604068">
         <mark key="[" line="18" column="11" />
@@ -640,7 +640,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZW5ndGggKDphcnJvd2hlYWQvbGVuZ3RoICg6cHJvcHMvYWRkcnJvd2hlYWQgcHJvcHMpKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAoanMvY29uc29sZS5sb2cgImpzLWV2ZW50IiAoc2VsZWN0LXZhbHVlIGpzLWV2ZW50IG9wdGlvbnMpKQo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -652,31 +652,31 @@
         <text>solid #333;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZW5ndGggKDphcnJvd2hlYWQvbGVuZ3RoICg6cHJvcHMvYWRkcnJvd2hlYWQgcHJvcHMpKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAoanMvY29uc29sZS5sb2cgImpzLWV2ZW50IiAoc2VsZWN0LXZhbHVlIGpzLWV2ZW50IG9wdGlvbnMpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA6dmFsdWUgICAgICAoZ2V0LXZhbHVlIFs6c3R5bGUvdGl0bGVdKQo=</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAib24tY2hhbmdlIiBvbi1jaGFuZ2UpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInVuaXQtc2V0dGluZ3MgY3VycmVudC1zdHlsZS1pZCIgY3VycmVudC1zdHlsZS1pZCkK</text>
+        <text encoding="base64">ICAgICAgICBsZW5ndGggKDphcnJvd2hlYWQvbGVuZ3RoICg6cHJvcHMvYWRkcnJvd2hlYWQgcHJvcHMpKV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImdldC12YWx1ZSBjdXJyZW50LXN0eWxlLWlkIiBjdXJyZW50LXN0eWxlLWlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA6dmFsdWUgICAgICAoZ2V0LXZhbHVlIFs6c3R5bGUvdGl0bGVdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHcK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiOnN0eWxlLWVkaXRvci9jdXJyZW50LXN0eWxlLWlkIGN1cnJlbnQtc3R5bGUtaWQiIGN1cnJlbnQtc3R5bGUtaWQpCg==</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgInVuaXQtc2V0dGluZ3MgY3VycmVudC1zdHlsZS1pZCIgY3VycmVudC1zdHlsZS1pZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDsoanMvY29uc29sZS5sb2cgInVwZGF0ZWQtc3R5bGVzIiAoOnN0eWxlLWVkaXRvci9jdXJyZW50LXN0eWxlLWlkIHVwZGF0ZWQtc3R5bGVzKSkK</text>
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgImdldC12YWx1ZSBjdXJyZW50LXN0eWxlLWlkIiBjdXJyZW50LXN0eWxlLWlkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiYXBwLXN0YXRlIiBhcHAtc3RhdGUpCg==</text>
+        <text encoding="base64">ICAgIHcK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -721,6 +721,7 @@
         <entry encoding="base64">JzwsJz5zL14vICAv</entry>
         <entry>wy</entry>
         <entry>w</entry>
+        <entry>WA</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
