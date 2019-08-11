@@ -591,11 +591,11 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1565543669721">
-        <mark key="[" line="59" column="107" />
-        <mark key="]" line="59" column="114" />
-        <mark key="." line="59" column="114" />
-        <mark key="^" line="59" column="114" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1565545990335">
+        <mark key="[" line="58" column="34" />
+        <mark key="]" line="55" column="53" />
+        <mark key="^" line="55" column="53" />
+        <mark key="." line="55" column="53" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/link.cljs" timestamp="1560554522700">
         <mark key="[" line="5" column="11" />
