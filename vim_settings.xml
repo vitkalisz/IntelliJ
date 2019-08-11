@@ -492,12 +492,6 @@
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="72" />
       </file>
-      <file name="/REPL.clj" timestamp="1565340614823">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/highlighting.cljs" timestamp="1560103713143">
         <mark key="[" line="77" column="2" />
         <mark key="]" line="77" column="3" />
@@ -551,12 +545,12 @@
         <mark key="^" line="18" column="67" />
         <mark key="." line="18" column="67" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565478681751">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565478747163">
         <mark key="a" line="35" column="37" />
-        <mark key="[" line="77" column="35" />
-        <mark key="]" line="77" column="50" />
-        <mark key="." line="77" column="50" />
-        <mark key="^" line="77" column="50" />
+        <mark key="[" line="76" column="4" />
+        <mark key="]" line="76" column="65" />
+        <mark key="." line="76" column="65" />
+        <mark key="^" line="76" column="65" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -589,7 +583,7 @@
         <mark key="^" line="132" column="38" />
         <mark key="." line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1565477798167">
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/events/style_editor.cljs" timestamp="1565520997516">
         <mark key="[" line="126" column="16" />
         <mark key="]" line="128" column="36" />
         <mark key="." line="128" column="36" />
