@@ -162,12 +162,12 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1565625170000">
-        <mark key="'" line="39" column="3" />
-        <mark key="[" line="35" column="6" />
-        <mark key="]" line="60" column="16" />
-        <mark key="." line="60" column="16" />
-        <mark key="^" line="60" column="16" />
+      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1565627386558">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="11" />
+        <mark key="^" line="38" column="11" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/db/paths.cljs" timestamp="1560091356856">
         <mark key="[" line="69" column="38" />
@@ -521,10 +521,10 @@
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565550677983">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
+      <file name="/Dummy.txt" timestamp="1565628503322">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/css.cljs" timestamp="1561936264186">
         <mark key="[" line="41" column="4" />
@@ -544,12 +544,12 @@
         <mark key="^" line="18" column="67" />
         <mark key="." line="18" column="67" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565625123432">
-        <mark key="a" line="35" column="37" />
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="60" />
-        <mark key="." line="18" column="60" />
-        <mark key="^" line="18" column="60" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565628314916">
+        <mark key="a" line="33" column="37" />
+        <mark key="[" line="136" column="12" />
+        <mark key="]" line="136" column="28" />
+        <mark key="." line="136" column="28" />
+        <mark key="^" line="136" column="28" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
@@ -636,6 +636,7 @@
       <jump line="50" column="0" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
       <jump line="78" column="4" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
       <jump line="45" column="3" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
+      <jump line="39" column="0" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -645,7 +646,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XiAg</text>
+        <text encoding="base64">XiAgICA=</text>
       </register>
       <register name="0" type="4">
         <text>solid #333;</text>
@@ -682,11 +683,11 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XiAg</last-search>
+      <last-search encoding="base64">XiAgICA=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XiAg</last-pattern>
+      <last-pattern encoding="base64">XiAgICA=</last-pattern>
       <last-replace />
-      <last-substitute encoding="base64">XiAg</last-substitute>
+      <last-substitute encoding="base64">XiAgICA=</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -702,6 +703,7 @@
         <entry>:wa</entry>
         <entry>wa</entry>
         <entry encoding="base64">XiAg</entry>
+        <entry encoding="base64">XiAgICA=</entry>
       </history-search>
       <history-cmd>
         <entry>wma</entry>
@@ -721,6 +723,7 @@
         <entry>w</entry>
         <entry>WA</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
+        <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
