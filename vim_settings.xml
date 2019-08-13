@@ -181,6 +181,12 @@
         <mark key="." line="36" column="100" />
         <mark key="^" line="36" column="100" />
       </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/server/ws/handler/ops.clj" timestamp="1565722244472">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+      </file>
       <file name="$USER_HOME$/orgpad/less/orgpad.less" timestamp="1565172889898">
         <mark key="[" line="9" column="22" />
       </file>
@@ -433,11 +439,11 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1565032795853">
-        <mark key="[" line="28" column="93" />
-        <mark key="]" line="15" column="36" />
-        <mark key="^" line="15" column="36" />
-        <mark key="." line="15" column="36" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1565722580354">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="93" />
+        <mark key="^" line="14" column="93" />
+        <mark key="." line="14" column="93" />
       </file>
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/style_box.cljs" timestamp="1565714882822">
         <mark key="[" line="39" column="32" />
