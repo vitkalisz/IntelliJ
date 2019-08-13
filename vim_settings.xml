@@ -409,11 +409,12 @@
         <mark key="^" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/server/db/init.clj" timestamp="1565700901036">
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="58" column="37" />
-        <mark key="^" line="58" column="37" />
-        <mark key="." line="58" column="37" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/server/db/init.clj" timestamp="1565703176765">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="97" column="39" />
+        <mark key="]" line="97" column="38" />
+        <mark key="^" line="97" column="38" />
+        <mark key="." line="97" column="38" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/create/unit.cljs" timestamp="1559951168007">
         <mark key="[" line="55" column="69" />
@@ -642,6 +643,7 @@
       <jump line="45" column="3" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
       <jump line="39" column="0" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
       <jump line="103" column="8" filename="$USER_HOME$/orgpad/src/orgpad/client/views/panel.cljs" />
+      <jump line="83" column="0" filename="$USER_HOME$/orgpad/src/orgpad/server/db/init.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -651,7 +653,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XiAgICA=</text>
+        <text>\^</text>
       </register>
       <register name="0" type="4">
         <text>solid #333;</text>
@@ -688,12 +690,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XiAgICA=</last-search>
+      <last-search>\^</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XiAgICA=</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">XiAgICA=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>\^</last-pattern>
+      <last-replace>^  (add-link-styles!*</last-replace>
+      <last-substitute>^  (add-unit-styles!*</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -709,9 +711,10 @@
         <entry>wa</entry>
         <entry encoding="base64">XiAg</entry>
         <entry encoding="base64">XiAgICA=</entry>
+        <entry>^  (add-unit-styles!*</entry>
+        <entry>\^</entry>
       </history-search>
       <history-cmd>
-        <entry>wma</entry>
         <entry>v</entry>
         <entry>wa'</entry>
         <entry>w\</entry>
@@ -729,6 +732,8 @@
         <entry>WA</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
+        <entry encoding="base64">JzwsJz5zL14gIChhZGQtdW5pdC1zdHlsZXMhKi9eICAoYWRkLWxpbmstc3R5bGVzISov</entry>
+        <entry encoding="base64">JzwsJz4vXF4vLw==</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />

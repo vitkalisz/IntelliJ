@@ -5,6 +5,9 @@
   <action id=":cursive.actions.paredit/slurp-forwards">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id=":cursive.repl.actions/load-file">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="CheckinProject" />
   <action id="InsertLiveTemplate" />
 </keymap>
