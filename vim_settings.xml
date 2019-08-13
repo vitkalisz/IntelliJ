@@ -409,12 +409,12 @@
         <mark key="^" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/server/db/init.clj" timestamp="1565703176765">
+      <file name="$USER_HOME$/orgpad/src/orgpad/server/db/init.clj" timestamp="1565709006778">
         <mark key="'" line="83" column="0" />
-        <mark key="[" line="97" column="39" />
-        <mark key="]" line="97" column="38" />
-        <mark key="^" line="97" column="38" />
-        <mark key="." line="97" column="38" />
+        <mark key="[" line="83" column="47" />
+        <mark key="]" line="84" column="36" />
+        <mark key="^" line="84" column="36" />
+        <mark key="." line="84" column="36" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/op/create/unit.cljs" timestamp="1559951168007">
         <mark key="[" line="55" column="69" />
