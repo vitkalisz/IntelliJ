@@ -9,6 +9,12 @@
         <mark key="^" line="55" column="30" />
         <mark key="." line="55" column="30" />
       </file>
+      <file name="$USER_HOME$/orgpad/less/_user.less" timestamp="1565812566792">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/mouse/up/unit_editor.cljs" timestamp="1559480553409">
         <mark key="[" line="6" column="67" />
         <mark key="]" line="21" column="81" />
@@ -39,9 +45,6 @@
         <mark key="]" line="15" column="26" />
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
-      </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/input.cljs" timestamp="1565250289279">
-        <mark key="[" line="8" column="6" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/colls.cljc" timestamp="1561846343173">
         <mark key="[" line="6" column="0" />
@@ -130,8 +133,9 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/unit_editor.cljs" timestamp="1565713875553">
         <mark key="[" line="85" column="76" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_administration.less" timestamp="1565802935684">
+      <file name="$USER_HOME$/orgpad/less/_administration.less" timestamp="1565811820039">
         <mark key="'" line="35" column="5" />
+        <mark key="[" line="29" column="31" />
       </file>
       <file name="/panel.cljs" timestamp="1565629674493">
         <mark key="[" line="108" column="15" />
@@ -154,8 +158,11 @@
       <file name="$USER_HOME$/orgpad/src/orgpad/client/autoresize/view.cljs" timestamp="1565005523947">
         <mark key="[" line="34" column="32" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_dashboard.less" timestamp="1565810083686">
-        <mark key="[" line="27" column="31" />
+      <file name="$USER_HOME$/orgpad/less/_dashboard.less" timestamp="1565812593742">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="26" />
+        <mark key="^" line="27" column="26" />
+        <mark key="." line="27" column="26" />
       </file>
       <file name="C:/Shared/orgpad/less/_dashboard.less" timestamp="1561846796841">
         <mark key="[" line="21" column="27" />
@@ -181,9 +188,9 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1565627386558">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="38" column="18" />
+      <file name="$USER_HOME$/orgpad/less/_style-editor.less" timestamp="1565812169081">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="23" />
         <mark key="]" line="38" column="11" />
         <mark key="." line="38" column="11" />
         <mark key="^" line="38" column="11" />
@@ -256,11 +263,11 @@
         <mark key="^" line="16" column="60" />
         <mark key="." line="16" column="60" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_style-box.less" timestamp="1565712718539">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="67" column="48" />
-        <mark key="^" line="67" column="48" />
-        <mark key="." line="67" column="48" />
+      <file name="$USER_HOME$/orgpad/less/_style-box.less" timestamp="1565812138169">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/core.cljs" timestamp="1561935615388">
         <mark key="[" line="30" column="64" />
@@ -286,6 +293,13 @@
         <mark key="^" line="19" column="28" />
         <mark key="." line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/orgpad/less/_share_orgpage.less" timestamp="1565811998958">
+        <mark key="'" line="67" column="26" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+      </file>
       <file name="$USER_HOME$/orgpad/src/orgpad/client/events/mouse/up/unit_button.cljs" timestamp="1564950306843">
         <mark key="[" line="27" column="44" />
       </file>
@@ -304,8 +318,8 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_unit-editor.less" timestamp="1562927708055">
-        <mark key="[" line="6" column="2" />
+      <file name="$USER_HOME$/orgpad/less/_unit-editor.less" timestamp="1565812274438">
+        <mark key="[" line="46" column="32" />
         <mark key="]" line="25" column="1" />
         <mark key="^" line="25" column="1" />
         <mark key="." line="25" column="1" />
@@ -534,6 +548,16 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
+      <file name="$USER_HOME$/orgpad/less/_root.less" timestamp="1565813150170">
+        <mark key="'" line="28" column="29" />
+        <mark key="[" line="71" column="1" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/orgpad/less/_units.less" timestamp="1565812346227">
+        <mark key="[" line="27" column="27" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1560027194685">
         <mark key="[" line="31" column="82" />
         <mark key="]" line="37" column="72" />
@@ -605,8 +629,8 @@
         <mark key="^" line="6" column="48" />
         <mark key="." line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_color.less" timestamp="1565810113687">
-        <mark key="[" line="1" column="21" />
+      <file name="$USER_HOME$/orgpad/less/_color.less" timestamp="1565811791759">
+        <mark key="[" line="3" column="11" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -707,6 +731,9 @@
       <jump line="42" column="6" filename="$USER_HOME$/orgpad/less/_administration.less" />
       <jump line="35" column="5" filename="$USER_HOME$/orgpad/less/_administration.less" />
       <jump line="0" column="0" filename="$USER_HOME$/orgpad/less/_buttons.less" />
+      <jump line="28" column="29" filename="$USER_HOME$/orgpad/less/_root.less" />
+      <jump line="67" column="26" filename="$USER_HOME$/orgpad/less/_share_orgpage.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/orgpad/less/_style-editor.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -716,7 +743,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>:wa</text>
+        <text>bbb</text>
       </register>
       <register name="0" type="4">
         <text>solid #333;</text>
@@ -757,12 +784,12 @@
       </register>
     </registers>
     <search>
-      <last-search>:wa</last-search>
+      <last-search>bbb</last-search>
       <last-offset />
-      <last-pattern>:wa</last-pattern>
+      <last-pattern>bbb</last-pattern>
       <last-replace>@border-color</last-replace>
       <last-substitute>#bbb</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -780,11 +807,11 @@
         <entry>\^</entry>
         <entry>333</entry>
         <entry encoding="base64">XiAg</entry>
-        <entry>bbb</entry>
         <entry>#bbb</entry>
         <entry encoding="base64">XDxwcm9maWxlXD4=</entry>
         <entry>#333</entry>
         <entry>:wa</entry>
+        <entry>bbb</entry>
       </history-search>
       <history-cmd>
         <entry>swa</entry>
