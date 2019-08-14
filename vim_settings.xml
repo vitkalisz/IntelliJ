@@ -142,6 +142,9 @@
         <mark key="^" line="24" column="60" />
         <mark key="." line="24" column="60" />
       </file>
+      <file name="$USER_HOME$/orgpad/less/_profile.less" timestamp="1565811030618">
+        <mark key="[" line="18" column="29" />
+      </file>
       <file name="C:/Shared/orgpad/project.clj" timestamp="1560965082417">
         <mark key="[" line="21" column="41" />
         <mark key="]" line="21" column="41" />
@@ -203,11 +206,11 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/orgpad.less" timestamp="1565800684938">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="21" />
-        <mark key="." line="20" column="21" />
-        <mark key="^" line="3" column="21" />
+      <file name="$USER_HOME$/orgpad/less/orgpad.less" timestamp="1565810747721">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1561933420288">
         <mark key="[" line="23" column="28" />
@@ -349,9 +352,9 @@
         <mark key="^" line="57" column="23" />
         <mark key="." line="57" column="23" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_panel.less" timestamp="1565802724466">
+      <file name="$USER_HOME$/orgpad/less/_panel.less" timestamp="1565810800136">
         <mark key="'" line="42" column="29" />
-        <mark key="[" line="120" column="0" />
+        <mark key="[" line="121" column="31" />
         <mark key="]" line="120" column="0" />
         <mark key="^" line="120" column="0" />
         <mark key="." line="120" column="0" />
