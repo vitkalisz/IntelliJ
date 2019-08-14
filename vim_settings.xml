@@ -40,6 +40,9 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/widgets/input.cljs" timestamp="1565250289279">
+        <mark key="[" line="8" column="6" />
+      </file>
       <file name="C:/Shared/orgpad/src/orgpad/common/colls.cljc" timestamp="1561846343173">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="22" />
@@ -147,6 +150,9 @@
       </file>
       <file name="$USER_HOME$/orgpad/src/orgpad/client/autoresize/view.cljs" timestamp="1565005523947">
         <mark key="[" line="34" column="32" />
+      </file>
+      <file name="$USER_HOME$/orgpad/less/_dashboard.less" timestamp="1565810083686">
+        <mark key="[" line="27" column="31" />
       </file>
       <file name="C:/Shared/orgpad/less/_dashboard.less" timestamp="1561846796841">
         <mark key="[" line="21" column="27" />
@@ -584,12 +590,6 @@
         <mark key="^" line="18" column="67" />
         <mark key="." line="18" column="67" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/editors/style_editor.cljs" timestamp="1565630921573">
-        <mark key="a" line="33" column="37" />
-        <mark key="]" line="83" column="58" />
-        <mark key="." line="83" column="58" />
-        <mark key="^" line="83" column="58" />
-      </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/events/panel.cljs" timestamp="1559996648153">
         <mark key="[" line="50" column="63" />
         <mark key="]" line="51" column="48" />
@@ -602,8 +602,8 @@
         <mark key="^" line="6" column="48" />
         <mark key="." line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_color.less" timestamp="1565802797809">
-        <mark key="[" line="0" column="21" />
+      <file name="$USER_HOME$/orgpad/less/_color.less" timestamp="1565810113687">
+        <mark key="[" line="1" column="21" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
