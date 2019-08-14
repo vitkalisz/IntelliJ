@@ -33,7 +33,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_buttons.less" timestamp="1565804104433">
+      <file name="$USER_HOME$/orgpad/less/_buttons.less" timestamp="1565807171894">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="26" />
@@ -713,7 +713,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>#333</text>
+        <text>:wa</text>
       </register>
       <register name="0" type="4">
         <text>solid #333;</text>
@@ -754,12 +754,12 @@
       </register>
     </registers>
     <search>
-      <last-search>#333</last-search>
+      <last-search>:wa</last-search>
       <last-offset />
-      <last-pattern>#333</last-pattern>
+      <last-pattern>:wa</last-pattern>
       <last-replace>@border-color</last-replace>
       <last-substitute>#bbb</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -771,7 +771,6 @@
         <entry encoding="base64">XDxibGFja1w+</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry>^</entry>
-        <entry>:wa</entry>
         <entry>wa</entry>
         <entry encoding="base64">XiAgICA=</entry>
         <entry>^  (add-unit-styles!*</entry>
@@ -782,6 +781,7 @@
         <entry>#bbb</entry>
         <entry encoding="base64">XDxwcm9maWxlXD4=</entry>
         <entry>#333</entry>
+        <entry>:wa</entry>
       </history-search>
       <history-cmd>
         <entry>swa</entry>
