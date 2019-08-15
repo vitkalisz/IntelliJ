@@ -555,11 +555,11 @@
         <mark key="^" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_units.less" timestamp="1565876258871">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
+      <file name="$USER_HOME$/orgpad/less/_units.less" timestamp="1565883989706">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/views/mouse_events.cljs" timestamp="1560027194685">
         <mark key="[" line="31" column="82" />
@@ -821,8 +821,6 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL14vICAv</entry>
         <entry>wy</entry>
-        <entry>w</entry>
-        <entry>WA</entry>
         <entry encoding="base64">JzwsJz5zL14gIC8v</entry>
         <entry encoding="base64">JzwsJz5zL14gICAgLy8=</entry>
         <entry encoding="base64">JzwsJz5zL14gIChhZGQtdW5pdC1zdHlsZXMhKi9eICAoYWRkLWxpbmstc3R5bGVzISov</entry>
@@ -836,6 +834,8 @@
         <entry>s/#bbb/@border-color/g</entry>
         <entry>s/^  /ah/</entry>
         <entry>s/#bbb/@border-color/</entry>
+        <entry>w</entry>
+        <entry>WA</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
