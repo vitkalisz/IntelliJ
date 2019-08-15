@@ -436,8 +436,11 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/css.cljs" timestamp="1563032969029">
-        <mark key="[" line="88" column="17" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/css.cljs" timestamp="1565887032291">
+        <mark key="[" line="104" column="57" />
+        <mark key="]" line="47" column="57" />
+        <mark key="^" line="47" column="57" />
+        <mark key="." line="47" column="57" />
       </file>
       <file name="C:/Shared/orgpad/src/orgpad/client/subs/unit.cljs" timestamp="1560096421068">
         <mark key="[" line="142" column="6" />
@@ -476,11 +479,11 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1565722580354">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="93" />
-        <mark key="^" line="14" column="93" />
-        <mark key="." line="14" column="93" />
+      <file name="$USER_HOME$/orgpad/src/orgpad/client/views/units/page.cljs" timestamp="1565887129375">
+        <mark key="[" line="19" column="66" />
+        <mark key="]" line="18" column="65" />
+        <mark key="^" line="18" column="65" />
+        <mark key="." line="18" column="65" />
       </file>
       <file name="$USER_HOME$/orgpad/src/orgpad/client/views/style_box.cljs" timestamp="1565714882822">
         <mark key="[" line="39" column="32" />
@@ -632,8 +635,8 @@
         <mark key="^" line="6" column="48" />
         <mark key="." line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/orgpad/less/_color.less" timestamp="1565811791759">
-        <mark key="[" line="3" column="11" />
+      <file name="$USER_HOME$/orgpad/less/_color.less" timestamp="1565886986733">
+        <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
