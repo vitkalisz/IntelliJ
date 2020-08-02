@@ -1,13 +1,42 @@
 <keymap version="1" name="Default for GNOME copy 1" parent="Default for GNOME">
+  <action id=":cursive.actions.paredit/barf-forwards">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
   <action id=":cursive.actions.paredit/slurp-backwards">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id=":cursive.actions.paredit/slurp-forwards">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id=":cursive.actions.paredit/split">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id=":cursive.repl.actions/jump-to-repl">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id=":cursive.repl.actions/run-last-sexp">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id=":cursive.repl.actions/run-top-sexp">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="CheckinProject" />
+  <action id="Console.Execute.Multiline" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="Groovy.Shell.Execute" />
   <action id="InsertLiveTemplate" />
+  <action id="KotlinShellExecute" />
+  <action id="Replace" />
+  <action id="SaveAll" />
+  <action id="ShowSettings" />
+  <action id="SurroundWithLiveTemplate" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="ViewSource" />
 </keymap>
